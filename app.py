@@ -228,19 +228,15 @@ with tab3:
     st.markdown("<hr>", unsafe_allow_html=True)
     st.markdown("<h3 class='display'>What a missing value actually means</h3>", unsafe_allow_html=True)
     st.markdown("""
-    Two different situations look identical in a spreadsheet but mean opposite things,
-    and were handled differently on purpose:
+    For all five modeled crops, a missing value has one clear meaning: the county
+    genuinely doesn't grow that crop. Those gaps were filled with **0**, not left
+    blank — a blank would have silently dropped real rows from every chart and
+    model built on this data.
     """)
-    c1, c2 = st.columns(2)
-    with c1:
-        st.markdown("**Maize, Beans, Sorghum, Green Grams, Irish Potatoes**")
-        st.markdown("Missing = the county genuinely doesn't grow it → filled with **0**")
-    with c2:
-        st.markdown("**Tea, Coffee**")
-        st.markdown("Missing = the report simply doesn't cover that county-year → left as **NaN**, never filled")
     st.caption(
-        "Filling Coffee's gaps with 0 would have told the model 'zero coffee was produced' "
-        "in years the report just didn't record — a false signal, not a true one."
+        "This was a deliberate choice, not a default — a zero and 'no data recorded' "
+        "are different claims, and treating them the same would misrepresent counties "
+        "that simply don't farm a crop as counties with missing records."
     )
 
     st.markdown("<hr>", unsafe_allow_html=True)
