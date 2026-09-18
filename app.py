@@ -106,7 +106,7 @@ if wide is not None:
     st.markdown(
         f"<div class='stat-line'>{wide['county'].nunique()} counties &nbsp;·&nbsp; "
         f"{int(wide['year'].min())}–{int(wide['year'].max())} &nbsp;·&nbsp; "
-        f"7 crops tracked, 5 modeled &nbsp;·&nbsp; 5 algorithms tested</div>", unsafe_allow_html=True
+        f"5 crops modeled &nbsp;·&nbsp; 5 algorithms tested</div>", unsafe_allow_html=True
     )
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(
@@ -190,8 +190,6 @@ with tab2:
         {"Crop": "Sorghum", "Years": "2019–2024", "Counties": "43", "Metric": "Area + Production"},
         {"Crop": "Green Grams", "Years": "2019–2024", "Counties": "35", "Metric": "Area + Production"},
         {"Crop": "Irish Potatoes", "Years": "2019–2024", "Counties": "30", "Metric": "Area + Production"},
-        {"Crop": "Tea", "Years": "2019–2024", "Counties": "~15", "Metric": "Production only (no area extracted)"},
-        {"Crop": "Coffee", "Years": "3 crop-years only", "Counties": "~34", "Metric": "Area only (no production extracted)"},
     ])
     st.dataframe(coverage.set_index("Crop"), width='stretch')
     st.caption(
@@ -482,41 +480,41 @@ with tab6:
     )
     st.markdown("<hr>", unsafe_allow_html=True)
 
-    # ---------------------------------------------------------------------------
-    # Full comparison table across all five algorithms and five crops
-    # ---------------------------------------------------------------------------
     st.markdown("<h3 class='display'>All five algorithms, all five crops</h3>", unsafe_allow_html=True)
 
+    # Full regression metric suite used throughout this project: MAE, MSE, RMSE, R2, MAPE.
+    # Adjusted R2 is deliberately not shown as a column here — it came back undefined for
+    # every single row (see caption below); that's itself the key finding of round one.
     results = pd.DataFrame([
-        {"Crop": "Maize", "Model": "Linear Regression", "R2": 0.728, "MAE": 0.334},
-        {"Crop": "Maize", "Model": "Random Forest", "R2": 0.581, "MAE": 0.399},
-        {"Crop": "Maize", "Model": "XGBoost", "R2": 0.670, "MAE": 0.366},
-        {"Crop": "Maize", "Model": "Ridge", "R2": 0.754, "MAE": 0.305},
-        {"Crop": "Maize", "Model": "Lasso", "R2": 0.612, "MAE": 0.416},
+        {"Crop": "Maize", "Model": "Linear Regression", "MAE": 0.334, "MSE": 0.199, "RMSE": 0.446, "R2": 0.728, "MAPE": 24.4},
+        {"Crop": "Maize", "Model": "Random Forest", "MAE": 0.399, "MSE": 0.306, "RMSE": 0.553, "R2": 0.581, "MAPE": 32.8},
+        {"Crop": "Maize", "Model": "XGBoost", "MAE": 0.366, "MSE": 0.241, "RMSE": 0.491, "R2": 0.670, "MAPE": 27.8},
+        {"Crop": "Maize", "Model": "Ridge", "MAE": 0.305, "MSE": 0.180, "RMSE": 0.424, "R2": 0.754, "MAPE": 23.3},
+        {"Crop": "Maize", "Model": "Lasso", "MAE": 0.416, "MSE": 0.283, "RMSE": 0.532, "R2": 0.612, "MAPE": 38.1},
 
-        {"Crop": "Beans", "Model": "Linear Regression", "R2": -1.042, "MAE": 0.284},
-        {"Crop": "Beans", "Model": "Random Forest", "R2": -0.474, "MAE": 0.265},
-        {"Crop": "Beans", "Model": "XGBoost", "R2": -0.689, "MAE": 0.276},
-        {"Crop": "Beans", "Model": "Ridge", "R2": -0.907, "MAE": 0.281},
-        {"Crop": "Beans", "Model": "Lasso", "R2": -0.456, "MAE": 0.281},
+        {"Crop": "Beans", "Model": "Linear Regression", "MAE": 0.284, "MSE": 0.212, "RMSE": 0.460, "R2": -1.042, "MAPE": 40.5},
+        {"Crop": "Beans", "Model": "Random Forest", "MAE": 0.265, "MSE": 0.153, "RMSE": 0.391, "R2": -0.474, "MAPE": 39.1},
+        {"Crop": "Beans", "Model": "XGBoost", "MAE": 0.276, "MSE": 0.175, "RMSE": 0.419, "R2": -0.689, "MAPE": 45.8},
+        {"Crop": "Beans", "Model": "Ridge", "MAE": 0.281, "MSE": 0.198, "RMSE": 0.445, "R2": -0.907, "MAPE": 41.0},
+        {"Crop": "Beans", "Model": "Lasso", "MAE": 0.281, "MSE": 0.151, "RMSE": 0.389, "R2": -0.456, "MAPE": 43.3},
 
-        {"Crop": "Sorghum", "Model": "Linear Regression", "R2": 0.070, "MAE": 0.394},
-        {"Crop": "Sorghum", "Model": "Random Forest", "R2": 0.054, "MAE": 0.388},
-        {"Crop": "Sorghum", "Model": "XGBoost", "R2": -0.082, "MAE": 0.414},
-        {"Crop": "Sorghum", "Model": "Ridge", "R2": 0.095, "MAE": 0.374},
-        {"Crop": "Sorghum", "Model": "Lasso", "R2": 0.063, "MAE": 0.412},
+        {"Crop": "Sorghum", "Model": "Linear Regression", "MAE": 0.394, "MSE": 0.311, "RMSE": 0.558, "R2": 0.070, "MAPE": 43.8},
+        {"Crop": "Sorghum", "Model": "Random Forest", "MAE": 0.388, "MSE": 0.316, "RMSE": 0.562, "R2": 0.054, "MAPE": 48.0},
+        {"Crop": "Sorghum", "Model": "XGBoost", "MAE": 0.414, "MSE": 0.362, "RMSE": 0.601, "R2": -0.082, "MAPE": 49.9},
+        {"Crop": "Sorghum", "Model": "Ridge", "MAE": 0.374, "MSE": 0.303, "RMSE": 0.550, "R2": 0.095, "MAPE": 41.0},
+        {"Crop": "Sorghum", "Model": "Lasso", "MAE": 0.412, "MSE": 0.314, "RMSE": 0.560, "R2": 0.063, "MAPE": 50.8},
 
-        {"Crop": "Green Grams", "Model": "Linear Regression", "R2": -0.074, "MAE": 0.164},
-        {"Crop": "Green Grams", "Model": "Random Forest", "R2": 0.031, "MAE": 0.165},
-        {"Crop": "Green Grams", "Model": "XGBoost", "R2": -0.075, "MAE": 0.186},
-        {"Crop": "Green Grams", "Model": "Ridge", "R2": -0.032, "MAE": 0.167},
-        {"Crop": "Green Grams", "Model": "Lasso", "R2": -0.118, "MAE": 0.177},
+        {"Crop": "Green Grams", "Model": "Linear Regression", "MAE": 0.164, "MSE": 0.056, "RMSE": 0.236, "R2": -0.074, "MAPE": 26.5},
+        {"Crop": "Green Grams", "Model": "Random Forest", "MAE": 0.165, "MSE": 0.050, "RMSE": 0.224, "R2": 0.031, "MAPE": 23.3},
+        {"Crop": "Green Grams", "Model": "XGBoost", "MAE": 0.186, "MSE": 0.056, "RMSE": 0.236, "R2": -0.075, "MAPE": 26.4},
+        {"Crop": "Green Grams", "Model": "Ridge", "MAE": 0.167, "MSE": 0.053, "RMSE": 0.231, "R2": -0.032, "MAPE": 25.7},
+        {"Crop": "Green Grams", "Model": "Lasso", "MAE": 0.177, "MSE": 0.058, "RMSE": 0.241, "R2": -0.118, "MAPE": 25.3},
 
-        {"Crop": "Irish Potatoes", "Model": "Linear Regression", "R2": 0.389, "MAE": 1.562},
-        {"Crop": "Irish Potatoes", "Model": "Random Forest", "R2": 0.107, "MAE": 1.863},
-        {"Crop": "Irish Potatoes", "Model": "XGBoost", "R2": 0.044, "MAE": 1.911},
-        {"Crop": "Irish Potatoes", "Model": "Ridge", "R2": 0.403, "MAE": 1.574},
-        {"Crop": "Irish Potatoes", "Model": "Lasso", "R2": 0.411, "MAE": 1.594},
+        {"Crop": "Irish Potatoes", "Model": "Linear Regression", "MAE": 1.562, "MSE": 4.111, "RMSE": 2.028, "R2": 0.389, "MAPE": 22.3},
+        {"Crop": "Irish Potatoes", "Model": "Random Forest", "MAE": 1.863, "MSE": 6.007, "RMSE": 2.451, "R2": 0.107, "MAPE": 28.6},
+        {"Crop": "Irish Potatoes", "Model": "XGBoost", "MAE": 1.911, "MSE": 6.431, "RMSE": 2.536, "R2": 0.044, "MAPE": 29.5},
+        {"Crop": "Irish Potatoes", "Model": "Ridge", "MAE": 1.574, "MSE": 4.016, "RMSE": 2.004, "R2": 0.403, "MAPE": 22.5},
+        {"Crop": "Irish Potatoes", "Model": "Lasso", "MAE": 1.594, "MSE": 3.964, "RMSE": 1.991, "R2": 0.411, "MAPE": 23.1},
     ])
 
     crop_pick = st.selectbox("Crop", results["Crop"].unique(), key="perf_crop")
@@ -524,7 +522,15 @@ with tab6:
 
     c1, c2 = st.columns([1, 1], gap="large")
     with c1:
-        st.dataframe(subset.set_index("Model")[["R2", "MAE"]], width='stretch')
+        metric_cols = ["MAE", "MSE", "RMSE", "R2", "MAPE"]
+        display_df = subset.set_index("Model")[metric_cols].rename(columns={"R2": "R²", "MAPE": "MAPE (%)"})
+        st.dataframe(display_df, width='stretch')
+        st.caption(
+            "Adjusted R² is not shown as a column — it came back undefined for every "
+            "model and crop tested. With ~50 features and as few as 28 validation rows, "
+            "the formula's guard condition fails. This is exactly what led to testing "
+            "Ridge and Lasso."
+        )
     with c2:
         fig, ax = plt.subplots(figsize=(5, 3.5))
         colors = ["#3F6B3F" if v >= 0.3 else ("#C97C3D" if v >= 0 else "#8B3A3A") for v in subset["R2"]]
@@ -542,72 +548,66 @@ with tab6:
 
     st.markdown("<hr>", unsafe_allow_html=True)
 
-    # ---------------------------------------------------------------------------
-    # Why Linear Regression beat the tree-based models
-    # ---------------------------------------------------------------------------
     st.markdown("<h3 class='display'>Why the simplest model often won</h3>", unsafe_allow_html=True)
     st.markdown("""
-    Linear Regression outperformed Random Forest and XGBoost on 3 of 5 crops — unusual,
-    since tree-based ensembles typically outperform linear models on real-world data.
-    The cause: **Adjusted R² returned undefined for every single crop and model**, because
-    the number of features (~50, mostly one-hot encoded counties) was close to or exceeded
-    the number of validation rows (28–47 per crop, depending on how many counties grow it).
-    Tree-based models have more capacity to fit noise under these conditions than a
-    constrained linear model does — so their extra flexibility became a liability, not
-    an advantage.
-    """)
+Linear Regression outperformed Random Forest and XGBoost on 3 of 5 crops — unusual,
+since tree-based ensembles typically outperform linear models on real-world data.
+The cause: **Adjusted R² returned undefined for every single crop and model**, because
+the number of features (~50, mostly one-hot encoded counties) was close to or exceeded
+the number of validation rows (28–47 per crop, depending on how many counties grow it).
+Tree-based models have more capacity to fit noise under these conditions than a
+constrained linear model does — so their extra flexibility became a liability, not
+an advantage.
+""")
 
     st.markdown("<h3 class='display'>Did regularization fix it?</h3>", unsafe_allow_html=True)
     st.markdown("""
-    Ridge and Lasso — linear models built specifically to counteract this kind of
-    overfitting — were tested next. **Maize, sorghum, and Irish potatoes all improved**
-    under Ridge, confirming real signal existed that the unconstrained model had been
-    overfitting away. **Beans got worse, and green grams stayed flat.** That's the more
-    important result: it rules out overfitting as the *whole* explanation for these two
-    crops.
-    """)
+Ridge and Lasso — linear models built specifically to counteract this kind of
+overfitting — were tested next. **Maize, sorghum, and Irish potatoes all improved**
+under Ridge, confirming real signal existed that the unconstrained model had been
+overfitting away. **Beans got worse, and green grams stayed flat.** That's the more
+important result: it rules out overfitting as the *whole* explanation for these two
+crops.
+""")
 
     st.markdown("<h3 class='display'>Direct evidence — Lasso's coefficients on beans</h3>", unsafe_allow_html=True)
     st.markdown("""
-    Lasso can shrink a feature's weight to exactly zero. Fit on beans, it kept
-    **exactly one feature out of roughly 50** — a single county effect (`county_Kwale`,
-    coefficient 0.22) — and zeroed out every other feature, including rainfall,
-    temperature, area, and soil pH entirely. This is concrete evidence that beans'
-    yield has no meaningful relationship with any current feature, not a weak one
-    obscured by noise.
-    """)
+Lasso can shrink a feature's weight to exactly zero. Fit on beans, it kept
+**exactly one feature out of roughly 50** — a single county effect (`county_Kwale`,
+coefficient 0.22) — and zeroed out every other feature, including rainfall,
+temperature, area, and soil pH entirely. This is concrete evidence that beans'
+yield has no meaningful relationship with any current feature, not a weak one
+obscured by noise.
+""")
 
     st.markdown("<hr>", unsafe_allow_html=True)
 
-    # ---------------------------------------------------------------------------
-    # Final selection and scope
-    # ---------------------------------------------------------------------------
     st.markdown("<h3 class='display'>Model selected: Ridge, per crop</h3>", unsafe_allow_html=True)
     st.markdown("""
-    Ridge was chosen over the other four because it directly targets the diagnosed
-    problem, it improved results wherever real signal existed, and it outperformed
-    both tree-based models — which overfit harder given how few rows each crop has.
-    It was chosen over Lasso specifically because Lasso's more aggressive elimination
-    occasionally discarded features with real, if modest, predictive value — visible
-    in Lasso trailing Ridge on both maize and sorghum.
-    """)
+Ridge was chosen over the other four because it directly targets the diagnosed
+problem, it improved results wherever real signal existed, and it outperformed
+both tree-based models — which overfit harder given how few rows each crop has.
+It was chosen over Lasso specifically because Lasso's more aggressive elimination
+occasionally discarded features with real, if modest, predictive value — visible
+in Lasso trailing Ridge on both maize and sorghum.
+""")
 
     scope = pd.DataFrame([
         {"Crop": "Maize", "Status": "Served live"},
         {"Crop": "Sorghum", "Status": "Served live, flagged as weaker"},
         {"Crop": "Irish Potatoes", "Status": "Served live"},
-        {"Crop": "Beans", "Status": "Excluded / low-confidence only"},
-        {"Crop": "Green Grams", "Status": "Excluded / low-confidence only"},
+        {"Crop": "Beans", "Status": "Excluded — no algorithm reached usable accuracy"},
+        {"Crop": "Green Grams", "Status": "Excluded — no algorithm reached usable accuracy"},
     ])
     st.dataframe(scope.set_index("Crop"), width='stretch')
 
     st.markdown("""
-    **What would improve this next:** real fertilizer and irrigation data — a gap
-    identified at the very start of this project and never filled, since no
-    consistent county-level time series exists for either in Kenya's public data.
-    Tuning Ridge's penalty strength via cross-validation, rather than the fixed
-    value used here, is the other concrete next step.
-    """)
+**What would improve this next:** real fertilizer and irrigation data — a gap
+identified at the very start of this project and never filled, since no
+consistent county-level time series exists for either in Kenya's public data.
+Tuning Ridge's penalty strength via cross-validation, rather than the fixed
+value used here, is the other concrete next step.
+""")
 
     st.caption(
         "Metrics computed on the 2023 validation year, time-based split (train ≤2022). "
@@ -623,12 +623,14 @@ with tab7:
         st.stop()
 
     st.markdown(
-        "Maize, sorghum, and Irish potatoes have models that reach meaningful accuracy "
-        "(R² of 0.10 to 0.75, confirmed across five algorithms — see Model Performance). "
-        "Beans and green grams are shown too, but flagged — no algorithm tested reached "
-        "usable accuracy for either, and that has a concrete cause, not a mysterious one."
+        "Only crops whose model reached meaningful accuracy are offered here — Maize, "
+        "Sorghum, and Irish Potatoes (R² of 0.10 to 0.75, confirmed across five algorithms, "
+        "see Model Performance). Beans and Green Grams are excluded entirely: tested "
+        "directly, not assumed — no algorithm reached usable accuracy for either."
     )
     st.markdown("<hr>", unsafe_allow_html=True)
+
+    PREDICT_CROPS = ["maize", "sorghum", "irish_potatoes"]
 
     step1, step2 = st.columns(2)
     with step1:
@@ -638,10 +640,10 @@ with tab7:
         st.markdown("**2. Crop**")
         crop_display = st.selectbox(
             "Crop",
-            [CROP_LABELS[c] + (" — low confidence" if c in LOW_CONFIDENCE_CROPS else "") for c in CROP_LABELS],
+            [CROP_LABELS[c] for c in PREDICT_CROPS],
             label_visibility="collapsed"
         )
-        crop = [c for c, label in CROP_LABELS.items() if crop_display.startswith(label)][0]
+        crop = [c for c in PREDICT_CROPS if CROP_LABELS[c] == crop_display][0]
 
     county_rows = wide[wide["county"] == county]
     default_rain = county_rows["rainfall_mm"].mean() if "rainfall_mm" in wide.columns else 900.0
@@ -695,11 +697,6 @@ with tab7:
                     unsafe_allow_html=True
                 )
                 st.caption(f"Predicted {CROP_LABELS[crop]} yield, {county}")
-                if crop in LOW_CONFIDENCE_CROPS:
-                    st.markdown(
-                        "<span class='crop-flag flag-caution'>Low confidence — treat as indicative only</span>",
-                        unsafe_allow_html=True
-                    )
             with r2:
                 st.markdown("**What drove this number**")
                 coefs = pd.Series(model.coef_, index=feature_names) if feature_names is not None else None
