@@ -1,0 +1,209 @@
+county,year,crop,area_ha,production_tons
+Baringo,2019,green_grams,684.0,494.0
+Baringo,2020,green_grams,1055.0,980.0
+Baringo,2021,green_grams,659.0,732.0
+Baringo,2022,green_grams,739.0,530.0
+Baringo,2023,green_grams,751.0,901.0
+Baringo,2024,green_grams,1647.0,1733.0
+Bungoma,2019,green_grams,222.0,243.0
+Bungoma,2020,green_grams,349.0,339.0
+Bungoma,2021,green_grams,250.0,258.0
+Bungoma,2022,green_grams,165.0,84.0
+Bungoma,2023,green_grams,237.0,135.0
+Bungoma,2024,green_grams,171.0,194.0
+Busia,2019,green_grams,245.0,146.0
+Busia,2020,green_grams,228.0,97.0
+Busia,2021,green_grams,209.0,90.0
+Busia,2022,green_grams,219.0,107.0
+Busia,2023,green_grams,225.0,104.0
+Busia,2024,green_grams,234.0,116.0
+Elgeyo Marakwet,2020,green_grams,743.0,320.0
+Elgeyo Marakwet,2021,green_grams,644.0,254.0
+Elgeyo Marakwet,2022,green_grams,581.0,196.0
+Elgeyo Marakwet,2023,green_grams,703.0,413.0
+Elgeyo Marakwet,2024,green_grams,258.0,237.0
+Embu,2019,green_grams,12008.0,5622.0
+Embu,2020,green_grams,12248.0,7552.0
+Embu,2021,green_grams,11537.0,4634.0
+Embu,2022,green_grams,11667.0,4710.0
+Embu,2023,green_grams,12042.0,6025.0
+Embu,2024,green_grams,12707.0,5071.0
+Garissa,2019,green_grams,82.0,61.0
+Garissa,2020,green_grams,18.0,27.0
+Garissa,2021,green_grams,28.0,37.0
+Garissa,2022,green_grams,21.0,23.0
+Garissa,2023,green_grams,77.0,34.0
+Garissa,2024,green_grams,123.0,88.0
+Homa Bay,2019,green_grams,667.0,426.0
+Homa Bay,2020,green_grams,738.0,518.0
+Homa Bay,2021,green_grams,603.0,675.0
+Homa Bay,2022,green_grams,612.0,574.0
+Homa Bay,2023,green_grams,936.0,885.0
+Homa Bay,2024,green_grams,887.0,737.0
+Isiolo,2019,green_grams,115.0,44.0
+Isiolo,2020,green_grams,16.0,9.0
+Isiolo,2021,green_grams,44.0,17.0
+Isiolo,2022,green_grams,22.0,18.0
+Isiolo,2023,green_grams,47.0,27.0
+Isiolo,2024,green_grams,28.0,30.0
+Kajiado,2019,green_grams,134.0,67.0
+Kajiado,2020,green_grams,39.0,28.0
+Kajiado,2021,green_grams,20.0,28.0
+Kajiado,2022,green_grams,38.0,18.0
+Kajiado,2023,green_grams,87.0,48.0
+Kajiado,2024,green_grams,93.0,62.0
+Kakamega,2019,green_grams,2.0,1.0
+Kakamega,2020,green_grams,4.0,2.0
+Kakamega,2021,green_grams,69.0,8.0
+Kakamega,2022,green_grams,110.0,41.0
+Kakamega,2023,green_grams,30.0,22.0
+Kakamega,2024,green_grams,81.0,30.0
+Kiambu,2019,green_grams,22.0,17.0
+Kiambu,2020,green_grams,16.0,16.0
+Kiambu,2021,green_grams,16.0,14.0
+Kiambu,2022,green_grams,16.0,8.0
+Kiambu,2023,green_grams,20.0,13.0
+Kiambu,2024,green_grams,16.0,9.0
+Kilifi,2019,green_grams,5857.0,2890.0
+Kilifi,2020,green_grams,7819.0,2581.0
+Kilifi,2021,green_grams,9307.0,1910.0
+Kilifi,2022,green_grams,8046.0,2111.0
+Kilifi,2023,green_grams,9260.0,2778.0
+Kilifi,2024,green_grams,3201.0,1071.0
+Kirinyaga,2019,green_grams,281.0,110.0
+Kirinyaga,2020,green_grams,202.0,53.0
+Kirinyaga,2021,green_grams,162.0,29.0
+Kirinyaga,2022,green_grams,121.0,10.0
+Kirinyaga,2023,green_grams,210.0,162.0
+Kirinyaga,2024,green_grams,117.0,15.0
+Kisumu,2019,green_grams,4632.0,2274.0
+Kisumu,2020,green_grams,3890.0,2497.0
+Kisumu,2021,green_grams,3990.0,1697.0
+Kisumu,2022,green_grams,4155.0,2129.0
+Kisumu,2023,green_grams,4220.0,2827.0
+Kisumu,2024,green_grams,4382.0,2924.0
+Kitui,2019,green_grams,122902.0,86323.0
+Kitui,2020,green_grams,93851.0,87448.0
+Kitui,2021,green_grams,94415.0,31691.0
+Kitui,2022,green_grams,94836.0,43625.0
+Kitui,2023,green_grams,113479.0,79435.0
+Kitui,2024,green_grams,96623.0,25780.0
+Kwale,2019,green_grams,6525.0,1737.0
+Kwale,2020,green_grams,6777.0,2396.0
+Kwale,2021,green_grams,6028.0,3052.0
+Kwale,2022,green_grams,6472.0,3132.0
+Kwale,2023,green_grams,6539.0,3335.0
+Kwale,2024,green_grams,9668.0,5364.0
+Lamu,2019,green_grams,9760.0,9760.0
+Lamu,2020,green_grams,9383.0,7882.0
+Lamu,2021,green_grams,6450.0,2395.0
+Lamu,2022,green_grams,8796.0,7477.0
+Lamu,2023,green_grams,10555.0,10027.0
+Lamu,2024,green_grams,16150.0,14842.0
+Machakos,2019,green_grams,20597.0,8771.0
+Machakos,2020,green_grams,19612.0,10522.0
+Machakos,2021,green_grams,20245.0,9352.0
+Machakos,2022,green_grams,16571.0,8664.0
+Machakos,2023,green_grams,24280.0,11265.0
+Machakos,2024,green_grams,26674.0,7021.0
+Makueni,2019,green_grams,76436.0,50009.0
+Makueni,2020,green_grams,80286.0,58625.0
+Makueni,2021,green_grams,69955.0,42610.0
+Makueni,2022,green_grams,75559.0,26446.0
+Makueni,2023,green_grams,76212.0,39903.0
+Makueni,2024,green_grams,72720.0,26777.0
+Mandera,2019,green_grams,86.0,41.0
+Mandera,2020,green_grams,87.0,71.0
+Mandera,2021,green_grams,94.0,28.0
+Mandera,2022,green_grams,118.0,86.0
+Mandera,2023,green_grams,94.0,91.0
+Mandera,2024,green_grams,155.0,141.0
+Marsabit,2019,green_grams,95.0,16.0
+Marsabit,2020,green_grams,77.0,17.0
+Marsabit,2021,green_grams,91.0,11.0
+Marsabit,2022,green_grams,91.0,4.0
+Marsabit,2023,green_grams,146.0,78.0
+Marsabit,2024,green_grams,182.0,39.0
+Meru,2019,green_grams,5907.0,2191.0
+Meru,2020,green_grams,7570.0,6054.0
+Meru,2021,green_grams,8017.0,4454.0
+Meru,2022,green_grams,5138.0,4233.0
+Meru,2023,green_grams,13561.0,7323.0
+Meru,2024,green_grams,13940.0,7600.0
+Migori,2019,green_grams,1220.0,893.0
+Migori,2020,green_grams,294.0,199.0
+Migori,2021,green_grams,259.0,130.0
+Migori,2022,green_grams,168.0,130.0
+Migori,2023,green_grams,221.0,213.0
+Migori,2024,green_grams,277.0,236.0
+Mombasa,2019,green_grams,45.0,24.0
+Mombasa,2020,green_grams,46.0,33.0
+Mombasa,2021,green_grams,58.0,7.0
+Mombasa,2022,green_grams,50.0,10.0
+Mombasa,2023,green_grams,57.0,39.0
+Mombasa,2024,green_grams,53.0,33.0
+Murang'a,2019,green_grams,166.0,64.0
+Murang'a,2020,green_grams,164.0,92.0
+Murang'a,2021,green_grams,177.0,113.0
+Murang'a,2022,green_grams,350.0,187.0
+Murang'a,2023,green_grams,175.0,97.0
+Murang'a,2024,green_grams,163.0,86.0
+Nairobi,2019,green_grams,5.0,4.0
+Nairobi,2020,green_grams,9.0,11.0
+Nairobi,2021,green_grams,5.0,4.0
+Nairobi,2022,green_grams,6.0,3.0
+Nairobi,2023,green_grams,4.0,3.0
+Nairobi,2024,green_grams,8.0,5.0
+Nakuru,2019,green_grams,0.0,0.0
+Nakuru,2020,green_grams,0.0,0.0
+Nakuru,2021,green_grams,0.0,0.0
+Nakuru,2022,green_grams,0.0,0.0
+Nakuru,2023,green_grams,100.0,104.0
+Nakuru,2024,green_grams,8.0,10.0
+Samburu,2019,green_grams,15.0,3.0
+Samburu,2020,green_grams,10.0,2.0
+Samburu,2021,green_grams,8.0,2.0
+Samburu,2022,green_grams,9.0,3.0
+Samburu,2023,green_grams,10.0,4.0
+Samburu,2024,green_grams,8.0,3.0
+Siaya,2019,green_grams,673.0,429.0
+Siaya,2020,green_grams,669.0,360.0
+Siaya,2021,green_grams,773.0,255.0
+Siaya,2022,green_grams,665.0,194.0
+Siaya,2023,green_grams,695.0,334.0
+Siaya,2024,green_grams,615.0,315.0
+Taita Taveta,2019,green_grams,3037.0,2803.0
+Taita Taveta,2020,green_grams,3527.0,3462.0
+Taita Taveta,2021,green_grams,2942.0,3043.0
+Taita Taveta,2022,green_grams,2954.0,1329.0
+Taita Taveta,2023,green_grams,3305.0,2280.0
+Taita Taveta,2024,green_grams,8243.0,2791.0
+Tana River,2019,green_grams,1453.0,1368.0
+Tana River,2020,green_grams,1220.0,1391.0
+Tana River,2021,green_grams,1260.0,1260.0
+Tana River,2022,green_grams,1268.0,1522.0
+Tana River,2023,green_grams,1300.0,1690.0
+Tana River,2024,green_grams,2897.0,3645.0
+Tharaka Nithi,2020,green_grams,29677.0,14296.0
+Tharaka Nithi,2021,green_grams,31009.0,12172.0
+Tharaka Nithi,2022,green_grams,13630.0,3271.0
+Tharaka Nithi,2023,green_grams,28340.0,11336.0
+Tharaka Nithi,2024,green_grams,27722.0,9749.0
+Trans Nzoia,2019,green_grams,0.0,0.0
+Trans Nzoia,2020,green_grams,0.0,0.0
+Trans Nzoia,2021,green_grams,0.0,0.0
+Trans Nzoia,2022,green_grams,0.0,0.0
+Trans Nzoia,2023,green_grams,53.0,44.0
+Trans Nzoia,2024,green_grams,53.0,44.0
+Turkana,2019,green_grams,148.0,151.0
+Turkana,2020,green_grams,4.0,4.0
+Turkana,2021,green_grams,0.0,0.0
+Turkana,2022,green_grams,190.0,47.0
+Turkana,2023,green_grams,292.0,204.0
+Turkana,2024,green_grams,55.0,28.0
+West Pokot,2019,green_grams,175.0,108.0
+West Pokot,2020,green_grams,90.0,57.0
+West Pokot,2021,green_grams,123.0,69.0
+West Pokot,2022,green_grams,81.0,41.0
+West Pokot,2023,green_grams,125.0,81.0
+West Pokot,2024,green_grams,699.0,394.0

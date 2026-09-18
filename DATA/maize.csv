@@ -1,0 +1,283 @@
+county,year,crop,area_ha,production_tons
+Baringo,2019,maize,45171.0,70810.0
+Baringo,2020,maize,47437.0,68374.0
+Baringo,2021,maize,34709.0,59169.0
+Baringo,2022,maize,37894.0,50820.0
+Baringo,2023,maize,42501.0,94877.0
+Baringo,2024,maize,47457.0,83958.0
+Bomet,2019,maize,34476.0,74728.0
+Bomet,2020,maize,42763.0,73610.0
+Bomet,2021,maize,40480.0,58685.0
+Bomet,2022,maize,27597.0,43287.0
+Bomet,2023,maize,27250.0,63230.0
+Bomet,2024,maize,33491.0,52714.0
+Bungoma,2019,maize,94635.0,315711.0
+Bungoma,2020,maize,87960.0,317912.0
+Bungoma,2021,maize,93214.0,269443.0
+Bungoma,2022,maize,92464.0,275420.0
+Bungoma,2023,maize,92847.0,222912.0
+Bungoma,2024,maize,90297.0,207846.0
+Busia,2019,maize,61850.0,67445.0
+Busia,2020,maize,48150.0,69450.0
+Busia,2021,maize,33810.0,42028.0
+Busia,2022,maize,42476.0,64360.0
+Busia,2023,maize,44097.0,71237.0
+Busia,2024,maize,44204.0,77934.0
+Elgeyo Marakwet,2019,maize,31779.0,104487.0
+Elgeyo Marakwet,2020,maize,25856.0,87431.0
+Elgeyo Marakwet,2021,maize,31351.0,86007.0
+Elgeyo Marakwet,2022,maize,31713.0,72330.0
+Elgeyo Marakwet,2023,maize,43133.0,150221.0
+Elgeyo Marakwet,2024,maize,42182.0,117786.0
+Embu,2019,maize,34100.0,28368.0
+Embu,2020,maize,35130.0,34650.0
+Embu,2021,maize,35925.0,31378.0
+Embu,2022,maize,34506.0,10077.0
+Embu,2023,maize,34500.0,41327.0
+Embu,2024,maize,34750.0,25659.0
+Garissa,2019,maize,150.0,109.0
+Garissa,2020,maize,238.0,296.0
+Garissa,2021,maize,145.0,71.0
+Garissa,2022,maize,107.0,70.0
+Garissa,2023,maize,142.0,132.0
+Garissa,2024,maize,222.0,382.0
+Homa Bay,2019,maize,72793.0,102742.0
+Homa Bay,2020,maize,72097.0,92394.0
+Homa Bay,2021,maize,79608.0,82278.0
+Homa Bay,2022,maize,72215.0,86658.0
+Homa Bay,2023,maize,78795.0,115635.0
+Homa Bay,2024,maize,89172.0,146866.0
+Isiolo,2019,maize,530.0,749.0
+Isiolo,2020,maize,586.0,42.0
+Isiolo,2021,maize,147.0,139.0
+Isiolo,2022,maize,129.0,94.0
+Isiolo,2023,maize,256.0,176.0
+Isiolo,2024,maize,288.0,576.0
+Kajiado,2019,maize,17511.0,16189.0
+Kajiado,2020,maize,31384.0,15543.0
+Kajiado,2021,maize,4808.0,2864.0
+Kajiado,2022,maize,32159.0,13063.0
+Kajiado,2023,maize,33241.0,40733.0
+Kajiado,2024,maize,21906.0,40573.0
+Kakamega,2019,maize,95390.0,259003.0
+Kakamega,2020,maize,83773.0,226888.0
+Kakamega,2021,maize,98415.0,262506.0
+Kakamega,2022,maize,100641.0,154369.0
+Kakamega,2023,maize,87532.0,132572.0
+Kakamega,2024,maize,105181.0,212753.0
+Kericho,2019,maize,32050.0,85815.0
+Kericho,2020,maize,34397.0,92731.0
+Kericho,2021,maize,35068.0,98746.0
+Kericho,2022,maize,40530.0,85975.0
+Kericho,2023,maize,40643.0,111130.0
+Kericho,2024,maize,43908.0,134358.0
+Kiambu,2019,maize,31447.0,83239.0
+Kiambu,2020,maize,31528.0,43259.0
+Kiambu,2021,maize,30371.0,25563.0
+Kiambu,2022,maize,29174.0,19655.0
+Kiambu,2023,maize,30537.0,29692.0
+Kiambu,2024,maize,33534.0,39471.0
+Kilifi,2019,maize,72499.0,45769.0
+Kilifi,2020,maize,71782.0,44585.0
+Kilifi,2021,maize,53943.0,26176.0
+Kilifi,2022,maize,72748.0,47780.0
+Kilifi,2023,maize,95674.0,81813.0
+Kilifi,2024,maize,51393.0,41907.0
+Kirinyaga,2019,maize,30406.0,45036.0
+Kirinyaga,2020,maize,30505.0,40281.0
+Kirinyaga,2021,maize,30373.0,24388.0
+Kirinyaga,2022,maize,30503.0,13547.0
+Kirinyaga,2023,maize,38467.0,49692.0
+Kirinyaga,2024,maize,28228.0,38468.0
+Kisii,2019,maize,66625.0,144480.0
+Kisii,2020,maize,67286.0,132790.0
+Kisii,2021,maize,65876.0,96249.0
+Kisii,2022,maize,43735.0,79671.0
+Kisii,2023,maize,66221.0,119244.0
+Kisii,2024,maize,65900.0,41087.0
+Kisumu,2019,maize,50228.0,69956.0
+Kisumu,2020,maize,46307.0,67307.0
+Kisumu,2021,maize,62600.0,40990.0
+Kisumu,2022,maize,54125.0,34513.0
+Kisumu,2023,maize,62195.0,105003.0
+Kisumu,2024,maize,48400.0,58657.0
+Kitui,2019,maize,76901.0,98046.0
+Kitui,2020,maize,87252.0,27960.0
+Kitui,2021,maize,79035.0,11508.0
+Kitui,2022,maize,62987.0,9183.0
+Kitui,2023,maize,83618.0,36292.0
+Kitui,2024,maize,89423.0,17845.0
+Kwale,2019,maize,65500.0,35485.0
+Kwale,2020,maize,56576.0,34061.0
+Kwale,2021,maize,56128.0,33815.0
+Kwale,2022,maize,23200.0,45428.0
+Kwale,2023,maize,60518.0,61037.0
+Kwale,2024,maize,58116.0,44127.0
+Laikipia,2019,maize,25260.0,44843.0
+Laikipia,2020,maize,26470.0,39422.0
+Laikipia,2021,maize,24932.0,34520.0
+Laikipia,2022,maize,25055.0,7288.0
+Laikipia,2023,maize,29596.0,44264.0
+Laikipia,2024,maize,29240.0,51372.0
+Lamu,2019,maize,29350.0,53232.0
+Lamu,2020,maize,37500.0,28325.0
+Lamu,2021,maize,16820.0,4772.0
+Lamu,2022,maize,39502.0,59102.0
+Lamu,2023,maize,45800.0,74318.0
+Lamu,2024,maize,23154.0,48436.0
+Machakos,2019,maize,125358.0,92034.0
+Machakos,2020,maize,133795.0,40927.0
+Machakos,2021,maize,144201.0,59321.0
+Machakos,2022,maize,134048.0,22597.0
+Machakos,2023,maize,138830.0,175493.0
+Machakos,2024,maize,158761.0,91910.0
+Makueni,2019,maize,139024.0,109434.0
+Makueni,2020,maize,146562.0,120000.0
+Makueni,2021,maize,150726.0,88013.0
+Makueni,2022,maize,132910.0,83018.0
+Makueni,2023,maize,136912.0,81363.0
+Makueni,2024,maize,155337.0,83506.0
+Mandera,2019,maize,3071.0,964.0
+Mandera,2020,maize,3708.0,1847.0
+Mandera,2021,maize,3510.0,1818.0
+Mandera,2022,maize,3209.0,2160.0
+Mandera,2023,maize,3209.0,2738.0
+Mandera,2024,maize,2828.0,3113.0
+Marsabit,2019,maize,998.0,402.0
+Marsabit,2020,maize,1023.0,293.0
+Marsabit,2021,maize,658.0,46.0
+Marsabit,2022,maize,591.0,3.0
+Marsabit,2023,maize,2184.0,337.0
+Marsabit,2024,maize,1830.0,1089.0
+Meru,2019,maize,74577.0,96249.0
+Meru,2020,maize,67416.0,74757.0
+Meru,2021,maize,75058.0,53331.0
+Meru,2022,maize,66338.0,63157.0
+Meru,2023,maize,142379.0,151039.0
+Meru,2024,maize,136082.0,133150.0
+Migori,2019,maize,80745.0,103965.0
+Migori,2020,maize,78222.0,95966.0
+Migori,2021,maize,95034.0,99598.0
+Migori,2022,maize,85628.0,92441.0
+Migori,2023,maize,78567.0,101474.0
+Migori,2024,maize,88449.0,148919.0
+Mombasa,2019,maize,481.0,259.0
+Mombasa,2020,maize,606.0,803.0
+Mombasa,2021,maize,649.0,0.0
+Mombasa,2022,maize,842.0,272.0
+Mombasa,2023,maize,876.0,878.0
+Mombasa,2024,maize,867.0,770.0
+Murang'a,2019,maize,68329.0,74087.0
+Murang'a,2020,maize,66381.0,63653.0
+Murang'a,2021,maize,62983.0,49256.0
+Murang'a,2022,maize,67530.0,47434.0
+Murang'a,2023,maize,68399.0,56827.0
+Murang'a,2024,maize,54189.0,55488.0
+Nairobi,2019,maize,725.0,1087.0
+Nairobi,2020,maize,684.0,972.0
+Nairobi,2021,maize,754.0,571.0
+Nairobi,2022,maize,661.0,246.0
+Nairobi,2023,maize,758.0,676.0
+Nairobi,2024,maize,713.0,641.0
+Nakuru,2019,maize,76706.0,214784.0
+Nakuru,2020,maize,64963.0,206151.0
+Nakuru,2021,maize,87651.0,242825.0
+Nakuru,2022,maize,66315.0,213786.0
+Nakuru,2023,maize,71470.0,215412.0
+Nakuru,2024,maize,94421.0,201876.0
+Nandi,2019,maize,66627.0,184127.0
+Nandi,2020,maize,59746.0,165866.0
+Nandi,2021,maize,26825.0,64175.0
+Nandi,2022,maize,45674.0,89447.0
+Nandi,2023,maize,67429.0,159556.0
+Nandi,2024,maize,57812.0,179389.0
+Narok,2019,maize,111559.0,210005.0
+Narok,2020,maize,116717.0,202855.0
+Narok,2021,maize,121809.0,280273.0
+Narok,2022,maize,127460.0,271028.0
+Narok,2023,maize,132396.0,314403.0
+Narok,2024,maize,122245.0,224236.0
+Nyamira,2019,maize,46870.0,80693.0
+Nyamira,2020,maize,42730.0,67563.0
+Nyamira,2021,maize,43134.0,61937.0
+Nyamira,2022,maize,48280.0,76884.0
+Nyamira,2023,maize,48175.0,63424.0
+Nyamira,2024,maize,48580.0,89599.0
+Nyandarua,2019,maize,13800.0,27795.0
+Nyandarua,2020,maize,17660.0,39170.0
+Nyandarua,2021,maize,14070.0,27958.0
+Nyandarua,2022,maize,20060.0,26836.0
+Nyandarua,2023,maize,20716.0,46617.0
+Nyandarua,2024,maize,14987.0,28698.0
+Nyeri,2019,maize,28874.0,29738.0
+Nyeri,2020,maize,26521.0,26251.0
+Nyeri,2021,maize,27067.0,19382.0
+Nyeri,2022,maize,26984.0,14323.0
+Nyeri,2023,maize,31317.0,35280.0
+Nyeri,2024,maize,29248.0,24832.0
+Samburu,2019,maize,8580.0,1839.0
+Samburu,2020,maize,10320.0,9756.0
+Samburu,2021,maize,12425.0,12090.0
+Samburu,2022,maize,15870.0,11178.0
+Samburu,2023,maize,6448.0,15298.0
+Samburu,2024,maize,11572.0,9135.0
+Siaya,2019,maize,64387.0,75733.0
+Siaya,2020,maize,63493.0,72351.0
+Siaya,2021,maize,83933.0,53512.0
+Siaya,2022,maize,73521.0,76580.0
+Siaya,2023,maize,77550.0,115191.0
+Siaya,2024,maize,77660.0,143979.0
+Taita Taveta,2019,maize,17069.0,16698.0
+Taita Taveta,2020,maize,10006.0,16643.0
+Taita Taveta,2021,maize,12252.0,3360.0
+Taita Taveta,2022,maize,11464.0,10893.0
+Taita Taveta,2023,maize,13596.0,12393.0
+Taita Taveta,2024,maize,11426.0,13176.0
+Tana River,2019,maize,5311.0,4471.0
+Tana River,2020,maize,5666.0,8222.0
+Tana River,2021,maize,4251.0,958.0
+Tana River,2022,maize,6673.0,8257.0
+Tana River,2023,maize,5734.0,5879.0
+Tana River,2024,maize,5063.0,14658.0
+Tharaka Nithi,2019,maize,24436.0,11943.0
+Tharaka Nithi,2020,maize,18591.0,41601.0
+Tharaka Nithi,2021,maize,25420.0,30352.0
+Tharaka Nithi,2022,maize,23640.0,20668.0
+Tharaka Nithi,2023,maize,26617.0,33808.0
+Tharaka Nithi,2024,maize,37588.0,55426.0
+Trans Nzoia,2019,maize,106549.0,426499.0
+Trans Nzoia,2020,maize,104850.0,489056.0
+Trans Nzoia,2021,maize,107090.0,407913.0
+Trans Nzoia,2022,maize,95140.0,339990.0
+Trans Nzoia,2023,maize,125065.0,448011.0
+Trans Nzoia,2024,maize,124976.0,423156.0
+Turkana,2019,maize,8931.0,5689.0
+Turkana,2020,maize,2475.0,2582.0
+Turkana,2021,maize,1295.0,1154.0
+Turkana,2022,maize,3408.0,452.0
+Turkana,2023,maize,1750.0,1331.0
+Turkana,2024,maize,3704.0,4217.0
+Uasin Gishu,2019,maize,100081.0,324366.0
+Uasin Gishu,2020,maize,106999.0,456574.0
+Uasin Gishu,2021,maize,104645.0,385400.0
+Uasin Gishu,2022,maize,102820.0,359870.0
+Uasin Gishu,2023,maize,117923.0,476538.0
+Uasin Gishu,2024,maize,107009.0,483211.0
+Vihiga,2019,maize,28560.0,38208.0
+Vihiga,2020,maize,25134.0,30566.0
+Vihiga,2021,maize,22340.0,24191.0
+Vihiga,2022,maize,26142.0,25335.0
+Vihiga,2023,maize,24921.0,29659.0
+Vihiga,2024,maize,24771.0,34171.0
+Wajir,2019,maize,306.0,225.0
+Wajir,2020,maize,98.0,39.0
+Wajir,2021,maize,54.0,19.0
+Wajir,2022,maize,72.0,25.0
+Wajir,2023,maize,132.0,34.0
+Wajir,2024,maize,278.0,216.0
+West Pokot,2019,maize,36720.0,82849.0
+West Pokot,2020,maize,32354.0,23400.0
+West Pokot,2021,maize,34911.0,53193.0
+West Pokot,2022,maize,34780.0,52650.0
+West Pokot,2023,maize,49097.0,96010.0
+West Pokot,2024,maize,56403.0,96984.0

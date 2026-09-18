@@ -1,0 +1,169 @@
+county,year,crop,area_ha,production_tons
+Baringo,2019,irish_potatoes,3733.0,39084.0
+Baringo,2020,irish_potatoes,3597.0,39207.0
+Baringo,2021,irish_potatoes,3363.0,45215.0
+Baringo,2022,irish_potatoes,3504.0,29998.0
+Baringo,2023,irish_potatoes,3565.0,37205.0
+Baringo,2024,irish_potatoes,3775.0,42900.0
+Bomet,2019,irish_potatoes,4193.0,41468.0
+Bomet,2020,irish_potatoes,3505.0,35504.0
+Bomet,2021,irish_potatoes,3526.0,36320.0
+Bomet,2022,irish_potatoes,6680.0,78135.0
+Bomet,2023,irish_potatoes,3935.0,37383.0
+Bomet,2024,irish_potatoes,1950.0,29250.0
+Bungoma,2019,irish_potatoes,3164.0,31643.0
+Bungoma,2020,irish_potatoes,1946.0,19734.0
+Bungoma,2021,irish_potatoes,1883.0,24936.0
+Bungoma,2022,irish_potatoes,9436.0,100694.0
+Bungoma,2023,irish_potatoes,2153.0,27217.0
+Bungoma,2024,irish_potatoes,7531.0,73081.0
+Elgeyo Marakwet,2020,irish_potatoes,32005.0,374379.0
+Elgeyo Marakwet,2021,irish_potatoes,31370.0,425964.0
+Elgeyo Marakwet,2022,irish_potatoes,28670.0,276700.0
+Elgeyo Marakwet,2023,irish_potatoes,25143.0,259252.0
+Elgeyo Marakwet,2024,irish_potatoes,23967.0,279273.0
+Embu,2019,irish_potatoes,236.0,2270.0
+Embu,2020,irish_potatoes,268.0,1995.0
+Embu,2021,irish_potatoes,274.0,2057.0
+Embu,2022,irish_potatoes,281.0,2592.0
+Embu,2023,irish_potatoes,295.0,2101.0
+Embu,2024,irish_potatoes,302.0,2595.0
+Homa Bay,2019,irish_potatoes,0.0,0.0
+Kajiado,2019,irish_potatoes,1028.0,4335.0
+Kajiado,2020,irish_potatoes,1378.0,6845.0
+Kajiado,2021,irish_potatoes,1073.0,4431.0
+Kajiado,2022,irish_potatoes,1459.0,14119.0
+Kajiado,2023,irish_potatoes,1699.0,10874.0
+Kajiado,2024,irish_potatoes,1349.0,11461.0
+Kakamega,2019,irish_potatoes,22.0,143.0
+Kakamega,2020,irish_potatoes,17.0,135.0
+Kakamega,2021,irish_potatoes,23.0,196.0
+Kakamega,2022,irish_potatoes,14.0,125.0
+Kakamega,2023,irish_potatoes,8.0,90.0
+Kakamega,2024,irish_potatoes,10.0,125.0
+Kericho,2019,irish_potatoes,559.0,5031.0
+Kericho,2020,irish_potatoes,595.0,4601.0
+Kericho,2021,irish_potatoes,618.0,6798.0
+Kericho,2022,irish_potatoes,546.0,6006.0
+Kericho,2023,irish_potatoes,704.0,8518.0
+Kericho,2024,irish_potatoes,773.0,5745.0
+Kiambu,2019,irish_potatoes,19740.0,90000.0
+Kiambu,2020,irish_potatoes,16403.0,112743.0
+Kiambu,2021,irish_potatoes,18955.0,123904.0
+Kiambu,2022,irish_potatoes,19156.0,97539.0
+Kiambu,2023,irish_potatoes,19206.0,102645.0
+Kiambu,2024,irish_potatoes,21327.0,126725.0
+Kirinyaga,2019,irish_potatoes,504.0,3442.0
+Kirinyaga,2020,irish_potatoes,505.0,5845.0
+Kirinyaga,2021,irish_potatoes,579.0,5565.0
+Kirinyaga,2022,irish_potatoes,219.0,460.0
+Kirinyaga,2023,irish_potatoes,352.0,3001.0
+Kirinyaga,2024,irish_potatoes,183.0,1010.0
+Kisii,2019,irish_potatoes,53.0,438.0
+Kisii,2020,irish_potatoes,34.0,510.0
+Kisii,2021,irish_potatoes,43.0,595.0
+Kisii,2022,irish_potatoes,24.0,152.0
+Kisii,2023,irish_potatoes,46.0,382.0
+Kisii,2024,irish_potatoes,46.0,415.0
+Kwale,2019,irish_potatoes,0.0,0.0
+Laikipia,2019,irish_potatoes,9373.0,50283.0
+Laikipia,2020,irish_potatoes,5136.0,36876.0
+Laikipia,2021,irish_potatoes,8480.0,40270.0
+Laikipia,2022,irish_potatoes,19258.0,53762.0
+Laikipia,2023,irish_potatoes,6099.0,47857.0
+Laikipia,2024,irish_potatoes,6910.0,25931.0
+Makueni,2019,irish_potatoes,11.0,110.0
+Makueni,2020,irish_potatoes,11.0,110.0
+Makueni,2021,irish_potatoes,46.0,262.0
+Makueni,2022,irish_potatoes,45.0,270.0
+Makueni,2023,irish_potatoes,75.0,330.0
+Makueni,2024,irish_potatoes,71.0,311.0
+Meru,2019,irish_potatoes,17441.0,130185.0
+Meru,2020,irish_potatoes,21017.0,141926.0
+Meru,2021,irish_potatoes,17392.0,224747.0
+Meru,2022,irish_potatoes,20520.0,185731.0
+Meru,2023,irish_potatoes,24604.0,236407.0
+Meru,2024,irish_potatoes,24660.0,263596.0
+Murang'a,2019,irish_potatoes,6642.0,22753.0
+Murang'a,2020,irish_potatoes,6548.0,22484.0
+Murang'a,2021,irish_potatoes,6314.0,32708.0
+Murang'a,2022,irish_potatoes,14949.0,66314.0
+Murang'a,2023,irish_potatoes,7470.0,26037.0
+Murang'a,2024,irish_potatoes,7242.0,35792.0
+Nairobi,2019,irish_potatoes,23.0,161.0
+Nairobi,2020,irish_potatoes,10.0,69.0
+Nairobi,2021,irish_potatoes,35.0,246.0
+Nairobi,2022,irish_potatoes,19.0,99.0
+Nairobi,2023,irish_potatoes,26.0,135.0
+Nairobi,2024,irish_potatoes,31.0,243.0
+Nakuru,2019,irish_potatoes,39195.0,431145.0
+Nakuru,2020,irish_potatoes,29868.0,372103.0
+Nakuru,2021,irish_potatoes,40285.0,422207.0
+Nakuru,2022,irish_potatoes,46731.0,523324.0
+Nakuru,2023,irish_potatoes,49981.0,657091.0
+Nakuru,2024,irish_potatoes,48513.0,476876.0
+Nandi,2019,irish_potatoes,480.0,6010.0
+Nandi,2020,irish_potatoes,518.0,6509.0
+Nandi,2021,irish_potatoes,483.0,6085.0
+Nandi,2022,irish_potatoes,629.0,7548.0
+Nandi,2023,irish_potatoes,644.0,6611.0
+Nandi,2024,irish_potatoes,639.0,5346.0
+Narok,2019,irish_potatoes,12077.0,138388.0
+Narok,2020,irish_potatoes,15236.0,150536.0
+Narok,2021,irish_potatoes,14560.0,135176.0
+Narok,2022,irish_potatoes,12742.0,87981.0
+Narok,2023,irish_potatoes,14975.0,140615.0
+Narok,2024,irish_potatoes,17872.0,157252.0
+Nyamira,2019,irish_potatoes,22.0,255.0
+Nyamira,2020,irish_potatoes,13.0,141.0
+Nyamira,2021,irish_potatoes,18.0,190.0
+Nyamira,2022,irish_potatoes,22.0,220.0
+Nyamira,2023,irish_potatoes,20.0,122.0
+Nyamira,2024,irish_potatoes,20.0,148.0
+Nyandarua,2019,irish_potatoes,38130.0,423490.0
+Nyandarua,2020,irish_potatoes,38805.0,428269.0
+Nyandarua,2021,irish_potatoes,37590.0,384323.0
+Nyandarua,2022,irish_potatoes,19590.0,101099.0
+Nyandarua,2023,irish_potatoes,43587.0,437748.0
+Nyandarua,2024,irish_potatoes,34980.0,394325.0
+Nyeri,2019,irish_potatoes,16118.0,123280.0
+Nyeri,2020,irish_potatoes,16358.0,95994.0
+Nyeri,2021,irish_potatoes,16469.0,94420.0
+Nyeri,2022,irish_potatoes,14711.0,97669.0
+Nyeri,2023,irish_potatoes,16447.0,97975.0
+Nyeri,2024,irish_potatoes,12749.0,89556.0
+Samburu,2019,irish_potatoes,80.0,480.0
+Samburu,2020,irish_potatoes,40.0,325.0
+Samburu,2021,irish_potatoes,20.0,160.0
+Samburu,2022,irish_potatoes,50.0,450.0
+Samburu,2023,irish_potatoes,322.0,2355.0
+Samburu,2024,irish_potatoes,110.0,859.0
+Taita Taveta,2019,irish_potatoes,33.0,561.0
+Taita Taveta,2020,irish_potatoes,36.0,578.0
+Taita Taveta,2021,irish_potatoes,738.0,1360.0
+Taita Taveta,2022,irish_potatoes,739.0,619.0
+Taita Taveta,2023,irish_potatoes,553.0,2467.0
+Taita Taveta,2024,irish_potatoes,564.0,2172.0
+Tharaka Nithi,2020,irish_potatoes,62.0,620.0
+Tharaka Nithi,2021,irish_potatoes,50.0,525.0
+Tharaka Nithi,2022,irish_potatoes,20.0,4.0
+Tharaka Nithi,2023,irish_potatoes,61.0,538.0
+Tharaka Nithi,2024,irish_potatoes,11.0,141.0
+Trans Nzoia,2019,irish_potatoes,1653.0,15000.0
+Trans Nzoia,2020,irish_potatoes,1675.0,9750.0
+Trans Nzoia,2021,irish_potatoes,1758.0,9940.0
+Trans Nzoia,2022,irish_potatoes,2765.0,33180.0
+Trans Nzoia,2023,irish_potatoes,1635.0,13181.0
+Trans Nzoia,2024,irish_potatoes,2566.0,26718.0
+Uasin Gishu,2019,irish_potatoes,4053.0,40000.0
+Uasin Gishu,2020,irish_potatoes,7189.0,54367.0
+Uasin Gishu,2021,irish_potatoes,7237.0,56659.0
+Uasin Gishu,2022,irish_potatoes,6856.0,50853.0
+Uasin Gishu,2023,irish_potatoes,7699.0,55590.0
+Uasin Gishu,2024,irish_potatoes,5366.0,70139.0
+West Pokot,2019,irish_potatoes,1800.0,26563.0
+West Pokot,2020,irish_potatoes,1750.0,17500.0
+West Pokot,2021,irish_potatoes,2517.0,24365.0
+West Pokot,2022,irish_potatoes,1858.0,16135.0
+West Pokot,2023,irish_potatoes,8009.0,96109.0
+West Pokot,2024,irish_potatoes,2456.0,27994.0

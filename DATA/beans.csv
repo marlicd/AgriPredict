@@ -1,0 +1,255 @@
+county,year,crop,area_ha,production_tons
+Baringo,2019,beans,21020.0,19977.0
+Baringo,2020,beans,20914.0,24647.0
+Baringo,2021,beans,19669.0,16289.0
+Baringo,2022,beans,23804.0,21616.0
+Baringo,2023,beans,23677.0,22501.0
+Baringo,2024,beans,29922.0,26699.0
+Bomet,2019,beans,32273.0,42592.0
+Bomet,2020,beans,30570.0,41923.0
+Bomet,2021,beans,29255.0,28263.0
+Bomet,2022,beans,29891.0,30320.0
+Bomet,2023,beans,12803.0,12377.0
+Bomet,2024,beans,18545.0,13368.0
+Bungoma,2019,beans,78930.0,56775.0
+Bungoma,2020,beans,78644.0,51186.0
+Bungoma,2021,beans,87218.0,60141.0
+Bungoma,2022,beans,87724.0,49948.0
+Bungoma,2023,beans,63445.0,45073.0
+Bungoma,2024,beans,64096.0,43390.0
+Busia,2019,beans,21083.0,21412.0
+Busia,2020,beans,31065.0,24034.0
+Busia,2021,beans,22314.0,13349.0
+Busia,2022,beans,21528.0,16583.0
+Busia,2023,beans,23069.0,18090.0
+Busia,2024,beans,21160.0,17847.0
+Elgeyo Marakwet,2020,beans,19858.0,8856.0
+Elgeyo Marakwet,2021,beans,19872.0,7657.0
+Elgeyo Marakwet,2022,beans,19540.0,6356.0
+Elgeyo Marakwet,2023,beans,25610.0,28578.0
+Elgeyo Marakwet,2024,beans,25862.0,15821.0
+Embu,2019,beans,22758.0,13402.0
+Embu,2020,beans,20376.0,14143.0
+Embu,2021,beans,21360.0,13841.0
+Embu,2022,beans,21280.0,18151.0
+Embu,2023,beans,21380.0,10308.0
+Embu,2024,beans,21400.0,6470.0
+Homa Bay,2019,beans,48558.0,29696.0
+Homa Bay,2020,beans,49900.0,32850.0
+Homa Bay,2021,beans,43074.0,30431.0
+Homa Bay,2022,beans,38739.0,25436.0
+Homa Bay,2023,beans,28052.0,20308.0
+Homa Bay,2024,beans,31949.0,28739.0
+Isiolo,2019,beans,314.0,79.0
+Isiolo,2020,beans,90.0,7.0
+Isiolo,2021,beans,155.0,115.0
+Isiolo,2022,beans,134.0,74.0
+Isiolo,2023,beans,114.0,42.0
+Isiolo,2024,beans,150.0,61.0
+Kajiado,2019,beans,49621.0,31812.0
+Kajiado,2020,beans,49821.0,43846.0
+Kajiado,2021,beans,2370.0,1581.0
+Kajiado,2022,beans,49930.0,24286.0
+Kajiado,2023,beans,47957.0,42525.0
+Kajiado,2024,beans,57493.0,38890.0
+Kakamega,2019,beans,60653.0,34869.0
+Kakamega,2020,beans,51851.0,27031.0
+Kakamega,2021,beans,65341.0,31414.0
+Kakamega,2022,beans,72882.0,31120.0
+Kakamega,2023,beans,49279.0,43540.0
+Kakamega,2024,beans,59128.0,16021.0
+Kericho,2019,beans,17528.0,14935.0
+Kericho,2020,beans,18492.0,11812.0
+Kericho,2021,beans,18222.0,20543.0
+Kericho,2022,beans,22151.0,21815.0
+Kericho,2023,beans,23261.0,25336.0
+Kericho,2024,beans,24477.0,26675.0
+Kiambu,2019,beans,25926.0,19538.0
+Kiambu,2020,beans,26284.0,27700.0
+Kiambu,2021,beans,24911.0,13383.0
+Kiambu,2022,beans,24263.0,10819.0
+Kiambu,2023,beans,24288.0,10007.0
+Kiambu,2024,beans,24711.0,13144.0
+Kilifi,2019,beans,52.0,31.0
+Kilifi,2020,beans,50.0,18.0
+Kilifi,2021,beans,50.0,18.0
+Kilifi,2022,beans,58.0,35.0
+Kilifi,2023,beans,57.0,19.0
+Kilifi,2024,beans,3.0,1.0
+Kirinyaga,2019,beans,20470.0,7190.0
+Kirinyaga,2020,beans,19216.0,8994.0
+Kirinyaga,2021,beans,19943.0,6870.0
+Kirinyaga,2022,beans,24431.0,6790.0
+Kirinyaga,2023,beans,21816.0,23335.0
+Kirinyaga,2024,beans,17080.0,14506.0
+Kisii,2019,beans,49799.0,24149.0
+Kisii,2020,beans,48645.0,28090.0
+Kisii,2021,beans,47594.0,31292.0
+Kisii,2022,beans,34104.0,21780.0
+Kisii,2023,beans,48336.0,24392.0
+Kisii,2024,beans,47996.0,30831.0
+Kisumu,2019,beans,26243.0,19753.0
+Kisumu,2020,beans,22551.0,14748.0
+Kisumu,2021,beans,25130.0,10197.0
+Kisumu,2022,beans,26980.0,10873.0
+Kisumu,2023,beans,30755.0,23247.0
+Kisumu,2024,beans,22000.0,9897.0
+Kitui,2019,beans,34938.0,33498.0
+Kitui,2020,beans,32298.0,16044.0
+Kitui,2021,beans,34320.0,6124.0
+Kitui,2022,beans,33539.0,10822.0
+Kitui,2023,beans,33024.0,10948.0
+Kitui,2024,beans,35549.0,8900.0
+Kwale,2019,beans,308.0,98.0
+Kwale,2020,beans,299.0,116.0
+Kwale,2021,beans,299.0,116.0
+Kwale,2022,beans,299.0,2914.0
+Kwale,2023,beans,324.0,227.0
+Kwale,2024,beans,158.0,47.0
+Laikipia,2019,beans,15962.0,11698.0
+Laikipia,2020,beans,14535.0,13331.0
+Laikipia,2021,beans,14935.0,3620.0
+Laikipia,2022,beans,8802.0,2913.0
+Laikipia,2023,beans,11975.0,6252.0
+Laikipia,2024,beans,14265.0,9557.0
+Machakos,2019,beans,64880.0,30123.0
+Machakos,2020,beans,73015.0,32341.0
+Machakos,2021,beans,78628.0,28874.0
+Machakos,2022,beans,89222.0,15346.0
+Machakos,2023,beans,89098.0,53826.0
+Machakos,2024,beans,86971.0,17988.0
+Makueni,2019,beans,38880.0,27575.0
+Makueni,2020,beans,38631.0,31218.0
+Makueni,2021,beans,40186.0,24519.0
+Makueni,2022,beans,49800.0,9960.0
+Makueni,2023,beans,52656.0,23552.0
+Makueni,2024,beans,55380.0,23921.0
+Mandera,2020,beans,0.0,0.0
+Mandera,2021,beans,0.0,0.0
+Mandera,2022,beans,0.0,0.0
+Mandera,2023,beans,19.0,11.0
+Mandera,2024,beans,25.0,18.0
+Marsabit,2019,beans,450.0,155.0
+Marsabit,2020,beans,521.0,173.0
+Marsabit,2021,beans,534.0,200.0
+Marsabit,2022,beans,310.0,3.0
+Marsabit,2023,beans,476.0,226.0
+Marsabit,2024,beans,588.0,160.0
+Meru,2019,beans,98235.0,36025.0
+Meru,2020,beans,80783.0,43593.0
+Meru,2021,beans,81119.0,51184.0
+Meru,2022,beans,76210.0,46847.0
+Meru,2023,beans,131624.0,54244.0
+Meru,2024,beans,130331.0,63226.0
+Migori,2019,beans,33575.0,24198.0
+Migori,2020,beans,37995.0,27609.0
+Migori,2021,beans,39279.0,28679.0
+Migori,2022,beans,33548.0,32630.0
+Migori,2023,beans,36199.0,23267.0
+Migori,2024,beans,36133.0,39157.0
+Murang'a,2019,beans,46997.0,16606.0
+Murang'a,2020,beans,46011.0,17417.0
+Murang'a,2021,beans,44757.0,21268.0
+Murang'a,2022,beans,96203.0,19967.0
+Murang'a,2023,beans,46051.0,18186.0
+Murang'a,2024,beans,33643.0,16382.0
+Nairobi,2019,beans,508.0,281.0
+Nairobi,2020,beans,518.0,331.0
+Nairobi,2021,beans,549.0,288.0
+Nairobi,2022,beans,533.0,232.0
+Nairobi,2023,beans,588.0,227.0
+Nairobi,2024,beans,605.0,287.0
+Nakuru,2019,beans,45977.0,36575.0
+Nakuru,2020,beans,39555.0,38884.0
+Nakuru,2021,beans,61027.0,42274.0
+Nakuru,2022,beans,76260.0,94741.0
+Nakuru,2023,beans,50835.0,99926.0
+Nakuru,2024,beans,61416.0,55497.0
+Nandi,2019,beans,32088.0,23179.0
+Nandi,2020,beans,25116.0,18295.0
+Nandi,2021,beans,19998.0,16327.0
+Nandi,2022,beans,32840.0,27519.0
+Nandi,2023,beans,30277.0,21830.0
+Nandi,2024,beans,23921.0,27541.0
+Narok,2019,beans,48121.0,34728.0
+Narok,2020,beans,44951.0,28789.0
+Narok,2021,beans,49599.0,44947.0
+Narok,2022,beans,52813.0,39352.0
+Narok,2023,beans,48245.0,44773.0
+Narok,2024,beans,41586.0,20699.0
+Nyamira,2019,beans,33090.0,23150.0
+Nyamira,2020,beans,31830.0,26574.0
+Nyamira,2021,beans,31435.0,19219.0
+Nyamira,2022,beans,31182.0,30168.0
+Nyamira,2023,beans,30021.0,10684.0
+Nyamira,2024,beans,27157.0,16391.0
+Nyandarua,2019,beans,6505.0,4174.0
+Nyandarua,2020,beans,8822.0,7188.0
+Nyandarua,2021,beans,7000.0,6035.0
+Nyandarua,2022,beans,1655.0,1337.0
+Nyandarua,2023,beans,5542.0,3183.0
+Nyandarua,2024,beans,6951.0,6138.0
+Nyeri,2019,beans,21675.0,8950.0
+Nyeri,2020,beans,20525.0,11214.0
+Nyeri,2021,beans,18773.0,7889.0
+Nyeri,2022,beans,16994.0,5378.0
+Nyeri,2023,beans,18340.0,6464.0
+Nyeri,2024,beans,19883.0,10148.0
+Samburu,2019,beans,4817.0,724.0
+Samburu,2020,beans,4854.0,842.0
+Samburu,2021,beans,3244.0,3636.0
+Samburu,2022,beans,5380.0,1735.0
+Samburu,2023,beans,4897.0,4615.0
+Samburu,2024,beans,5287.0,2619.0
+Siaya,2019,beans,33194.0,17197.0
+Siaya,2020,beans,31942.0,17286.0
+Siaya,2021,beans,39931.0,18900.0
+Siaya,2022,beans,35005.0,16747.0
+Siaya,2023,beans,36840.0,14100.0
+Siaya,2024,beans,37498.0,23852.0
+Taita Taveta,2019,beans,2600.0,1383.0
+Taita Taveta,2020,beans,2687.0,2224.0
+Taita Taveta,2021,beans,3481.0,3542.0
+Taita Taveta,2022,beans,2942.0,3036.0
+Taita Taveta,2023,beans,3837.0,3332.0
+Taita Taveta,2024,beans,4436.0,4119.0
+Tana River,2019,beans,52.0,45.0
+Tana River,2020,beans,3.0,3.0
+Tana River,2021,beans,3.0,3.0
+Tana River,2022,beans,3.0,2.0
+Tana River,2023,beans,4.0,2.0
+Tana River,2024,beans,31.0,7.0
+Tharaka Nithi,2020,beans,13684.0,16621.0
+Tharaka Nithi,2021,beans,8905.0,7047.0
+Tharaka Nithi,2022,beans,18675.0,5563.0
+Tharaka Nithi,2023,beans,17232.0,13895.0
+Tharaka Nithi,2024,beans,17489.0,18882.0
+Trans Nzoia,2019,beans,62428.0,25202.0
+Trans Nzoia,2020,beans,54893.0,25061.0
+Trans Nzoia,2021,beans,52418.0,18924.0
+Trans Nzoia,2022,beans,57650.0,51734.0
+Trans Nzoia,2023,beans,61462.0,47842.0
+Trans Nzoia,2024,beans,54671.0,46875.0
+Uasin Gishu,2019,beans,14668.0,8127.0
+Uasin Gishu,2020,beans,18389.0,15023.0
+Uasin Gishu,2021,beans,19389.0,14127.0
+Uasin Gishu,2022,beans,17045.0,12600.0
+Uasin Gishu,2023,beans,22430.0,23560.0
+Uasin Gishu,2024,beans,21713.0,14680.0
+Vihiga,2019,beans,23680.0,17605.0
+Vihiga,2020,beans,20260.0,16657.0
+Vihiga,2021,beans,19378.0,12457.0
+Vihiga,2022,beans,19378.0,18308.0
+Vihiga,2023,beans,18918.0,6172.0
+Vihiga,2024,beans,18853.0,12915.0
+Wajir,2020,beans,3.0,2.0
+Wajir,2021,beans,3.0,1.0
+Wajir,2022,beans,3.0,0.0
+Wajir,2023,beans,46.0,60.0
+Wajir,2024,beans,44.0,41.0
+West Pokot,2019,beans,15696.0,10992.0
+West Pokot,2020,beans,17261.0,7644.0
+West Pokot,2021,beans,15900.0,5333.0
+West Pokot,2022,beans,14843.0,4295.0
+West Pokot,2023,beans,25166.0,19962.0
+West Pokot,2024,beans,28943.0,16528.0

@@ -1,0 +1,2636 @@
+county,year,crop,metric,value
+Baringo,2019,maize,area_ha,45171.0
+Baringo,2019,maize,production_tons,70810.0
+Baringo,2020,maize,area_ha,47437.0
+Baringo,2020,maize,production_tons,68374.0
+Baringo,2021,maize,area_ha,34709.0
+Baringo,2021,maize,production_tons,59169.0
+Baringo,2022,maize,area_ha,37894.0
+Baringo,2022,maize,production_tons,50820.0
+Baringo,2023,maize,area_ha,42501.0
+Baringo,2023,maize,production_tons,94877.0
+Baringo,2024,maize,area_ha,47457.0
+Baringo,2024,maize,production_tons,83958.0
+Bomet,2019,maize,area_ha,34476.0
+Bomet,2019,maize,production_tons,74728.0
+Bomet,2020,maize,area_ha,42763.0
+Bomet,2020,maize,production_tons,73610.0
+Bomet,2021,maize,area_ha,40480.0
+Bomet,2021,maize,production_tons,58685.0
+Bomet,2022,maize,area_ha,27597.0
+Bomet,2022,maize,production_tons,43287.0
+Bomet,2023,maize,area_ha,27250.0
+Bomet,2023,maize,production_tons,63230.0
+Bomet,2024,maize,area_ha,33491.0
+Bomet,2024,maize,production_tons,52714.0
+Bungoma,2019,maize,area_ha,94635.0
+Bungoma,2019,maize,production_tons,315711.0
+Bungoma,2020,maize,area_ha,87960.0
+Bungoma,2020,maize,production_tons,317912.0
+Bungoma,2021,maize,area_ha,93214.0
+Bungoma,2021,maize,production_tons,269443.0
+Bungoma,2022,maize,area_ha,92464.0
+Bungoma,2022,maize,production_tons,275420.0
+Bungoma,2023,maize,area_ha,92847.0
+Bungoma,2023,maize,production_tons,222912.0
+Bungoma,2024,maize,area_ha,90297.0
+Bungoma,2024,maize,production_tons,207846.0
+Busia,2019,maize,area_ha,61850.0
+Busia,2019,maize,production_tons,67445.0
+Busia,2020,maize,area_ha,48150.0
+Busia,2020,maize,production_tons,69450.0
+Busia,2021,maize,area_ha,33810.0
+Busia,2021,maize,production_tons,42028.0
+Busia,2022,maize,area_ha,42476.0
+Busia,2022,maize,production_tons,64360.0
+Busia,2023,maize,area_ha,44097.0
+Busia,2023,maize,production_tons,71237.0
+Busia,2024,maize,area_ha,44204.0
+Busia,2024,maize,production_tons,77934.0
+Elgeyo Marakwet,2019,maize,area_ha,31779.0
+Elgeyo Marakwet,2019,maize,production_tons,104487.0
+Elgeyo Marakwet,2020,maize,area_ha,25856.0
+Elgeyo Marakwet,2020,maize,production_tons,87431.0
+Elgeyo Marakwet,2021,maize,area_ha,31351.0
+Elgeyo Marakwet,2021,maize,production_tons,86007.0
+Elgeyo Marakwet,2022,maize,area_ha,31713.0
+Elgeyo Marakwet,2022,maize,production_tons,72330.0
+Elgeyo Marakwet,2023,maize,area_ha,43133.0
+Elgeyo Marakwet,2023,maize,production_tons,150221.0
+Elgeyo Marakwet,2024,maize,area_ha,42182.0
+Elgeyo Marakwet,2024,maize,production_tons,117786.0
+Embu,2019,maize,area_ha,34100.0
+Embu,2019,maize,production_tons,28368.0
+Embu,2020,maize,area_ha,35130.0
+Embu,2020,maize,production_tons,34650.0
+Embu,2021,maize,area_ha,35925.0
+Embu,2021,maize,production_tons,31378.0
+Embu,2022,maize,area_ha,34506.0
+Embu,2022,maize,production_tons,10077.0
+Embu,2023,maize,area_ha,34500.0
+Embu,2023,maize,production_tons,41327.0
+Embu,2024,maize,area_ha,34750.0
+Embu,2024,maize,production_tons,25659.0
+Garissa,2019,maize,area_ha,150.0
+Garissa,2019,maize,production_tons,109.0
+Garissa,2020,maize,area_ha,238.0
+Garissa,2020,maize,production_tons,296.0
+Garissa,2021,maize,area_ha,145.0
+Garissa,2021,maize,production_tons,71.0
+Garissa,2022,maize,area_ha,107.0
+Garissa,2022,maize,production_tons,70.0
+Garissa,2023,maize,area_ha,142.0
+Garissa,2023,maize,production_tons,132.0
+Garissa,2024,maize,area_ha,222.0
+Garissa,2024,maize,production_tons,382.0
+Homa Bay,2019,maize,area_ha,72793.0
+Homa Bay,2019,maize,production_tons,102742.0
+Homa Bay,2020,maize,area_ha,72097.0
+Homa Bay,2020,maize,production_tons,92394.0
+Homa Bay,2021,maize,area_ha,79608.0
+Homa Bay,2021,maize,production_tons,82278.0
+Homa Bay,2022,maize,area_ha,72215.0
+Homa Bay,2022,maize,production_tons,86658.0
+Homa Bay,2023,maize,area_ha,78795.0
+Homa Bay,2023,maize,production_tons,115635.0
+Homa Bay,2024,maize,area_ha,89172.0
+Homa Bay,2024,maize,production_tons,146866.0
+Isiolo,2019,maize,area_ha,530.0
+Isiolo,2019,maize,production_tons,749.0
+Isiolo,2020,maize,area_ha,586.0
+Isiolo,2020,maize,production_tons,42.0
+Isiolo,2021,maize,area_ha,147.0
+Isiolo,2021,maize,production_tons,139.0
+Isiolo,2022,maize,area_ha,129.0
+Isiolo,2022,maize,production_tons,94.0
+Isiolo,2023,maize,area_ha,256.0
+Isiolo,2023,maize,production_tons,176.0
+Isiolo,2024,maize,area_ha,288.0
+Isiolo,2024,maize,production_tons,576.0
+Kajiado,2019,maize,area_ha,17511.0
+Kajiado,2019,maize,production_tons,16189.0
+Kajiado,2020,maize,area_ha,31384.0
+Kajiado,2020,maize,production_tons,15543.0
+Kajiado,2021,maize,area_ha,4808.0
+Kajiado,2021,maize,production_tons,2864.0
+Kajiado,2022,maize,area_ha,32159.0
+Kajiado,2022,maize,production_tons,13063.0
+Kajiado,2023,maize,area_ha,33241.0
+Kajiado,2023,maize,production_tons,40733.0
+Kajiado,2024,maize,area_ha,21906.0
+Kajiado,2024,maize,production_tons,40573.0
+Kakamega,2019,maize,area_ha,95390.0
+Kakamega,2019,maize,production_tons,259003.0
+Kakamega,2020,maize,area_ha,83773.0
+Kakamega,2020,maize,production_tons,226888.0
+Kakamega,2021,maize,area_ha,98415.0
+Kakamega,2021,maize,production_tons,262506.0
+Kakamega,2022,maize,area_ha,100641.0
+Kakamega,2022,maize,production_tons,154369.0
+Kakamega,2023,maize,area_ha,87532.0
+Kakamega,2023,maize,production_tons,132572.0
+Kakamega,2024,maize,area_ha,105181.0
+Kakamega,2024,maize,production_tons,212753.0
+Kericho,2019,maize,area_ha,32050.0
+Kericho,2019,maize,production_tons,85815.0
+Kericho,2020,maize,area_ha,34397.0
+Kericho,2020,maize,production_tons,92731.0
+Kericho,2021,maize,area_ha,35068.0
+Kericho,2021,maize,production_tons,98746.0
+Kericho,2022,maize,area_ha,40530.0
+Kericho,2022,maize,production_tons,85975.0
+Kericho,2023,maize,area_ha,40643.0
+Kericho,2023,maize,production_tons,111130.0
+Kericho,2024,maize,area_ha,43908.0
+Kericho,2024,maize,production_tons,134358.0
+Kiambu,2019,maize,area_ha,31447.0
+Kiambu,2019,maize,production_tons,83239.0
+Kiambu,2020,maize,area_ha,31528.0
+Kiambu,2020,maize,production_tons,43259.0
+Kiambu,2021,maize,area_ha,30371.0
+Kiambu,2021,maize,production_tons,25563.0
+Kiambu,2022,maize,area_ha,29174.0
+Kiambu,2022,maize,production_tons,19655.0
+Kiambu,2023,maize,area_ha,30537.0
+Kiambu,2023,maize,production_tons,29692.0
+Kiambu,2024,maize,area_ha,33534.0
+Kiambu,2024,maize,production_tons,39471.0
+Kilifi,2019,maize,area_ha,72499.0
+Kilifi,2019,maize,production_tons,45769.0
+Kilifi,2020,maize,area_ha,71782.0
+Kilifi,2020,maize,production_tons,44585.0
+Kilifi,2021,maize,area_ha,53943.0
+Kilifi,2021,maize,production_tons,26176.0
+Kilifi,2022,maize,area_ha,72748.0
+Kilifi,2022,maize,production_tons,47780.0
+Kilifi,2023,maize,area_ha,95674.0
+Kilifi,2023,maize,production_tons,81813.0
+Kilifi,2024,maize,area_ha,51393.0
+Kilifi,2024,maize,production_tons,41907.0
+Kirinyaga,2019,maize,area_ha,30406.0
+Kirinyaga,2019,maize,production_tons,45036.0
+Kirinyaga,2020,maize,area_ha,30505.0
+Kirinyaga,2020,maize,production_tons,40281.0
+Kirinyaga,2021,maize,area_ha,30373.0
+Kirinyaga,2021,maize,production_tons,24388.0
+Kirinyaga,2022,maize,area_ha,30503.0
+Kirinyaga,2022,maize,production_tons,13547.0
+Kirinyaga,2023,maize,area_ha,38467.0
+Kirinyaga,2023,maize,production_tons,49692.0
+Kirinyaga,2024,maize,area_ha,28228.0
+Kirinyaga,2024,maize,production_tons,38468.0
+Kisii,2019,maize,area_ha,66625.0
+Kisii,2019,maize,production_tons,144480.0
+Kisii,2020,maize,area_ha,67286.0
+Kisii,2020,maize,production_tons,132790.0
+Kisii,2021,maize,area_ha,65876.0
+Kisii,2021,maize,production_tons,96249.0
+Kisii,2022,maize,area_ha,43735.0
+Kisii,2022,maize,production_tons,79671.0
+Kisii,2023,maize,area_ha,66221.0
+Kisii,2023,maize,production_tons,119244.0
+Kisii,2024,maize,area_ha,65900.0
+Kisii,2024,maize,production_tons,41087.0
+Kisumu,2019,maize,area_ha,50228.0
+Kisumu,2019,maize,production_tons,69956.0
+Kisumu,2020,maize,area_ha,46307.0
+Kisumu,2020,maize,production_tons,67307.0
+Kisumu,2021,maize,area_ha,62600.0
+Kisumu,2021,maize,production_tons,40990.0
+Kisumu,2022,maize,area_ha,54125.0
+Kisumu,2022,maize,production_tons,34513.0
+Kisumu,2023,maize,area_ha,62195.0
+Kisumu,2023,maize,production_tons,105003.0
+Kisumu,2024,maize,area_ha,48400.0
+Kisumu,2024,maize,production_tons,58657.0
+Kitui,2019,maize,area_ha,76901.0
+Kitui,2019,maize,production_tons,98046.0
+Kitui,2020,maize,area_ha,87252.0
+Kitui,2020,maize,production_tons,27960.0
+Kitui,2021,maize,area_ha,79035.0
+Kitui,2021,maize,production_tons,11508.0
+Kitui,2022,maize,area_ha,62987.0
+Kitui,2022,maize,production_tons,9183.0
+Kitui,2023,maize,area_ha,83618.0
+Kitui,2023,maize,production_tons,36292.0
+Kitui,2024,maize,area_ha,89423.0
+Kitui,2024,maize,production_tons,17845.0
+Kwale,2019,maize,area_ha,65500.0
+Kwale,2019,maize,production_tons,35485.0
+Kwale,2020,maize,area_ha,56576.0
+Kwale,2020,maize,production_tons,34061.0
+Kwale,2021,maize,area_ha,56128.0
+Kwale,2021,maize,production_tons,33815.0
+Kwale,2022,maize,area_ha,23200.0
+Kwale,2022,maize,production_tons,45428.0
+Kwale,2023,maize,area_ha,60518.0
+Kwale,2023,maize,production_tons,61037.0
+Kwale,2024,maize,area_ha,58116.0
+Kwale,2024,maize,production_tons,44127.0
+Laikipia,2019,maize,area_ha,25260.0
+Laikipia,2019,maize,production_tons,44843.0
+Laikipia,2020,maize,area_ha,26470.0
+Laikipia,2020,maize,production_tons,39422.0
+Laikipia,2021,maize,area_ha,24932.0
+Laikipia,2021,maize,production_tons,34520.0
+Laikipia,2022,maize,area_ha,25055.0
+Laikipia,2022,maize,production_tons,7288.0
+Laikipia,2023,maize,area_ha,29596.0
+Laikipia,2023,maize,production_tons,44264.0
+Laikipia,2024,maize,area_ha,29240.0
+Laikipia,2024,maize,production_tons,51372.0
+Lamu,2019,maize,area_ha,29350.0
+Lamu,2019,maize,production_tons,53232.0
+Lamu,2020,maize,area_ha,37500.0
+Lamu,2020,maize,production_tons,28325.0
+Lamu,2021,maize,area_ha,16820.0
+Lamu,2021,maize,production_tons,4772.0
+Lamu,2022,maize,area_ha,39502.0
+Lamu,2022,maize,production_tons,59102.0
+Lamu,2023,maize,area_ha,45800.0
+Lamu,2023,maize,production_tons,74318.0
+Lamu,2024,maize,area_ha,23154.0
+Lamu,2024,maize,production_tons,48436.0
+Machakos,2019,maize,area_ha,125358.0
+Machakos,2019,maize,production_tons,92034.0
+Machakos,2020,maize,area_ha,133795.0
+Machakos,2020,maize,production_tons,40927.0
+Machakos,2021,maize,area_ha,144201.0
+Machakos,2021,maize,production_tons,59321.0
+Machakos,2022,maize,area_ha,134048.0
+Machakos,2022,maize,production_tons,22597.0
+Machakos,2023,maize,area_ha,138830.0
+Machakos,2023,maize,production_tons,175493.0
+Machakos,2024,maize,area_ha,158761.0
+Machakos,2024,maize,production_tons,91910.0
+Makueni,2019,maize,area_ha,139024.0
+Makueni,2019,maize,production_tons,109434.0
+Makueni,2020,maize,area_ha,146562.0
+Makueni,2020,maize,production_tons,120000.0
+Makueni,2021,maize,area_ha,150726.0
+Makueni,2021,maize,production_tons,88013.0
+Makueni,2022,maize,area_ha,132910.0
+Makueni,2022,maize,production_tons,83018.0
+Makueni,2023,maize,area_ha,136912.0
+Makueni,2023,maize,production_tons,81363.0
+Makueni,2024,maize,area_ha,155337.0
+Makueni,2024,maize,production_tons,83506.0
+Mandera,2019,maize,area_ha,3071.0
+Mandera,2019,maize,production_tons,964.0
+Mandera,2020,maize,area_ha,3708.0
+Mandera,2020,maize,production_tons,1847.0
+Mandera,2021,maize,area_ha,3510.0
+Mandera,2021,maize,production_tons,1818.0
+Mandera,2022,maize,area_ha,3209.0
+Mandera,2022,maize,production_tons,2160.0
+Mandera,2023,maize,area_ha,3209.0
+Mandera,2023,maize,production_tons,2738.0
+Mandera,2024,maize,area_ha,2828.0
+Mandera,2024,maize,production_tons,3113.0
+Marsabit,2019,maize,area_ha,998.0
+Marsabit,2019,maize,production_tons,402.0
+Marsabit,2020,maize,area_ha,1023.0
+Marsabit,2020,maize,production_tons,293.0
+Marsabit,2021,maize,area_ha,658.0
+Marsabit,2021,maize,production_tons,46.0
+Marsabit,2022,maize,area_ha,591.0
+Marsabit,2022,maize,production_tons,3.0
+Marsabit,2023,maize,area_ha,2184.0
+Marsabit,2023,maize,production_tons,337.0
+Marsabit,2024,maize,area_ha,1830.0
+Marsabit,2024,maize,production_tons,1089.0
+Meru,2019,maize,area_ha,74577.0
+Meru,2019,maize,production_tons,96249.0
+Meru,2020,maize,area_ha,67416.0
+Meru,2020,maize,production_tons,74757.0
+Meru,2021,maize,area_ha,75058.0
+Meru,2021,maize,production_tons,53331.0
+Meru,2022,maize,area_ha,66338.0
+Meru,2022,maize,production_tons,63157.0
+Meru,2023,maize,area_ha,142379.0
+Meru,2023,maize,production_tons,151039.0
+Meru,2024,maize,area_ha,136082.0
+Meru,2024,maize,production_tons,133150.0
+Migori,2019,maize,area_ha,80745.0
+Migori,2019,maize,production_tons,103965.0
+Migori,2020,maize,area_ha,78222.0
+Migori,2020,maize,production_tons,95966.0
+Migori,2021,maize,area_ha,95034.0
+Migori,2021,maize,production_tons,99598.0
+Migori,2022,maize,area_ha,85628.0
+Migori,2022,maize,production_tons,92441.0
+Migori,2023,maize,area_ha,78567.0
+Migori,2023,maize,production_tons,101474.0
+Migori,2024,maize,area_ha,88449.0
+Migori,2024,maize,production_tons,148919.0
+Mombasa,2019,maize,area_ha,481.0
+Mombasa,2019,maize,production_tons,259.0
+Mombasa,2020,maize,area_ha,606.0
+Mombasa,2020,maize,production_tons,803.0
+Mombasa,2021,maize,area_ha,649.0
+Mombasa,2021,maize,production_tons,0.0
+Mombasa,2022,maize,area_ha,842.0
+Mombasa,2022,maize,production_tons,272.0
+Mombasa,2023,maize,area_ha,876.0
+Mombasa,2023,maize,production_tons,878.0
+Mombasa,2024,maize,area_ha,867.0
+Mombasa,2024,maize,production_tons,770.0
+Murang'a,2019,maize,area_ha,68329.0
+Murang'a,2019,maize,production_tons,74087.0
+Murang'a,2020,maize,area_ha,66381.0
+Murang'a,2020,maize,production_tons,63653.0
+Murang'a,2021,maize,area_ha,62983.0
+Murang'a,2021,maize,production_tons,49256.0
+Murang'a,2022,maize,area_ha,67530.0
+Murang'a,2022,maize,production_tons,47434.0
+Murang'a,2023,maize,area_ha,68399.0
+Murang'a,2023,maize,production_tons,56827.0
+Murang'a,2024,maize,area_ha,54189.0
+Murang'a,2024,maize,production_tons,55488.0
+Nairobi,2019,maize,area_ha,725.0
+Nairobi,2019,maize,production_tons,1087.0
+Nairobi,2020,maize,area_ha,684.0
+Nairobi,2020,maize,production_tons,972.0
+Nairobi,2021,maize,area_ha,754.0
+Nairobi,2021,maize,production_tons,571.0
+Nairobi,2022,maize,area_ha,661.0
+Nairobi,2022,maize,production_tons,246.0
+Nairobi,2023,maize,area_ha,758.0
+Nairobi,2023,maize,production_tons,676.0
+Nairobi,2024,maize,area_ha,713.0
+Nairobi,2024,maize,production_tons,641.0
+Nakuru,2019,maize,area_ha,76706.0
+Nakuru,2019,maize,production_tons,214784.0
+Nakuru,2020,maize,area_ha,64963.0
+Nakuru,2020,maize,production_tons,206151.0
+Nakuru,2021,maize,area_ha,87651.0
+Nakuru,2021,maize,production_tons,242825.0
+Nakuru,2022,maize,area_ha,66315.0
+Nakuru,2022,maize,production_tons,213786.0
+Nakuru,2023,maize,area_ha,71470.0
+Nakuru,2023,maize,production_tons,215412.0
+Nakuru,2024,maize,area_ha,94421.0
+Nakuru,2024,maize,production_tons,201876.0
+Nandi,2019,maize,area_ha,66627.0
+Nandi,2019,maize,production_tons,184127.0
+Nandi,2020,maize,area_ha,59746.0
+Nandi,2020,maize,production_tons,165866.0
+Nandi,2021,maize,area_ha,26825.0
+Nandi,2021,maize,production_tons,64175.0
+Nandi,2022,maize,area_ha,45674.0
+Nandi,2022,maize,production_tons,89447.0
+Nandi,2023,maize,area_ha,67429.0
+Nandi,2023,maize,production_tons,159556.0
+Nandi,2024,maize,area_ha,57812.0
+Nandi,2024,maize,production_tons,179389.0
+Narok,2019,maize,area_ha,111559.0
+Narok,2019,maize,production_tons,210005.0
+Narok,2020,maize,area_ha,116717.0
+Narok,2020,maize,production_tons,202855.0
+Narok,2021,maize,area_ha,121809.0
+Narok,2021,maize,production_tons,280273.0
+Narok,2022,maize,area_ha,127460.0
+Narok,2022,maize,production_tons,271028.0
+Narok,2023,maize,area_ha,132396.0
+Narok,2023,maize,production_tons,314403.0
+Narok,2024,maize,area_ha,122245.0
+Narok,2024,maize,production_tons,224236.0
+Nyamira,2019,maize,area_ha,46870.0
+Nyamira,2019,maize,production_tons,80693.0
+Nyamira,2020,maize,area_ha,42730.0
+Nyamira,2020,maize,production_tons,67563.0
+Nyamira,2021,maize,area_ha,43134.0
+Nyamira,2021,maize,production_tons,61937.0
+Nyamira,2022,maize,area_ha,48280.0
+Nyamira,2022,maize,production_tons,76884.0
+Nyamira,2023,maize,area_ha,48175.0
+Nyamira,2023,maize,production_tons,63424.0
+Nyamira,2024,maize,area_ha,48580.0
+Nyamira,2024,maize,production_tons,89599.0
+Nyandarua,2019,maize,area_ha,13800.0
+Nyandarua,2019,maize,production_tons,27795.0
+Nyandarua,2020,maize,area_ha,17660.0
+Nyandarua,2020,maize,production_tons,39170.0
+Nyandarua,2021,maize,area_ha,14070.0
+Nyandarua,2021,maize,production_tons,27958.0
+Nyandarua,2022,maize,area_ha,20060.0
+Nyandarua,2022,maize,production_tons,26836.0
+Nyandarua,2023,maize,area_ha,20716.0
+Nyandarua,2023,maize,production_tons,46617.0
+Nyandarua,2024,maize,area_ha,14987.0
+Nyandarua,2024,maize,production_tons,28698.0
+Nyeri,2019,maize,area_ha,28874.0
+Nyeri,2019,maize,production_tons,29738.0
+Nyeri,2020,maize,area_ha,26521.0
+Nyeri,2020,maize,production_tons,26251.0
+Nyeri,2021,maize,area_ha,27067.0
+Nyeri,2021,maize,production_tons,19382.0
+Nyeri,2022,maize,area_ha,26984.0
+Nyeri,2022,maize,production_tons,14323.0
+Nyeri,2023,maize,area_ha,31317.0
+Nyeri,2023,maize,production_tons,35280.0
+Nyeri,2024,maize,area_ha,29248.0
+Nyeri,2024,maize,production_tons,24832.0
+Samburu,2019,maize,area_ha,8580.0
+Samburu,2019,maize,production_tons,1839.0
+Samburu,2020,maize,area_ha,10320.0
+Samburu,2020,maize,production_tons,9756.0
+Samburu,2021,maize,area_ha,12425.0
+Samburu,2021,maize,production_tons,12090.0
+Samburu,2022,maize,area_ha,15870.0
+Samburu,2022,maize,production_tons,11178.0
+Samburu,2023,maize,area_ha,6448.0
+Samburu,2023,maize,production_tons,15298.0
+Samburu,2024,maize,area_ha,11572.0
+Samburu,2024,maize,production_tons,9135.0
+Siaya,2019,maize,area_ha,64387.0
+Siaya,2019,maize,production_tons,75733.0
+Siaya,2020,maize,area_ha,63493.0
+Siaya,2020,maize,production_tons,72351.0
+Siaya,2021,maize,area_ha,83933.0
+Siaya,2021,maize,production_tons,53512.0
+Siaya,2022,maize,area_ha,73521.0
+Siaya,2022,maize,production_tons,76580.0
+Siaya,2023,maize,area_ha,77550.0
+Siaya,2023,maize,production_tons,115191.0
+Siaya,2024,maize,area_ha,77660.0
+Siaya,2024,maize,production_tons,143979.0
+Taita Taveta,2019,maize,area_ha,17069.0
+Taita Taveta,2019,maize,production_tons,16698.0
+Taita Taveta,2020,maize,area_ha,10006.0
+Taita Taveta,2020,maize,production_tons,16643.0
+Taita Taveta,2021,maize,area_ha,12252.0
+Taita Taveta,2021,maize,production_tons,3360.0
+Taita Taveta,2022,maize,area_ha,11464.0
+Taita Taveta,2022,maize,production_tons,10893.0
+Taita Taveta,2023,maize,area_ha,13596.0
+Taita Taveta,2023,maize,production_tons,12393.0
+Taita Taveta,2024,maize,area_ha,11426.0
+Taita Taveta,2024,maize,production_tons,13176.0
+Tana River,2019,maize,area_ha,5311.0
+Tana River,2019,maize,production_tons,4471.0
+Tana River,2020,maize,area_ha,5666.0
+Tana River,2020,maize,production_tons,8222.0
+Tana River,2021,maize,area_ha,4251.0
+Tana River,2021,maize,production_tons,958.0
+Tana River,2022,maize,area_ha,6673.0
+Tana River,2022,maize,production_tons,8257.0
+Tana River,2023,maize,area_ha,5734.0
+Tana River,2023,maize,production_tons,5879.0
+Tana River,2024,maize,area_ha,5063.0
+Tana River,2024,maize,production_tons,14658.0
+Tharaka Nithi,2019,maize,area_ha,24436.0
+Tharaka Nithi,2019,maize,production_tons,11943.0
+Tharaka Nithi,2020,maize,area_ha,18591.0
+Tharaka Nithi,2020,maize,production_tons,41601.0
+Tharaka Nithi,2021,maize,area_ha,25420.0
+Tharaka Nithi,2021,maize,production_tons,30352.0
+Tharaka Nithi,2022,maize,area_ha,23640.0
+Tharaka Nithi,2022,maize,production_tons,20668.0
+Tharaka Nithi,2023,maize,area_ha,26617.0
+Tharaka Nithi,2023,maize,production_tons,33808.0
+Tharaka Nithi,2024,maize,area_ha,37588.0
+Tharaka Nithi,2024,maize,production_tons,55426.0
+Trans Nzoia,2019,maize,area_ha,106549.0
+Trans Nzoia,2019,maize,production_tons,426499.0
+Trans Nzoia,2020,maize,area_ha,104850.0
+Trans Nzoia,2020,maize,production_tons,489056.0
+Trans Nzoia,2021,maize,area_ha,107090.0
+Trans Nzoia,2021,maize,production_tons,407913.0
+Trans Nzoia,2022,maize,area_ha,95140.0
+Trans Nzoia,2022,maize,production_tons,339990.0
+Trans Nzoia,2023,maize,area_ha,125065.0
+Trans Nzoia,2023,maize,production_tons,448011.0
+Trans Nzoia,2024,maize,area_ha,124976.0
+Trans Nzoia,2024,maize,production_tons,423156.0
+Turkana,2019,maize,area_ha,8931.0
+Turkana,2019,maize,production_tons,5689.0
+Turkana,2020,maize,area_ha,2475.0
+Turkana,2020,maize,production_tons,2582.0
+Turkana,2021,maize,area_ha,1295.0
+Turkana,2021,maize,production_tons,1154.0
+Turkana,2022,maize,area_ha,3408.0
+Turkana,2022,maize,production_tons,452.0
+Turkana,2023,maize,area_ha,1750.0
+Turkana,2023,maize,production_tons,1331.0
+Turkana,2024,maize,area_ha,3704.0
+Turkana,2024,maize,production_tons,4217.0
+Uasin Gishu,2019,maize,area_ha,100081.0
+Uasin Gishu,2019,maize,production_tons,324366.0
+Uasin Gishu,2020,maize,area_ha,106999.0
+Uasin Gishu,2020,maize,production_tons,456574.0
+Uasin Gishu,2021,maize,area_ha,104645.0
+Uasin Gishu,2021,maize,production_tons,385400.0
+Uasin Gishu,2022,maize,area_ha,102820.0
+Uasin Gishu,2022,maize,production_tons,359870.0
+Uasin Gishu,2023,maize,area_ha,117923.0
+Uasin Gishu,2023,maize,production_tons,476538.0
+Uasin Gishu,2024,maize,area_ha,107009.0
+Uasin Gishu,2024,maize,production_tons,483211.0
+Vihiga,2019,maize,area_ha,28560.0
+Vihiga,2019,maize,production_tons,38208.0
+Vihiga,2020,maize,area_ha,25134.0
+Vihiga,2020,maize,production_tons,30566.0
+Vihiga,2021,maize,area_ha,22340.0
+Vihiga,2021,maize,production_tons,24191.0
+Vihiga,2022,maize,area_ha,26142.0
+Vihiga,2022,maize,production_tons,25335.0
+Vihiga,2023,maize,area_ha,24921.0
+Vihiga,2023,maize,production_tons,29659.0
+Vihiga,2024,maize,area_ha,24771.0
+Vihiga,2024,maize,production_tons,34171.0
+Wajir,2019,maize,area_ha,306.0
+Wajir,2019,maize,production_tons,225.0
+Wajir,2020,maize,area_ha,98.0
+Wajir,2020,maize,production_tons,39.0
+Wajir,2021,maize,area_ha,54.0
+Wajir,2021,maize,production_tons,19.0
+Wajir,2022,maize,area_ha,72.0
+Wajir,2022,maize,production_tons,25.0
+Wajir,2023,maize,area_ha,132.0
+Wajir,2023,maize,production_tons,34.0
+Wajir,2024,maize,area_ha,278.0
+Wajir,2024,maize,production_tons,216.0
+West Pokot,2019,maize,area_ha,36720.0
+West Pokot,2019,maize,production_tons,82849.0
+West Pokot,2020,maize,area_ha,32354.0
+West Pokot,2020,maize,production_tons,23400.0
+West Pokot,2021,maize,area_ha,34911.0
+West Pokot,2021,maize,production_tons,53193.0
+West Pokot,2022,maize,area_ha,34780.0
+West Pokot,2022,maize,production_tons,52650.0
+West Pokot,2023,maize,area_ha,49097.0
+West Pokot,2023,maize,production_tons,96010.0
+West Pokot,2024,maize,area_ha,56403.0
+West Pokot,2024,maize,production_tons,96984.0
+Baringo,2019,sorghum,area_ha,1028.0
+Baringo,2019,sorghum,production_tons,1209.0
+Baringo,2020,sorghum,area_ha,1467.0
+Baringo,2020,sorghum,production_tons,2261.0
+Baringo,2021,sorghum,area_ha,1448.0
+Baringo,2021,sorghum,production_tons,562.0
+Baringo,2022,sorghum,area_ha,1590.0
+Baringo,2022,sorghum,production_tons,557.0
+Baringo,2023,sorghum,area_ha,1666.0
+Baringo,2023,sorghum,production_tons,1822.0
+Baringo,2024,sorghum,area_ha,1750.0
+Baringo,2024,sorghum,production_tons,2296.0
+Bomet,2019,sorghum,area_ha,1535.0
+Bomet,2019,sorghum,production_tons,2959.0
+Bomet,2020,sorghum,area_ha,2165.0
+Bomet,2020,sorghum,production_tons,4920.0
+Bomet,2021,sorghum,area_ha,2046.0
+Bomet,2021,sorghum,production_tons,4245.0
+Bomet,2022,sorghum,area_ha,1777.0
+Bomet,2022,sorghum,production_tons,2138.0
+Bomet,2023,sorghum,area_ha,734.0
+Bomet,2023,sorghum,production_tons,1148.0
+Bomet,2024,sorghum,area_ha,1333.0
+Bomet,2024,sorghum,production_tons,1434.0
+Bungoma,2019,sorghum,area_ha,532.0
+Bungoma,2019,sorghum,production_tons,800.0
+Bungoma,2020,sorghum,area_ha,599.0
+Bungoma,2020,sorghum,production_tons,916.0
+Bungoma,2021,sorghum,area_ha,510.0
+Bungoma,2021,sorghum,production_tons,765.0
+Bungoma,2022,sorghum,area_ha,516.0
+Bungoma,2022,sorghum,production_tons,631.0
+Bungoma,2023,sorghum,area_ha,488.0
+Bungoma,2023,sorghum,production_tons,762.0
+Bungoma,2024,sorghum,area_ha,516.0
+Bungoma,2024,sorghum,production_tons,860.0
+Busia,2019,sorghum,area_ha,10318.0
+Busia,2019,sorghum,production_tons,14996.0
+Busia,2020,sorghum,area_ha,9574.0
+Busia,2020,sorghum,production_tons,11060.0
+Busia,2021,sorghum,area_ha,8865.0
+Busia,2021,sorghum,production_tons,5984.0
+Busia,2022,sorghum,area_ha,5044.0
+Busia,2022,sorghum,production_tons,5079.0
+Busia,2023,sorghum,area_ha,5392.0
+Busia,2023,sorghum,production_tons,7710.0
+Busia,2024,sorghum,area_ha,5891.0
+Busia,2024,sorghum,production_tons,8001.0
+Elgeyo Marakwet,2020,sorghum,area_ha,325.0
+Elgeyo Marakwet,2020,sorghum,production_tons,393.0
+Elgeyo Marakwet,2021,sorghum,area_ha,740.0
+Elgeyo Marakwet,2021,sorghum,production_tons,915.0
+Elgeyo Marakwet,2022,sorghum,area_ha,735.0
+Elgeyo Marakwet,2022,sorghum,production_tons,936.0
+Elgeyo Marakwet,2023,sorghum,area_ha,1072.0
+Elgeyo Marakwet,2023,sorghum,production_tons,1996.0
+Elgeyo Marakwet,2024,sorghum,area_ha,1150.0
+Elgeyo Marakwet,2024,sorghum,production_tons,2607.0
+Embu,2019,sorghum,area_ha,7043.0
+Embu,2019,sorghum,production_tons,8375.0
+Embu,2020,sorghum,area_ha,6425.0
+Embu,2020,sorghum,production_tons,3358.0
+Embu,2021,sorghum,area_ha,5138.0
+Embu,2021,sorghum,production_tons,1389.0
+Embu,2022,sorghum,area_ha,3741.0
+Embu,2022,sorghum,production_tons,1629.0
+Embu,2023,sorghum,area_ha,3857.0
+Embu,2023,sorghum,production_tons,6491.0
+Embu,2024,sorghum,area_ha,2854.0
+Embu,2024,sorghum,production_tons,1127.0
+Garissa,2019,sorghum,area_ha,49.0
+Garissa,2019,sorghum,production_tons,34.0
+Garissa,2020,sorghum,area_ha,81.0
+Garissa,2020,sorghum,production_tons,196.0
+Garissa,2021,sorghum,area_ha,69.0
+Garissa,2021,sorghum,production_tons,71.0
+Garissa,2022,sorghum,area_ha,53.0
+Garissa,2022,sorghum,production_tons,47.0
+Garissa,2023,sorghum,area_ha,130.0
+Garissa,2023,sorghum,production_tons,111.0
+Garissa,2024,sorghum,area_ha,144.0
+Garissa,2024,sorghum,production_tons,126.0
+Homa Bay,2019,sorghum,area_ha,26503.0
+Homa Bay,2019,sorghum,production_tons,27243.0
+Homa Bay,2020,sorghum,area_ha,25377.0
+Homa Bay,2020,sorghum,production_tons,26489.0
+Homa Bay,2021,sorghum,area_ha,20466.0
+Homa Bay,2021,sorghum,production_tons,22691.0
+Homa Bay,2022,sorghum,area_ha,32585.0
+Homa Bay,2022,sorghum,production_tons,20965.0
+Homa Bay,2023,sorghum,area_ha,24740.0
+Homa Bay,2023,sorghum,production_tons,28042.0
+Homa Bay,2024,sorghum,area_ha,36052.0
+Homa Bay,2024,sorghum,production_tons,48347.0
+Isiolo,2019,sorghum,area_ha,37.0
+Isiolo,2019,sorghum,production_tons,7.0
+Isiolo,2020,sorghum,area_ha,0.0
+Isiolo,2020,sorghum,production_tons,0.0
+Isiolo,2021,sorghum,area_ha,6.0
+Isiolo,2021,sorghum,production_tons,6.0
+Isiolo,2022,sorghum,area_ha,0.0
+Isiolo,2022,sorghum,production_tons,0.0
+Isiolo,2023,sorghum,area_ha,0.0
+Isiolo,2023,sorghum,production_tons,0.0
+Isiolo,2024,sorghum,area_ha,0.0
+Isiolo,2024,sorghum,production_tons,0.0
+Kajiado,2019,sorghum,area_ha,10.0
+Kajiado,2019,sorghum,production_tons,9.0
+Kajiado,2020,sorghum,area_ha,10.0
+Kajiado,2020,sorghum,production_tons,9.0
+Kajiado,2021,sorghum,area_ha,15.0
+Kajiado,2021,sorghum,production_tons,22.0
+Kajiado,2022,sorghum,area_ha,9.0
+Kajiado,2022,sorghum,production_tons,5.0
+Kajiado,2023,sorghum,area_ha,2.0
+Kajiado,2023,sorghum,production_tons,2.0
+Kajiado,2024,sorghum,area_ha,36.0
+Kajiado,2024,sorghum,production_tons,39.0
+Kakamega,2019,sorghum,area_ha,494.0
+Kakamega,2019,sorghum,production_tons,618.0
+Kakamega,2020,sorghum,area_ha,387.0
+Kakamega,2020,sorghum,production_tons,505.0
+Kakamega,2021,sorghum,area_ha,656.0
+Kakamega,2021,sorghum,production_tons,755.0
+Kakamega,2022,sorghum,area_ha,669.0
+Kakamega,2022,sorghum,production_tons,446.0
+Kakamega,2023,sorghum,area_ha,448.0
+Kakamega,2023,sorghum,production_tons,575.0
+Kakamega,2024,sorghum,area_ha,895.0
+Kakamega,2024,sorghum,production_tons,860.0
+Kericho,2019,sorghum,area_ha,675.0
+Kericho,2019,sorghum,production_tons,1215.0
+Kericho,2020,sorghum,area_ha,735.0
+Kericho,2020,sorghum,production_tons,1440.0
+Kericho,2021,sorghum,area_ha,764.0
+Kericho,2021,sorghum,production_tons,1375.0
+Kericho,2022,sorghum,area_ha,954.0
+Kericho,2022,sorghum,production_tons,1288.0
+Kericho,2023,sorghum,area_ha,985.0
+Kericho,2023,sorghum,production_tons,1064.0
+Kericho,2024,sorghum,area_ha,1049.0
+Kericho,2024,sorghum,production_tons,1228.0
+Kiambu,2019,sorghum,area_ha,100.0
+Kiambu,2019,sorghum,production_tons,59.0
+Kiambu,2020,sorghum,area_ha,0.0
+Kiambu,2020,sorghum,production_tons,0.0
+Kiambu,2021,sorghum,area_ha,0.0
+Kiambu,2021,sorghum,production_tons,0.0
+Kiambu,2022,sorghum,area_ha,0.0
+Kiambu,2022,sorghum,production_tons,0.0
+Kiambu,2023,sorghum,area_ha,28.0
+Kiambu,2023,sorghum,production_tons,25.0
+Kiambu,2024,sorghum,area_ha,10.0
+Kiambu,2024,sorghum,production_tons,14.0
+Kilifi,2019,sorghum,area_ha,408.0
+Kilifi,2019,sorghum,production_tons,580.0
+Kilifi,2020,sorghum,area_ha,403.0
+Kilifi,2020,sorghum,production_tons,76.0
+Kilifi,2021,sorghum,area_ha,391.0
+Kilifi,2021,sorghum,production_tons,112.0
+Kilifi,2022,sorghum,area_ha,372.0
+Kilifi,2022,sorghum,production_tons,42.0
+Kilifi,2023,sorghum,area_ha,243.0
+Kilifi,2023,sorghum,production_tons,45.0
+Kilifi,2024,sorghum,area_ha,26.0
+Kilifi,2024,sorghum,production_tons,6.0
+Kirinyaga,2019,sorghum,area_ha,88.0
+Kirinyaga,2019,sorghum,production_tons,59.0
+Kirinyaga,2020,sorghum,area_ha,93.0
+Kirinyaga,2020,sorghum,production_tons,108.0
+Kirinyaga,2021,sorghum,area_ha,86.0
+Kirinyaga,2021,sorghum,production_tons,71.0
+Kirinyaga,2022,sorghum,area_ha,73.0
+Kirinyaga,2022,sorghum,production_tons,25.0
+Kirinyaga,2023,sorghum,area_ha,110.0
+Kirinyaga,2023,sorghum,production_tons,149.0
+Kirinyaga,2024,sorghum,area_ha,40.0
+Kirinyaga,2024,sorghum,production_tons,61.0
+Kisii,2019,sorghum,area_ha,146.0
+Kisii,2019,sorghum,production_tons,152.0
+Kisii,2020,sorghum,area_ha,98.0
+Kisii,2020,sorghum,production_tons,80.0
+Kisii,2021,sorghum,area_ha,94.0
+Kisii,2021,sorghum,production_tons,160.0
+Kisii,2022,sorghum,area_ha,85.0
+Kisii,2022,sorghum,production_tons,67.0
+Kisii,2023,sorghum,area_ha,117.0
+Kisii,2023,sorghum,production_tons,98.0
+Kisii,2024,sorghum,area_ha,257.0
+Kisii,2024,sorghum,production_tons,242.0
+Kisumu,2019,sorghum,area_ha,22540.0
+Kisumu,2019,sorghum,production_tons,21800.0
+Kisumu,2020,sorghum,area_ha,20740.0
+Kisumu,2020,sorghum,production_tons,22974.0
+Kisumu,2021,sorghum,area_ha,20800.0
+Kisumu,2021,sorghum,production_tons,19742.0
+Kisumu,2022,sorghum,area_ha,16460.0
+Kisumu,2022,sorghum,production_tons,11851.0
+Kisumu,2023,sorghum,area_ha,21500.0
+Kisumu,2023,sorghum,production_tons,26946.0
+Kisumu,2024,sorghum,area_ha,21600.0
+Kisumu,2024,sorghum,production_tons,24246.0
+Kitui,2019,sorghum,area_ha,70384.0
+Kitui,2019,sorghum,production_tons,125000.0
+Kitui,2020,sorghum,area_ha,67872.0
+Kitui,2020,sorghum,production_tons,162004.0
+Kitui,2021,sorghum,area_ha,70509.0
+Kitui,2021,sorghum,production_tons,20494.0
+Kitui,2022,sorghum,area_ha,66391.0
+Kitui,2022,sorghum,production_tons,19479.0
+Kitui,2023,sorghum,area_ha,68755.0
+Kitui,2023,sorghum,production_tons,37325.0
+Kitui,2024,sorghum,area_ha,60608.0
+Kitui,2024,sorghum,production_tons,19836.0
+Kwale,2019,sorghum,area_ha,1226.0
+Kwale,2019,sorghum,production_tons,1800.0
+Kwale,2020,sorghum,area_ha,718.0
+Kwale,2020,sorghum,production_tons,574.0
+Kwale,2021,sorghum,area_ha,718.0
+Kwale,2021,sorghum,production_tons,1026.0
+Kwale,2022,sorghum,area_ha,50.0
+Kwale,2022,sorghum,production_tons,23.0
+Kwale,2023,sorghum,area_ha,308.0
+Kwale,2023,sorghum,production_tons,190.0
+Kwale,2024,sorghum,area_ha,301.0
+Kwale,2024,sorghum,production_tons,198.0
+Laikipia,2019,sorghum,area_ha,514.0
+Laikipia,2019,sorghum,production_tons,559.0
+Lamu,2019,sorghum,area_ha,572.0
+Lamu,2019,sorghum,production_tons,777.0
+Lamu,2020,sorghum,area_ha,800.0
+Lamu,2020,sorghum,production_tons,1663.0
+Lamu,2021,sorghum,area_ha,30.0
+Lamu,2021,sorghum,production_tons,34.0
+Lamu,2022,sorghum,area_ha,950.0
+Lamu,2022,sorghum,production_tons,960.0
+Lamu,2023,sorghum,area_ha,2004.0
+Lamu,2023,sorghum,production_tons,2839.0
+Lamu,2024,sorghum,area_ha,630.0
+Lamu,2024,sorghum,production_tons,1133.0
+Machakos,2019,sorghum,area_ha,10952.0
+Machakos,2019,sorghum,production_tons,8584.0
+Machakos,2020,sorghum,area_ha,9682.0
+Machakos,2020,sorghum,production_tons,4548.0
+Machakos,2021,sorghum,area_ha,8095.0
+Machakos,2021,sorghum,production_tons,5053.0
+Machakos,2022,sorghum,area_ha,9238.0
+Machakos,2022,sorghum,production_tons,6008.0
+Machakos,2023,sorghum,area_ha,5456.0
+Machakos,2023,sorghum,production_tons,2010.0
+Machakos,2024,sorghum,area_ha,2276.0
+Machakos,2024,sorghum,production_tons,501.0
+Makueni,2019,sorghum,area_ha,10776.0
+Makueni,2019,sorghum,production_tons,11380.0
+Makueni,2020,sorghum,area_ha,8495.0
+Makueni,2020,sorghum,production_tons,8153.0
+Makueni,2021,sorghum,area_ha,8256.0
+Makueni,2021,sorghum,production_tons,5175.0
+Makueni,2022,sorghum,area_ha,7582.0
+Makueni,2022,sorghum,production_tons,4725.0
+Makueni,2023,sorghum,area_ha,7113.0
+Makueni,2023,sorghum,production_tons,2532.0
+Makueni,2024,sorghum,area_ha,7435.0
+Makueni,2024,sorghum,production_tons,2098.0
+Mandera,2019,sorghum,area_ha,937.0
+Mandera,2019,sorghum,production_tons,499.0
+Mandera,2020,sorghum,area_ha,1255.0
+Mandera,2020,sorghum,production_tons,738.0
+Mandera,2021,sorghum,area_ha,1204.0
+Mandera,2021,sorghum,production_tons,786.0
+Mandera,2022,sorghum,area_ha,869.0
+Mandera,2022,sorghum,production_tons,616.0
+Mandera,2023,sorghum,area_ha,1345.0
+Mandera,2023,sorghum,production_tons,1035.0
+Mandera,2024,sorghum,area_ha,1108.0
+Mandera,2024,sorghum,production_tons,891.0
+Marsabit,2019,sorghum,area_ha,50.0
+Marsabit,2019,sorghum,production_tons,16.0
+Marsabit,2020,sorghum,area_ha,69.0
+Marsabit,2020,sorghum,production_tons,17.0
+Marsabit,2021,sorghum,area_ha,69.0
+Marsabit,2021,sorghum,production_tons,11.0
+Marsabit,2022,sorghum,area_ha,76.0
+Marsabit,2022,sorghum,production_tons,3.0
+Marsabit,2023,sorghum,area_ha,106.0
+Marsabit,2023,sorghum,production_tons,140.0
+Marsabit,2024,sorghum,area_ha,112.0
+Marsabit,2024,sorghum,production_tons,87.0
+Meru,2019,sorghum,area_ha,12918.0
+Meru,2019,sorghum,production_tons,9970.0
+Meru,2020,sorghum,area_ha,10519.0
+Meru,2020,sorghum,production_tons,11903.0
+Meru,2021,sorghum,area_ha,9368.0
+Meru,2021,sorghum,production_tons,7752.0
+Meru,2022,sorghum,area_ha,9603.0
+Meru,2022,sorghum,production_tons,7978.0
+Meru,2023,sorghum,area_ha,10897.0
+Meru,2023,sorghum,production_tons,34340.0
+Meru,2024,sorghum,area_ha,40991.0
+Meru,2024,sorghum,production_tons,30709.0
+Migori,2019,sorghum,area_ha,11355.0
+Migori,2019,sorghum,production_tons,9080.0
+Migori,2020,sorghum,area_ha,7034.0
+Migori,2020,sorghum,production_tons,4936.0
+Migori,2021,sorghum,area_ha,4381.0
+Migori,2021,sorghum,production_tons,3538.0
+Migori,2022,sorghum,area_ha,4514.0
+Migori,2022,sorghum,production_tons,3374.0
+Migori,2023,sorghum,area_ha,5034.0
+Migori,2023,sorghum,production_tons,3922.0
+Migori,2024,sorghum,area_ha,28225.0
+Migori,2024,sorghum,production_tons,60891.0
+Murang'a,2019,sorghum,area_ha,131.0
+Murang'a,2019,sorghum,production_tons,117.0
+Murang'a,2020,sorghum,area_ha,164.0
+Murang'a,2020,sorghum,production_tons,107.0
+Murang'a,2021,sorghum,area_ha,223.0
+Murang'a,2021,sorghum,production_tons,189.0
+Murang'a,2022,sorghum,area_ha,126.0
+Murang'a,2022,sorghum,production_tons,79.0
+Murang'a,2023,sorghum,area_ha,203.0
+Murang'a,2023,sorghum,production_tons,143.0
+Murang'a,2024,sorghum,area_ha,210.0
+Murang'a,2024,sorghum,production_tons,188.0
+Nairobi,2019,sorghum,area_ha,7.0
+Nairobi,2019,sorghum,production_tons,6.0
+Nairobi,2020,sorghum,area_ha,5.0
+Nairobi,2020,sorghum,production_tons,3.0
+Nairobi,2021,sorghum,area_ha,7.0
+Nairobi,2021,sorghum,production_tons,16.0
+Nairobi,2022,sorghum,area_ha,4.0
+Nairobi,2022,sorghum,production_tons,2.0
+Nairobi,2023,sorghum,area_ha,5.0
+Nairobi,2023,sorghum,production_tons,4.0
+Nairobi,2024,sorghum,area_ha,4.0
+Nairobi,2024,sorghum,production_tons,3.0
+Nakuru,2019,sorghum,area_ha,806.0
+Nakuru,2019,sorghum,production_tons,1486.0
+Nakuru,2020,sorghum,area_ha,713.0
+Nakuru,2020,sorghum,production_tons,1054.0
+Nakuru,2021,sorghum,area_ha,560.0
+Nakuru,2021,sorghum,production_tons,858.0
+Nakuru,2022,sorghum,area_ha,480.0
+Nakuru,2022,sorghum,production_tons,602.0
+Nakuru,2023,sorghum,area_ha,559.0
+Nakuru,2023,sorghum,production_tons,856.0
+Nakuru,2024,sorghum,area_ha,660.0
+Nakuru,2024,sorghum,production_tons,1138.0
+Nandi,2019,sorghum,area_ha,214.0
+Nandi,2019,sorghum,production_tons,340.0
+Nandi,2020,sorghum,area_ha,140.0
+Nandi,2020,sorghum,production_tons,303.0
+Nandi,2021,sorghum,area_ha,127.0
+Nandi,2021,sorghum,production_tons,223.0
+Nandi,2022,sorghum,area_ha,162.0
+Nandi,2022,sorghum,production_tons,269.0
+Nandi,2023,sorghum,area_ha,463.0
+Nandi,2023,sorghum,production_tons,760.0
+Nandi,2024,sorghum,area_ha,88.0
+Nandi,2024,sorghum,production_tons,145.0
+Narok,2019,sorghum,area_ha,898.0
+Narok,2019,sorghum,production_tons,1431.0
+Narok,2020,sorghum,area_ha,843.0
+Narok,2020,sorghum,production_tons,1143.0
+Narok,2021,sorghum,area_ha,1525.0
+Narok,2021,sorghum,production_tons,879.0
+Narok,2022,sorghum,area_ha,1044.0
+Narok,2022,sorghum,production_tons,1160.0
+Narok,2023,sorghum,area_ha,1486.0
+Narok,2023,sorghum,production_tons,2391.0
+Narok,2024,sorghum,area_ha,1362.0
+Narok,2024,sorghum,production_tons,2134.0
+Nyamira,2019,sorghum,area_ha,81.0
+Nyamira,2019,sorghum,production_tons,59.0
+Nyamira,2020,sorghum,area_ha,44.0
+Nyamira,2020,sorghum,production_tons,47.0
+Nyamira,2021,sorghum,area_ha,39.0
+Nyamira,2021,sorghum,production_tons,45.0
+Nyamira,2022,sorghum,area_ha,45.0
+Nyamira,2022,sorghum,production_tons,38.0
+Nyamira,2023,sorghum,area_ha,65.0
+Nyamira,2023,sorghum,production_tons,45.0
+Nyamira,2024,sorghum,area_ha,54.0
+Nyamira,2024,sorghum,production_tons,47.0
+Samburu,2019,sorghum,area_ha,8.0
+Samburu,2019,sorghum,production_tons,9.0
+Samburu,2020,sorghum,area_ha,8.0
+Samburu,2020,sorghum,production_tons,5.0
+Samburu,2021,sorghum,area_ha,8.0
+Samburu,2021,sorghum,production_tons,5.0
+Samburu,2022,sorghum,area_ha,5.0
+Samburu,2022,sorghum,production_tons,2.0
+Samburu,2023,sorghum,area_ha,5.0
+Samburu,2023,sorghum,production_tons,2.0
+Samburu,2024,sorghum,area_ha,2.0
+Samburu,2024,sorghum,production_tons,1.0
+Siaya,2019,sorghum,area_ha,15634.0
+Siaya,2019,sorghum,production_tons,16288.0
+Siaya,2020,sorghum,area_ha,16019.0
+Siaya,2020,sorghum,production_tons,14925.0
+Siaya,2021,sorghum,area_ha,15999.0
+Siaya,2021,sorghum,production_tons,15555.0
+Siaya,2022,sorghum,area_ha,14643.0
+Siaya,2022,sorghum,production_tons,15183.0
+Siaya,2023,sorghum,area_ha,15046.0
+Siaya,2023,sorghum,production_tons,14876.0
+Siaya,2024,sorghum,area_ha,10438.0
+Siaya,2024,sorghum,production_tons,15007.0
+Taita Taveta,2019,sorghum,area_ha,2435.0
+Taita Taveta,2019,sorghum,production_tons,3972.0
+Taita Taveta,2020,sorghum,area_ha,2071.0
+Taita Taveta,2020,sorghum,production_tons,3327.0
+Taita Taveta,2021,sorghum,area_ha,1446.0
+Taita Taveta,2021,sorghum,production_tons,987.0
+Taita Taveta,2022,sorghum,area_ha,1368.0
+Taita Taveta,2022,sorghum,production_tons,849.0
+Taita Taveta,2023,sorghum,area_ha,1991.0
+Taita Taveta,2023,sorghum,production_tons,1193.0
+Taita Taveta,2024,sorghum,area_ha,1572.0
+Taita Taveta,2024,sorghum,production_tons,781.0
+Tharaka Nithi,2019,sorghum,area_ha,19460.0
+Tharaka Nithi,2019,sorghum,production_tons,12241.0
+Tharaka Nithi,2020,sorghum,area_ha,18097.0
+Tharaka Nithi,2020,sorghum,production_tons,11972.0
+Tharaka Nithi,2021,sorghum,area_ha,19127.0
+Tharaka Nithi,2021,sorghum,production_tons,12337.0
+Tharaka Nithi,2022,sorghum,area_ha,18827.0
+Tharaka Nithi,2022,sorghum,production_tons,11337.0
+Tharaka Nithi,2023,sorghum,area_ha,18843.0
+Tharaka Nithi,2023,sorghum,production_tons,11066.0
+Tharaka Nithi,2024,sorghum,area_ha,14675.0
+Tharaka Nithi,2024,sorghum,production_tons,8947.0
+Trans Nzoia,2019,sorghum,area_ha,307.0
+Trans Nzoia,2019,sorghum,production_tons,450.0
+Trans Nzoia,2020,sorghum,area_ha,287.0
+Trans Nzoia,2020,sorghum,production_tons,386.0
+Trans Nzoia,2021,sorghum,area_ha,273.0
+Trans Nzoia,2021,sorghum,production_tons,382.0
+Trans Nzoia,2022,sorghum,area_ha,315.0
+Trans Nzoia,2022,sorghum,production_tons,314.0
+Trans Nzoia,2023,sorghum,area_ha,491.0
+Trans Nzoia,2023,sorghum,production_tons,988.0
+Trans Nzoia,2024,sorghum,area_ha,445.0
+Trans Nzoia,2024,sorghum,production_tons,802.0
+Turkana,2019,sorghum,area_ha,5682.0
+Turkana,2019,sorghum,production_tons,3500.0
+Turkana,2020,sorghum,area_ha,5520.0
+Turkana,2020,sorghum,production_tons,6736.0
+Turkana,2021,sorghum,area_ha,2580.0
+Turkana,2021,sorghum,production_tons,3812.0
+Turkana,2022,sorghum,area_ha,5108.0
+Turkana,2022,sorghum,production_tons,922.0
+Turkana,2023,sorghum,area_ha,4843.0
+Turkana,2023,sorghum,production_tons,3951.0
+Turkana,2024,sorghum,area_ha,2649.0
+Turkana,2024,sorghum,production_tons,1516.0
+Uasin Gishu,2019,sorghum,area_ha,83.0
+Uasin Gishu,2019,sorghum,production_tons,159.0
+Uasin Gishu,2020,sorghum,area_ha,82.0
+Uasin Gishu,2020,sorghum,production_tons,59.0
+Uasin Gishu,2021,sorghum,area_ha,75.0
+Uasin Gishu,2021,sorghum,production_tons,176.0
+Uasin Gishu,2022,sorghum,area_ha,96.0
+Uasin Gishu,2022,sorghum,production_tons,99.0
+Uasin Gishu,2023,sorghum,area_ha,89.0
+Uasin Gishu,2023,sorghum,production_tons,217.0
+Uasin Gishu,2024,sorghum,area_ha,132.0
+Uasin Gishu,2024,sorghum,production_tons,184.0
+Vihiga,2019,sorghum,area_ha,170.0
+Vihiga,2019,sorghum,production_tons,285.0
+Vihiga,2020,sorghum,area_ha,136.0
+Vihiga,2020,sorghum,production_tons,228.0
+Vihiga,2021,sorghum,area_ha,162.0
+Vihiga,2021,sorghum,production_tons,121.0
+Vihiga,2022,sorghum,area_ha,168.0
+Vihiga,2022,sorghum,production_tons,103.0
+Vihiga,2023,sorghum,area_ha,193.0
+Vihiga,2023,sorghum,production_tons,219.0
+Vihiga,2024,sorghum,area_ha,303.0
+Vihiga,2024,sorghum,production_tons,222.0
+Wajir,2019,sorghum,area_ha,327.0
+Wajir,2019,sorghum,production_tons,497.0
+Wajir,2020,sorghum,area_ha,442.0
+Wajir,2020,sorghum,production_tons,199.0
+Wajir,2021,sorghum,area_ha,412.0
+Wajir,2021,sorghum,production_tons,143.0
+Wajir,2022,sorghum,area_ha,279.0
+Wajir,2022,sorghum,production_tons,346.0
+Wajir,2023,sorghum,area_ha,380.0
+Wajir,2023,sorghum,production_tons,324.0
+Wajir,2024,sorghum,area_ha,541.0
+Wajir,2024,sorghum,production_tons,353.0
+West Pokot,2019,sorghum,area_ha,436.0
+West Pokot,2019,sorghum,production_tons,654.0
+West Pokot,2020,sorghum,area_ha,162.0
+West Pokot,2020,sorghum,production_tons,221.0
+West Pokot,2021,sorghum,area_ha,331.0
+West Pokot,2021,sorghum,production_tons,431.0
+West Pokot,2022,sorghum,area_ha,278.0
+West Pokot,2022,sorghum,production_tons,245.0
+West Pokot,2023,sorghum,area_ha,301.0
+West Pokot,2023,sorghum,production_tons,348.0
+West Pokot,2024,sorghum,area_ha,1239.0
+West Pokot,2024,sorghum,production_tons,810.0
+Baringo,2019,beans,area_ha,21020.0
+Baringo,2019,beans,production_tons,19977.0
+Baringo,2020,beans,area_ha,20914.0
+Baringo,2020,beans,production_tons,24647.0
+Baringo,2021,beans,area_ha,19669.0
+Baringo,2021,beans,production_tons,16289.0
+Baringo,2022,beans,area_ha,23804.0
+Baringo,2022,beans,production_tons,21616.0
+Baringo,2023,beans,area_ha,23677.0
+Baringo,2023,beans,production_tons,22501.0
+Baringo,2024,beans,area_ha,29922.0
+Baringo,2024,beans,production_tons,26699.0
+Bomet,2019,beans,area_ha,32273.0
+Bomet,2019,beans,production_tons,42592.0
+Bomet,2020,beans,area_ha,30570.0
+Bomet,2020,beans,production_tons,41923.0
+Bomet,2021,beans,area_ha,29255.0
+Bomet,2021,beans,production_tons,28263.0
+Bomet,2022,beans,area_ha,29891.0
+Bomet,2022,beans,production_tons,30320.0
+Bomet,2023,beans,area_ha,12803.0
+Bomet,2023,beans,production_tons,12377.0
+Bomet,2024,beans,area_ha,18545.0
+Bomet,2024,beans,production_tons,13368.0
+Bungoma,2019,beans,area_ha,78930.0
+Bungoma,2019,beans,production_tons,56775.0
+Bungoma,2020,beans,area_ha,78644.0
+Bungoma,2020,beans,production_tons,51186.0
+Bungoma,2021,beans,area_ha,87218.0
+Bungoma,2021,beans,production_tons,60141.0
+Bungoma,2022,beans,area_ha,87724.0
+Bungoma,2022,beans,production_tons,49948.0
+Bungoma,2023,beans,area_ha,63445.0
+Bungoma,2023,beans,production_tons,45073.0
+Bungoma,2024,beans,area_ha,64096.0
+Bungoma,2024,beans,production_tons,43390.0
+Busia,2019,beans,area_ha,21083.0
+Busia,2019,beans,production_tons,21412.0
+Busia,2020,beans,area_ha,31065.0
+Busia,2020,beans,production_tons,24034.0
+Busia,2021,beans,area_ha,22314.0
+Busia,2021,beans,production_tons,13349.0
+Busia,2022,beans,area_ha,21528.0
+Busia,2022,beans,production_tons,16583.0
+Busia,2023,beans,area_ha,23069.0
+Busia,2023,beans,production_tons,18090.0
+Busia,2024,beans,area_ha,21160.0
+Busia,2024,beans,production_tons,17847.0
+Elgeyo Marakwet,2020,beans,area_ha,19858.0
+Elgeyo Marakwet,2020,beans,production_tons,8856.0
+Elgeyo Marakwet,2021,beans,area_ha,19872.0
+Elgeyo Marakwet,2021,beans,production_tons,7657.0
+Elgeyo Marakwet,2022,beans,area_ha,19540.0
+Elgeyo Marakwet,2022,beans,production_tons,6356.0
+Elgeyo Marakwet,2023,beans,area_ha,25610.0
+Elgeyo Marakwet,2023,beans,production_tons,28578.0
+Elgeyo Marakwet,2024,beans,area_ha,25862.0
+Elgeyo Marakwet,2024,beans,production_tons,15821.0
+Embu,2019,beans,area_ha,22758.0
+Embu,2019,beans,production_tons,13402.0
+Embu,2020,beans,area_ha,20376.0
+Embu,2020,beans,production_tons,14143.0
+Embu,2021,beans,area_ha,21360.0
+Embu,2021,beans,production_tons,13841.0
+Embu,2022,beans,area_ha,21280.0
+Embu,2022,beans,production_tons,18151.0
+Embu,2023,beans,area_ha,21380.0
+Embu,2023,beans,production_tons,10308.0
+Embu,2024,beans,area_ha,21400.0
+Embu,2024,beans,production_tons,6470.0
+Homa Bay,2019,beans,area_ha,48558.0
+Homa Bay,2019,beans,production_tons,29696.0
+Homa Bay,2020,beans,area_ha,49900.0
+Homa Bay,2020,beans,production_tons,32850.0
+Homa Bay,2021,beans,area_ha,43074.0
+Homa Bay,2021,beans,production_tons,30431.0
+Homa Bay,2022,beans,area_ha,38739.0
+Homa Bay,2022,beans,production_tons,25436.0
+Homa Bay,2023,beans,area_ha,28052.0
+Homa Bay,2023,beans,production_tons,20308.0
+Homa Bay,2024,beans,area_ha,31949.0
+Homa Bay,2024,beans,production_tons,28739.0
+Isiolo,2019,beans,area_ha,314.0
+Isiolo,2019,beans,production_tons,79.0
+Isiolo,2020,beans,area_ha,90.0
+Isiolo,2020,beans,production_tons,7.0
+Isiolo,2021,beans,area_ha,155.0
+Isiolo,2021,beans,production_tons,115.0
+Isiolo,2022,beans,area_ha,134.0
+Isiolo,2022,beans,production_tons,74.0
+Isiolo,2023,beans,area_ha,114.0
+Isiolo,2023,beans,production_tons,42.0
+Isiolo,2024,beans,area_ha,150.0
+Isiolo,2024,beans,production_tons,61.0
+Kajiado,2019,beans,area_ha,49621.0
+Kajiado,2019,beans,production_tons,31812.0
+Kajiado,2020,beans,area_ha,49821.0
+Kajiado,2020,beans,production_tons,43846.0
+Kajiado,2021,beans,area_ha,2370.0
+Kajiado,2021,beans,production_tons,1581.0
+Kajiado,2022,beans,area_ha,49930.0
+Kajiado,2022,beans,production_tons,24286.0
+Kajiado,2023,beans,area_ha,47957.0
+Kajiado,2023,beans,production_tons,42525.0
+Kajiado,2024,beans,area_ha,57493.0
+Kajiado,2024,beans,production_tons,38890.0
+Kakamega,2019,beans,area_ha,60653.0
+Kakamega,2019,beans,production_tons,34869.0
+Kakamega,2020,beans,area_ha,51851.0
+Kakamega,2020,beans,production_tons,27031.0
+Kakamega,2021,beans,area_ha,65341.0
+Kakamega,2021,beans,production_tons,31414.0
+Kakamega,2022,beans,area_ha,72882.0
+Kakamega,2022,beans,production_tons,31120.0
+Kakamega,2023,beans,area_ha,49279.0
+Kakamega,2023,beans,production_tons,43540.0
+Kakamega,2024,beans,area_ha,59128.0
+Kakamega,2024,beans,production_tons,16021.0
+Kericho,2019,beans,area_ha,17528.0
+Kericho,2019,beans,production_tons,14935.0
+Kericho,2020,beans,area_ha,18492.0
+Kericho,2020,beans,production_tons,11812.0
+Kericho,2021,beans,area_ha,18222.0
+Kericho,2021,beans,production_tons,20543.0
+Kericho,2022,beans,area_ha,22151.0
+Kericho,2022,beans,production_tons,21815.0
+Kericho,2023,beans,area_ha,23261.0
+Kericho,2023,beans,production_tons,25336.0
+Kericho,2024,beans,area_ha,24477.0
+Kericho,2024,beans,production_tons,26675.0
+Kiambu,2019,beans,area_ha,25926.0
+Kiambu,2019,beans,production_tons,19538.0
+Kiambu,2020,beans,area_ha,26284.0
+Kiambu,2020,beans,production_tons,27700.0
+Kiambu,2021,beans,area_ha,24911.0
+Kiambu,2021,beans,production_tons,13383.0
+Kiambu,2022,beans,area_ha,24263.0
+Kiambu,2022,beans,production_tons,10819.0
+Kiambu,2023,beans,area_ha,24288.0
+Kiambu,2023,beans,production_tons,10007.0
+Kiambu,2024,beans,area_ha,24711.0
+Kiambu,2024,beans,production_tons,13144.0
+Kilifi,2019,beans,area_ha,52.0
+Kilifi,2019,beans,production_tons,31.0
+Kilifi,2020,beans,area_ha,50.0
+Kilifi,2020,beans,production_tons,18.0
+Kilifi,2021,beans,area_ha,50.0
+Kilifi,2021,beans,production_tons,18.0
+Kilifi,2022,beans,area_ha,58.0
+Kilifi,2022,beans,production_tons,35.0
+Kilifi,2023,beans,area_ha,57.0
+Kilifi,2023,beans,production_tons,19.0
+Kilifi,2024,beans,area_ha,3.0
+Kilifi,2024,beans,production_tons,1.0
+Kirinyaga,2019,beans,area_ha,20470.0
+Kirinyaga,2019,beans,production_tons,7190.0
+Kirinyaga,2020,beans,area_ha,19216.0
+Kirinyaga,2020,beans,production_tons,8994.0
+Kirinyaga,2021,beans,area_ha,19943.0
+Kirinyaga,2021,beans,production_tons,6870.0
+Kirinyaga,2022,beans,area_ha,24431.0
+Kirinyaga,2022,beans,production_tons,6790.0
+Kirinyaga,2023,beans,area_ha,21816.0
+Kirinyaga,2023,beans,production_tons,23335.0
+Kirinyaga,2024,beans,area_ha,17080.0
+Kirinyaga,2024,beans,production_tons,14506.0
+Kisii,2019,beans,area_ha,49799.0
+Kisii,2019,beans,production_tons,24149.0
+Kisii,2020,beans,area_ha,48645.0
+Kisii,2020,beans,production_tons,28090.0
+Kisii,2021,beans,area_ha,47594.0
+Kisii,2021,beans,production_tons,31292.0
+Kisii,2022,beans,area_ha,34104.0
+Kisii,2022,beans,production_tons,21780.0
+Kisii,2023,beans,area_ha,48336.0
+Kisii,2023,beans,production_tons,24392.0
+Kisii,2024,beans,area_ha,47996.0
+Kisii,2024,beans,production_tons,30831.0
+Kisumu,2019,beans,area_ha,26243.0
+Kisumu,2019,beans,production_tons,19753.0
+Kisumu,2020,beans,area_ha,22551.0
+Kisumu,2020,beans,production_tons,14748.0
+Kisumu,2021,beans,area_ha,25130.0
+Kisumu,2021,beans,production_tons,10197.0
+Kisumu,2022,beans,area_ha,26980.0
+Kisumu,2022,beans,production_tons,10873.0
+Kisumu,2023,beans,area_ha,30755.0
+Kisumu,2023,beans,production_tons,23247.0
+Kisumu,2024,beans,area_ha,22000.0
+Kisumu,2024,beans,production_tons,9897.0
+Kitui,2019,beans,area_ha,34938.0
+Kitui,2019,beans,production_tons,33498.0
+Kitui,2020,beans,area_ha,32298.0
+Kitui,2020,beans,production_tons,16044.0
+Kitui,2021,beans,area_ha,34320.0
+Kitui,2021,beans,production_tons,6124.0
+Kitui,2022,beans,area_ha,33539.0
+Kitui,2022,beans,production_tons,10822.0
+Kitui,2023,beans,area_ha,33024.0
+Kitui,2023,beans,production_tons,10948.0
+Kitui,2024,beans,area_ha,35549.0
+Kitui,2024,beans,production_tons,8900.0
+Kwale,2019,beans,area_ha,308.0
+Kwale,2019,beans,production_tons,98.0
+Kwale,2020,beans,area_ha,299.0
+Kwale,2020,beans,production_tons,116.0
+Kwale,2021,beans,area_ha,299.0
+Kwale,2021,beans,production_tons,116.0
+Kwale,2022,beans,area_ha,299.0
+Kwale,2022,beans,production_tons,2914.0
+Kwale,2023,beans,area_ha,324.0
+Kwale,2023,beans,production_tons,227.0
+Kwale,2024,beans,area_ha,158.0
+Kwale,2024,beans,production_tons,47.0
+Laikipia,2019,beans,area_ha,15962.0
+Laikipia,2019,beans,production_tons,11698.0
+Laikipia,2020,beans,area_ha,14535.0
+Laikipia,2020,beans,production_tons,13331.0
+Laikipia,2021,beans,area_ha,14935.0
+Laikipia,2021,beans,production_tons,3620.0
+Laikipia,2022,beans,area_ha,8802.0
+Laikipia,2022,beans,production_tons,2913.0
+Laikipia,2023,beans,area_ha,11975.0
+Laikipia,2023,beans,production_tons,6252.0
+Laikipia,2024,beans,area_ha,14265.0
+Laikipia,2024,beans,production_tons,9557.0
+Machakos,2019,beans,area_ha,64880.0
+Machakos,2019,beans,production_tons,30123.0
+Machakos,2020,beans,area_ha,73015.0
+Machakos,2020,beans,production_tons,32341.0
+Machakos,2021,beans,area_ha,78628.0
+Machakos,2021,beans,production_tons,28874.0
+Machakos,2022,beans,area_ha,89222.0
+Machakos,2022,beans,production_tons,15346.0
+Machakos,2023,beans,area_ha,89098.0
+Machakos,2023,beans,production_tons,53826.0
+Machakos,2024,beans,area_ha,86971.0
+Machakos,2024,beans,production_tons,17988.0
+Makueni,2019,beans,area_ha,38880.0
+Makueni,2019,beans,production_tons,27575.0
+Makueni,2020,beans,area_ha,38631.0
+Makueni,2020,beans,production_tons,31218.0
+Makueni,2021,beans,area_ha,40186.0
+Makueni,2021,beans,production_tons,24519.0
+Makueni,2022,beans,area_ha,49800.0
+Makueni,2022,beans,production_tons,9960.0
+Makueni,2023,beans,area_ha,52656.0
+Makueni,2023,beans,production_tons,23552.0
+Makueni,2024,beans,area_ha,55380.0
+Makueni,2024,beans,production_tons,23921.0
+Mandera,2020,beans,area_ha,0.0
+Mandera,2020,beans,production_tons,0.0
+Mandera,2021,beans,area_ha,0.0
+Mandera,2021,beans,production_tons,0.0
+Mandera,2022,beans,area_ha,0.0
+Mandera,2022,beans,production_tons,0.0
+Mandera,2023,beans,area_ha,19.0
+Mandera,2023,beans,production_tons,11.0
+Mandera,2024,beans,area_ha,25.0
+Mandera,2024,beans,production_tons,18.0
+Marsabit,2019,beans,area_ha,450.0
+Marsabit,2019,beans,production_tons,155.0
+Marsabit,2020,beans,area_ha,521.0
+Marsabit,2020,beans,production_tons,173.0
+Marsabit,2021,beans,area_ha,534.0
+Marsabit,2021,beans,production_tons,200.0
+Marsabit,2022,beans,area_ha,310.0
+Marsabit,2022,beans,production_tons,3.0
+Marsabit,2023,beans,area_ha,476.0
+Marsabit,2023,beans,production_tons,226.0
+Marsabit,2024,beans,area_ha,588.0
+Marsabit,2024,beans,production_tons,160.0
+Meru,2019,beans,area_ha,98235.0
+Meru,2019,beans,production_tons,36025.0
+Meru,2020,beans,area_ha,80783.0
+Meru,2020,beans,production_tons,43593.0
+Meru,2021,beans,area_ha,81119.0
+Meru,2021,beans,production_tons,51184.0
+Meru,2022,beans,area_ha,76210.0
+Meru,2022,beans,production_tons,46847.0
+Meru,2023,beans,area_ha,131624.0
+Meru,2023,beans,production_tons,54244.0
+Meru,2024,beans,area_ha,130331.0
+Meru,2024,beans,production_tons,63226.0
+Migori,2019,beans,area_ha,33575.0
+Migori,2019,beans,production_tons,24198.0
+Migori,2020,beans,area_ha,37995.0
+Migori,2020,beans,production_tons,27609.0
+Migori,2021,beans,area_ha,39279.0
+Migori,2021,beans,production_tons,28679.0
+Migori,2022,beans,area_ha,33548.0
+Migori,2022,beans,production_tons,32630.0
+Migori,2023,beans,area_ha,36199.0
+Migori,2023,beans,production_tons,23267.0
+Migori,2024,beans,area_ha,36133.0
+Migori,2024,beans,production_tons,39157.0
+Murang'a,2019,beans,area_ha,46997.0
+Murang'a,2019,beans,production_tons,16606.0
+Murang'a,2020,beans,area_ha,46011.0
+Murang'a,2020,beans,production_tons,17417.0
+Murang'a,2021,beans,area_ha,44757.0
+Murang'a,2021,beans,production_tons,21268.0
+Murang'a,2022,beans,area_ha,96203.0
+Murang'a,2022,beans,production_tons,19967.0
+Murang'a,2023,beans,area_ha,46051.0
+Murang'a,2023,beans,production_tons,18186.0
+Murang'a,2024,beans,area_ha,33643.0
+Murang'a,2024,beans,production_tons,16382.0
+Nairobi,2019,beans,area_ha,508.0
+Nairobi,2019,beans,production_tons,281.0
+Nairobi,2020,beans,area_ha,518.0
+Nairobi,2020,beans,production_tons,331.0
+Nairobi,2021,beans,area_ha,549.0
+Nairobi,2021,beans,production_tons,288.0
+Nairobi,2022,beans,area_ha,533.0
+Nairobi,2022,beans,production_tons,232.0
+Nairobi,2023,beans,area_ha,588.0
+Nairobi,2023,beans,production_tons,227.0
+Nairobi,2024,beans,area_ha,605.0
+Nairobi,2024,beans,production_tons,287.0
+Nakuru,2019,beans,area_ha,45977.0
+Nakuru,2019,beans,production_tons,36575.0
+Nakuru,2020,beans,area_ha,39555.0
+Nakuru,2020,beans,production_tons,38884.0
+Nakuru,2021,beans,area_ha,61027.0
+Nakuru,2021,beans,production_tons,42274.0
+Nakuru,2022,beans,area_ha,76260.0
+Nakuru,2022,beans,production_tons,94741.0
+Nakuru,2023,beans,area_ha,50835.0
+Nakuru,2023,beans,production_tons,99926.0
+Nakuru,2024,beans,area_ha,61416.0
+Nakuru,2024,beans,production_tons,55497.0
+Nandi,2019,beans,area_ha,32088.0
+Nandi,2019,beans,production_tons,23179.0
+Nandi,2020,beans,area_ha,25116.0
+Nandi,2020,beans,production_tons,18295.0
+Nandi,2021,beans,area_ha,19998.0
+Nandi,2021,beans,production_tons,16327.0
+Nandi,2022,beans,area_ha,32840.0
+Nandi,2022,beans,production_tons,27519.0
+Nandi,2023,beans,area_ha,30277.0
+Nandi,2023,beans,production_tons,21830.0
+Nandi,2024,beans,area_ha,23921.0
+Nandi,2024,beans,production_tons,27541.0
+Narok,2019,beans,area_ha,48121.0
+Narok,2019,beans,production_tons,34728.0
+Narok,2020,beans,area_ha,44951.0
+Narok,2020,beans,production_tons,28789.0
+Narok,2021,beans,area_ha,49599.0
+Narok,2021,beans,production_tons,44947.0
+Narok,2022,beans,area_ha,52813.0
+Narok,2022,beans,production_tons,39352.0
+Narok,2023,beans,area_ha,48245.0
+Narok,2023,beans,production_tons,44773.0
+Narok,2024,beans,area_ha,41586.0
+Narok,2024,beans,production_tons,20699.0
+Nyamira,2019,beans,area_ha,33090.0
+Nyamira,2019,beans,production_tons,23150.0
+Nyamira,2020,beans,area_ha,31830.0
+Nyamira,2020,beans,production_tons,26574.0
+Nyamira,2021,beans,area_ha,31435.0
+Nyamira,2021,beans,production_tons,19219.0
+Nyamira,2022,beans,area_ha,31182.0
+Nyamira,2022,beans,production_tons,30168.0
+Nyamira,2023,beans,area_ha,30021.0
+Nyamira,2023,beans,production_tons,10684.0
+Nyamira,2024,beans,area_ha,27157.0
+Nyamira,2024,beans,production_tons,16391.0
+Nyandarua,2019,beans,area_ha,6505.0
+Nyandarua,2019,beans,production_tons,4174.0
+Nyandarua,2020,beans,area_ha,8822.0
+Nyandarua,2020,beans,production_tons,7188.0
+Nyandarua,2021,beans,area_ha,7000.0
+Nyandarua,2021,beans,production_tons,6035.0
+Nyandarua,2022,beans,area_ha,1655.0
+Nyandarua,2022,beans,production_tons,1337.0
+Nyandarua,2023,beans,area_ha,5542.0
+Nyandarua,2023,beans,production_tons,3183.0
+Nyandarua,2024,beans,area_ha,6951.0
+Nyandarua,2024,beans,production_tons,6138.0
+Nyeri,2019,beans,area_ha,21675.0
+Nyeri,2019,beans,production_tons,8950.0
+Nyeri,2020,beans,area_ha,20525.0
+Nyeri,2020,beans,production_tons,11214.0
+Nyeri,2021,beans,area_ha,18773.0
+Nyeri,2021,beans,production_tons,7889.0
+Nyeri,2022,beans,area_ha,16994.0
+Nyeri,2022,beans,production_tons,5378.0
+Nyeri,2023,beans,area_ha,18340.0
+Nyeri,2023,beans,production_tons,6464.0
+Nyeri,2024,beans,area_ha,19883.0
+Nyeri,2024,beans,production_tons,10148.0
+Samburu,2019,beans,area_ha,4817.0
+Samburu,2019,beans,production_tons,724.0
+Samburu,2020,beans,area_ha,4854.0
+Samburu,2020,beans,production_tons,842.0
+Samburu,2021,beans,area_ha,3244.0
+Samburu,2021,beans,production_tons,3636.0
+Samburu,2022,beans,area_ha,5380.0
+Samburu,2022,beans,production_tons,1735.0
+Samburu,2023,beans,area_ha,4897.0
+Samburu,2023,beans,production_tons,4615.0
+Samburu,2024,beans,area_ha,5287.0
+Samburu,2024,beans,production_tons,2619.0
+Siaya,2019,beans,area_ha,33194.0
+Siaya,2019,beans,production_tons,17197.0
+Siaya,2020,beans,area_ha,31942.0
+Siaya,2020,beans,production_tons,17286.0
+Siaya,2021,beans,area_ha,39931.0
+Siaya,2021,beans,production_tons,18900.0
+Siaya,2022,beans,area_ha,35005.0
+Siaya,2022,beans,production_tons,16747.0
+Siaya,2023,beans,area_ha,36840.0
+Siaya,2023,beans,production_tons,14100.0
+Siaya,2024,beans,area_ha,37498.0
+Siaya,2024,beans,production_tons,23852.0
+Taita Taveta,2019,beans,area_ha,2600.0
+Taita Taveta,2019,beans,production_tons,1383.0
+Taita Taveta,2020,beans,area_ha,2687.0
+Taita Taveta,2020,beans,production_tons,2224.0
+Taita Taveta,2021,beans,area_ha,3481.0
+Taita Taveta,2021,beans,production_tons,3542.0
+Taita Taveta,2022,beans,area_ha,2942.0
+Taita Taveta,2022,beans,production_tons,3036.0
+Taita Taveta,2023,beans,area_ha,3837.0
+Taita Taveta,2023,beans,production_tons,3332.0
+Taita Taveta,2024,beans,area_ha,4436.0
+Taita Taveta,2024,beans,production_tons,4119.0
+Tana River,2019,beans,area_ha,52.0
+Tana River,2019,beans,production_tons,45.0
+Tana River,2020,beans,area_ha,3.0
+Tana River,2020,beans,production_tons,3.0
+Tana River,2021,beans,area_ha,3.0
+Tana River,2021,beans,production_tons,3.0
+Tana River,2022,beans,area_ha,3.0
+Tana River,2022,beans,production_tons,2.0
+Tana River,2023,beans,area_ha,4.0
+Tana River,2023,beans,production_tons,2.0
+Tana River,2024,beans,area_ha,31.0
+Tana River,2024,beans,production_tons,7.0
+Tharaka Nithi,2020,beans,area_ha,13684.0
+Tharaka Nithi,2020,beans,production_tons,16621.0
+Tharaka Nithi,2021,beans,area_ha,8905.0
+Tharaka Nithi,2021,beans,production_tons,7047.0
+Tharaka Nithi,2022,beans,area_ha,18675.0
+Tharaka Nithi,2022,beans,production_tons,5563.0
+Tharaka Nithi,2023,beans,area_ha,17232.0
+Tharaka Nithi,2023,beans,production_tons,13895.0
+Tharaka Nithi,2024,beans,area_ha,17489.0
+Tharaka Nithi,2024,beans,production_tons,18882.0
+Trans Nzoia,2019,beans,area_ha,62428.0
+Trans Nzoia,2019,beans,production_tons,25202.0
+Trans Nzoia,2020,beans,area_ha,54893.0
+Trans Nzoia,2020,beans,production_tons,25061.0
+Trans Nzoia,2021,beans,area_ha,52418.0
+Trans Nzoia,2021,beans,production_tons,18924.0
+Trans Nzoia,2022,beans,area_ha,57650.0
+Trans Nzoia,2022,beans,production_tons,51734.0
+Trans Nzoia,2023,beans,area_ha,61462.0
+Trans Nzoia,2023,beans,production_tons,47842.0
+Trans Nzoia,2024,beans,area_ha,54671.0
+Trans Nzoia,2024,beans,production_tons,46875.0
+Uasin Gishu,2019,beans,area_ha,14668.0
+Uasin Gishu,2019,beans,production_tons,8127.0
+Uasin Gishu,2020,beans,area_ha,18389.0
+Uasin Gishu,2020,beans,production_tons,15023.0
+Uasin Gishu,2021,beans,area_ha,19389.0
+Uasin Gishu,2021,beans,production_tons,14127.0
+Uasin Gishu,2022,beans,area_ha,17045.0
+Uasin Gishu,2022,beans,production_tons,12600.0
+Uasin Gishu,2023,beans,area_ha,22430.0
+Uasin Gishu,2023,beans,production_tons,23560.0
+Uasin Gishu,2024,beans,area_ha,21713.0
+Uasin Gishu,2024,beans,production_tons,14680.0
+Vihiga,2019,beans,area_ha,23680.0
+Vihiga,2019,beans,production_tons,17605.0
+Vihiga,2020,beans,area_ha,20260.0
+Vihiga,2020,beans,production_tons,16657.0
+Vihiga,2021,beans,area_ha,19378.0
+Vihiga,2021,beans,production_tons,12457.0
+Vihiga,2022,beans,area_ha,19378.0
+Vihiga,2022,beans,production_tons,18308.0
+Vihiga,2023,beans,area_ha,18918.0
+Vihiga,2023,beans,production_tons,6172.0
+Vihiga,2024,beans,area_ha,18853.0
+Vihiga,2024,beans,production_tons,12915.0
+Wajir,2020,beans,area_ha,3.0
+Wajir,2020,beans,production_tons,2.0
+Wajir,2021,beans,area_ha,3.0
+Wajir,2021,beans,production_tons,1.0
+Wajir,2022,beans,area_ha,3.0
+Wajir,2022,beans,production_tons,0.0
+Wajir,2023,beans,area_ha,46.0
+Wajir,2023,beans,production_tons,60.0
+Wajir,2024,beans,area_ha,44.0
+Wajir,2024,beans,production_tons,41.0
+West Pokot,2019,beans,area_ha,15696.0
+West Pokot,2019,beans,production_tons,10992.0
+West Pokot,2020,beans,area_ha,17261.0
+West Pokot,2020,beans,production_tons,7644.0
+West Pokot,2021,beans,area_ha,15900.0
+West Pokot,2021,beans,production_tons,5333.0
+West Pokot,2022,beans,area_ha,14843.0
+West Pokot,2022,beans,production_tons,4295.0
+West Pokot,2023,beans,area_ha,25166.0
+West Pokot,2023,beans,production_tons,19962.0
+West Pokot,2024,beans,area_ha,28943.0
+West Pokot,2024,beans,production_tons,16528.0
+Baringo,2019,green_grams,area_ha,684.0
+Baringo,2019,green_grams,production_tons,494.0
+Baringo,2020,green_grams,area_ha,1055.0
+Baringo,2020,green_grams,production_tons,980.0
+Baringo,2021,green_grams,area_ha,659.0
+Baringo,2021,green_grams,production_tons,732.0
+Baringo,2022,green_grams,area_ha,739.0
+Baringo,2022,green_grams,production_tons,530.0
+Baringo,2023,green_grams,area_ha,751.0
+Baringo,2023,green_grams,production_tons,901.0
+Baringo,2024,green_grams,area_ha,1647.0
+Baringo,2024,green_grams,production_tons,1733.0
+Bungoma,2019,green_grams,area_ha,222.0
+Bungoma,2019,green_grams,production_tons,243.0
+Bungoma,2020,green_grams,area_ha,349.0
+Bungoma,2020,green_grams,production_tons,339.0
+Bungoma,2021,green_grams,area_ha,250.0
+Bungoma,2021,green_grams,production_tons,258.0
+Bungoma,2022,green_grams,area_ha,165.0
+Bungoma,2022,green_grams,production_tons,84.0
+Bungoma,2023,green_grams,area_ha,237.0
+Bungoma,2023,green_grams,production_tons,135.0
+Bungoma,2024,green_grams,area_ha,171.0
+Bungoma,2024,green_grams,production_tons,194.0
+Busia,2019,green_grams,area_ha,245.0
+Busia,2019,green_grams,production_tons,146.0
+Busia,2020,green_grams,area_ha,228.0
+Busia,2020,green_grams,production_tons,97.0
+Busia,2021,green_grams,area_ha,209.0
+Busia,2021,green_grams,production_tons,90.0
+Busia,2022,green_grams,area_ha,219.0
+Busia,2022,green_grams,production_tons,107.0
+Busia,2023,green_grams,area_ha,225.0
+Busia,2023,green_grams,production_tons,104.0
+Busia,2024,green_grams,area_ha,234.0
+Busia,2024,green_grams,production_tons,116.0
+Elgeyo Marakwet,2020,green_grams,area_ha,743.0
+Elgeyo Marakwet,2020,green_grams,production_tons,320.0
+Elgeyo Marakwet,2021,green_grams,area_ha,644.0
+Elgeyo Marakwet,2021,green_grams,production_tons,254.0
+Elgeyo Marakwet,2022,green_grams,area_ha,581.0
+Elgeyo Marakwet,2022,green_grams,production_tons,196.0
+Elgeyo Marakwet,2023,green_grams,area_ha,703.0
+Elgeyo Marakwet,2023,green_grams,production_tons,413.0
+Elgeyo Marakwet,2024,green_grams,area_ha,258.0
+Elgeyo Marakwet,2024,green_grams,production_tons,237.0
+Embu,2019,green_grams,area_ha,12008.0
+Embu,2019,green_grams,production_tons,5622.0
+Embu,2020,green_grams,area_ha,12248.0
+Embu,2020,green_grams,production_tons,7552.0
+Embu,2021,green_grams,area_ha,11537.0
+Embu,2021,green_grams,production_tons,4634.0
+Embu,2022,green_grams,area_ha,11667.0
+Embu,2022,green_grams,production_tons,4710.0
+Embu,2023,green_grams,area_ha,12042.0
+Embu,2023,green_grams,production_tons,6025.0
+Embu,2024,green_grams,area_ha,12707.0
+Embu,2024,green_grams,production_tons,5071.0
+Garissa,2019,green_grams,area_ha,82.0
+Garissa,2019,green_grams,production_tons,61.0
+Garissa,2020,green_grams,area_ha,18.0
+Garissa,2020,green_grams,production_tons,27.0
+Garissa,2021,green_grams,area_ha,28.0
+Garissa,2021,green_grams,production_tons,37.0
+Garissa,2022,green_grams,area_ha,21.0
+Garissa,2022,green_grams,production_tons,23.0
+Garissa,2023,green_grams,area_ha,77.0
+Garissa,2023,green_grams,production_tons,34.0
+Garissa,2024,green_grams,area_ha,123.0
+Garissa,2024,green_grams,production_tons,88.0
+Homa Bay,2019,green_grams,area_ha,667.0
+Homa Bay,2019,green_grams,production_tons,426.0
+Homa Bay,2020,green_grams,area_ha,738.0
+Homa Bay,2020,green_grams,production_tons,518.0
+Homa Bay,2021,green_grams,area_ha,603.0
+Homa Bay,2021,green_grams,production_tons,675.0
+Homa Bay,2022,green_grams,area_ha,612.0
+Homa Bay,2022,green_grams,production_tons,574.0
+Homa Bay,2023,green_grams,area_ha,936.0
+Homa Bay,2023,green_grams,production_tons,885.0
+Homa Bay,2024,green_grams,area_ha,887.0
+Homa Bay,2024,green_grams,production_tons,737.0
+Isiolo,2019,green_grams,area_ha,115.0
+Isiolo,2019,green_grams,production_tons,44.0
+Isiolo,2020,green_grams,area_ha,16.0
+Isiolo,2020,green_grams,production_tons,9.0
+Isiolo,2021,green_grams,area_ha,44.0
+Isiolo,2021,green_grams,production_tons,17.0
+Isiolo,2022,green_grams,area_ha,22.0
+Isiolo,2022,green_grams,production_tons,18.0
+Isiolo,2023,green_grams,area_ha,47.0
+Isiolo,2023,green_grams,production_tons,27.0
+Isiolo,2024,green_grams,area_ha,28.0
+Isiolo,2024,green_grams,production_tons,30.0
+Kajiado,2019,green_grams,area_ha,134.0
+Kajiado,2019,green_grams,production_tons,67.0
+Kajiado,2020,green_grams,area_ha,39.0
+Kajiado,2020,green_grams,production_tons,28.0
+Kajiado,2021,green_grams,area_ha,20.0
+Kajiado,2021,green_grams,production_tons,28.0
+Kajiado,2022,green_grams,area_ha,38.0
+Kajiado,2022,green_grams,production_tons,18.0
+Kajiado,2023,green_grams,area_ha,87.0
+Kajiado,2023,green_grams,production_tons,48.0
+Kajiado,2024,green_grams,area_ha,93.0
+Kajiado,2024,green_grams,production_tons,62.0
+Kakamega,2019,green_grams,area_ha,2.0
+Kakamega,2019,green_grams,production_tons,1.0
+Kakamega,2020,green_grams,area_ha,4.0
+Kakamega,2020,green_grams,production_tons,2.0
+Kakamega,2021,green_grams,area_ha,69.0
+Kakamega,2021,green_grams,production_tons,8.0
+Kakamega,2022,green_grams,area_ha,110.0
+Kakamega,2022,green_grams,production_tons,41.0
+Kakamega,2023,green_grams,area_ha,30.0
+Kakamega,2023,green_grams,production_tons,22.0
+Kakamega,2024,green_grams,area_ha,81.0
+Kakamega,2024,green_grams,production_tons,30.0
+Kiambu,2019,green_grams,area_ha,22.0
+Kiambu,2019,green_grams,production_tons,17.0
+Kiambu,2020,green_grams,area_ha,16.0
+Kiambu,2020,green_grams,production_tons,16.0
+Kiambu,2021,green_grams,area_ha,16.0
+Kiambu,2021,green_grams,production_tons,14.0
+Kiambu,2022,green_grams,area_ha,16.0
+Kiambu,2022,green_grams,production_tons,8.0
+Kiambu,2023,green_grams,area_ha,20.0
+Kiambu,2023,green_grams,production_tons,13.0
+Kiambu,2024,green_grams,area_ha,16.0
+Kiambu,2024,green_grams,production_tons,9.0
+Kilifi,2019,green_grams,area_ha,5857.0
+Kilifi,2019,green_grams,production_tons,2890.0
+Kilifi,2020,green_grams,area_ha,7819.0
+Kilifi,2020,green_grams,production_tons,2581.0
+Kilifi,2021,green_grams,area_ha,9307.0
+Kilifi,2021,green_grams,production_tons,1910.0
+Kilifi,2022,green_grams,area_ha,8046.0
+Kilifi,2022,green_grams,production_tons,2111.0
+Kilifi,2023,green_grams,area_ha,9260.0
+Kilifi,2023,green_grams,production_tons,2778.0
+Kilifi,2024,green_grams,area_ha,3201.0
+Kilifi,2024,green_grams,production_tons,1071.0
+Kirinyaga,2019,green_grams,area_ha,281.0
+Kirinyaga,2019,green_grams,production_tons,110.0
+Kirinyaga,2020,green_grams,area_ha,202.0
+Kirinyaga,2020,green_grams,production_tons,53.0
+Kirinyaga,2021,green_grams,area_ha,162.0
+Kirinyaga,2021,green_grams,production_tons,29.0
+Kirinyaga,2022,green_grams,area_ha,121.0
+Kirinyaga,2022,green_grams,production_tons,10.0
+Kirinyaga,2023,green_grams,area_ha,210.0
+Kirinyaga,2023,green_grams,production_tons,162.0
+Kirinyaga,2024,green_grams,area_ha,117.0
+Kirinyaga,2024,green_grams,production_tons,15.0
+Kisumu,2019,green_grams,area_ha,4632.0
+Kisumu,2019,green_grams,production_tons,2274.0
+Kisumu,2020,green_grams,area_ha,3890.0
+Kisumu,2020,green_grams,production_tons,2497.0
+Kisumu,2021,green_grams,area_ha,3990.0
+Kisumu,2021,green_grams,production_tons,1697.0
+Kisumu,2022,green_grams,area_ha,4155.0
+Kisumu,2022,green_grams,production_tons,2129.0
+Kisumu,2023,green_grams,area_ha,4220.0
+Kisumu,2023,green_grams,production_tons,2827.0
+Kisumu,2024,green_grams,area_ha,4382.0
+Kisumu,2024,green_grams,production_tons,2924.0
+Kitui,2019,green_grams,area_ha,122902.0
+Kitui,2019,green_grams,production_tons,86323.0
+Kitui,2020,green_grams,area_ha,93851.0
+Kitui,2020,green_grams,production_tons,87448.0
+Kitui,2021,green_grams,area_ha,94415.0
+Kitui,2021,green_grams,production_tons,31691.0
+Kitui,2022,green_grams,area_ha,94836.0
+Kitui,2022,green_grams,production_tons,43625.0
+Kitui,2023,green_grams,area_ha,113479.0
+Kitui,2023,green_grams,production_tons,79435.0
+Kitui,2024,green_grams,area_ha,96623.0
+Kitui,2024,green_grams,production_tons,25780.0
+Kwale,2019,green_grams,area_ha,6525.0
+Kwale,2019,green_grams,production_tons,1737.0
+Kwale,2020,green_grams,area_ha,6777.0
+Kwale,2020,green_grams,production_tons,2396.0
+Kwale,2021,green_grams,area_ha,6028.0
+Kwale,2021,green_grams,production_tons,3052.0
+Kwale,2022,green_grams,area_ha,6472.0
+Kwale,2022,green_grams,production_tons,3132.0
+Kwale,2023,green_grams,area_ha,6539.0
+Kwale,2023,green_grams,production_tons,3335.0
+Kwale,2024,green_grams,area_ha,9668.0
+Kwale,2024,green_grams,production_tons,5364.0
+Lamu,2019,green_grams,area_ha,9760.0
+Lamu,2019,green_grams,production_tons,9760.0
+Lamu,2020,green_grams,area_ha,9383.0
+Lamu,2020,green_grams,production_tons,7882.0
+Lamu,2021,green_grams,area_ha,6450.0
+Lamu,2021,green_grams,production_tons,2395.0
+Lamu,2022,green_grams,area_ha,8796.0
+Lamu,2022,green_grams,production_tons,7477.0
+Lamu,2023,green_grams,area_ha,10555.0
+Lamu,2023,green_grams,production_tons,10027.0
+Lamu,2024,green_grams,area_ha,16150.0
+Lamu,2024,green_grams,production_tons,14842.0
+Machakos,2019,green_grams,area_ha,20597.0
+Machakos,2019,green_grams,production_tons,8771.0
+Machakos,2020,green_grams,area_ha,19612.0
+Machakos,2020,green_grams,production_tons,10522.0
+Machakos,2021,green_grams,area_ha,20245.0
+Machakos,2021,green_grams,production_tons,9352.0
+Machakos,2022,green_grams,area_ha,16571.0
+Machakos,2022,green_grams,production_tons,8664.0
+Machakos,2023,green_grams,area_ha,24280.0
+Machakos,2023,green_grams,production_tons,11265.0
+Machakos,2024,green_grams,area_ha,26674.0
+Machakos,2024,green_grams,production_tons,7021.0
+Makueni,2019,green_grams,area_ha,76436.0
+Makueni,2019,green_grams,production_tons,50009.0
+Makueni,2020,green_grams,area_ha,80286.0
+Makueni,2020,green_grams,production_tons,58625.0
+Makueni,2021,green_grams,area_ha,69955.0
+Makueni,2021,green_grams,production_tons,42610.0
+Makueni,2022,green_grams,area_ha,75559.0
+Makueni,2022,green_grams,production_tons,26446.0
+Makueni,2023,green_grams,area_ha,76212.0
+Makueni,2023,green_grams,production_tons,39903.0
+Makueni,2024,green_grams,area_ha,72720.0
+Makueni,2024,green_grams,production_tons,26777.0
+Mandera,2019,green_grams,area_ha,86.0
+Mandera,2019,green_grams,production_tons,41.0
+Mandera,2020,green_grams,area_ha,87.0
+Mandera,2020,green_grams,production_tons,71.0
+Mandera,2021,green_grams,area_ha,94.0
+Mandera,2021,green_grams,production_tons,28.0
+Mandera,2022,green_grams,area_ha,118.0
+Mandera,2022,green_grams,production_tons,86.0
+Mandera,2023,green_grams,area_ha,94.0
+Mandera,2023,green_grams,production_tons,91.0
+Mandera,2024,green_grams,area_ha,155.0
+Mandera,2024,green_grams,production_tons,141.0
+Marsabit,2019,green_grams,area_ha,95.0
+Marsabit,2019,green_grams,production_tons,16.0
+Marsabit,2020,green_grams,area_ha,77.0
+Marsabit,2020,green_grams,production_tons,17.0
+Marsabit,2021,green_grams,area_ha,91.0
+Marsabit,2021,green_grams,production_tons,11.0
+Marsabit,2022,green_grams,area_ha,91.0
+Marsabit,2022,green_grams,production_tons,4.0
+Marsabit,2023,green_grams,area_ha,146.0
+Marsabit,2023,green_grams,production_tons,78.0
+Marsabit,2024,green_grams,area_ha,182.0
+Marsabit,2024,green_grams,production_tons,39.0
+Meru,2019,green_grams,area_ha,5907.0
+Meru,2019,green_grams,production_tons,2191.0
+Meru,2020,green_grams,area_ha,7570.0
+Meru,2020,green_grams,production_tons,6054.0
+Meru,2021,green_grams,area_ha,8017.0
+Meru,2021,green_grams,production_tons,4454.0
+Meru,2022,green_grams,area_ha,5138.0
+Meru,2022,green_grams,production_tons,4233.0
+Meru,2023,green_grams,area_ha,13561.0
+Meru,2023,green_grams,production_tons,7323.0
+Meru,2024,green_grams,area_ha,13940.0
+Meru,2024,green_grams,production_tons,7600.0
+Migori,2019,green_grams,area_ha,1220.0
+Migori,2019,green_grams,production_tons,893.0
+Migori,2020,green_grams,area_ha,294.0
+Migori,2020,green_grams,production_tons,199.0
+Migori,2021,green_grams,area_ha,259.0
+Migori,2021,green_grams,production_tons,130.0
+Migori,2022,green_grams,area_ha,168.0
+Migori,2022,green_grams,production_tons,130.0
+Migori,2023,green_grams,area_ha,221.0
+Migori,2023,green_grams,production_tons,213.0
+Migori,2024,green_grams,area_ha,277.0
+Migori,2024,green_grams,production_tons,236.0
+Mombasa,2019,green_grams,area_ha,45.0
+Mombasa,2019,green_grams,production_tons,24.0
+Mombasa,2020,green_grams,area_ha,46.0
+Mombasa,2020,green_grams,production_tons,33.0
+Mombasa,2021,green_grams,area_ha,58.0
+Mombasa,2021,green_grams,production_tons,7.0
+Mombasa,2022,green_grams,area_ha,50.0
+Mombasa,2022,green_grams,production_tons,10.0
+Mombasa,2023,green_grams,area_ha,57.0
+Mombasa,2023,green_grams,production_tons,39.0
+Mombasa,2024,green_grams,area_ha,53.0
+Mombasa,2024,green_grams,production_tons,33.0
+Murang'a,2019,green_grams,area_ha,166.0
+Murang'a,2019,green_grams,production_tons,64.0
+Murang'a,2020,green_grams,area_ha,164.0
+Murang'a,2020,green_grams,production_tons,92.0
+Murang'a,2021,green_grams,area_ha,177.0
+Murang'a,2021,green_grams,production_tons,113.0
+Murang'a,2022,green_grams,area_ha,350.0
+Murang'a,2022,green_grams,production_tons,187.0
+Murang'a,2023,green_grams,area_ha,175.0
+Murang'a,2023,green_grams,production_tons,97.0
+Murang'a,2024,green_grams,area_ha,163.0
+Murang'a,2024,green_grams,production_tons,86.0
+Nairobi,2019,green_grams,area_ha,5.0
+Nairobi,2019,green_grams,production_tons,4.0
+Nairobi,2020,green_grams,area_ha,9.0
+Nairobi,2020,green_grams,production_tons,11.0
+Nairobi,2021,green_grams,area_ha,5.0
+Nairobi,2021,green_grams,production_tons,4.0
+Nairobi,2022,green_grams,area_ha,6.0
+Nairobi,2022,green_grams,production_tons,3.0
+Nairobi,2023,green_grams,area_ha,4.0
+Nairobi,2023,green_grams,production_tons,3.0
+Nairobi,2024,green_grams,area_ha,8.0
+Nairobi,2024,green_grams,production_tons,5.0
+Nakuru,2019,green_grams,area_ha,0.0
+Nakuru,2019,green_grams,production_tons,0.0
+Nakuru,2020,green_grams,area_ha,0.0
+Nakuru,2020,green_grams,production_tons,0.0
+Nakuru,2021,green_grams,area_ha,0.0
+Nakuru,2021,green_grams,production_tons,0.0
+Nakuru,2022,green_grams,area_ha,0.0
+Nakuru,2022,green_grams,production_tons,0.0
+Nakuru,2023,green_grams,area_ha,100.0
+Nakuru,2023,green_grams,production_tons,104.0
+Nakuru,2024,green_grams,area_ha,8.0
+Nakuru,2024,green_grams,production_tons,10.0
+Samburu,2019,green_grams,area_ha,15.0
+Samburu,2019,green_grams,production_tons,3.0
+Samburu,2020,green_grams,area_ha,10.0
+Samburu,2020,green_grams,production_tons,2.0
+Samburu,2021,green_grams,area_ha,8.0
+Samburu,2021,green_grams,production_tons,2.0
+Samburu,2022,green_grams,area_ha,9.0
+Samburu,2022,green_grams,production_tons,3.0
+Samburu,2023,green_grams,area_ha,10.0
+Samburu,2023,green_grams,production_tons,4.0
+Samburu,2024,green_grams,area_ha,8.0
+Samburu,2024,green_grams,production_tons,3.0
+Siaya,2019,green_grams,area_ha,673.0
+Siaya,2019,green_grams,production_tons,429.0
+Siaya,2020,green_grams,area_ha,669.0
+Siaya,2020,green_grams,production_tons,360.0
+Siaya,2021,green_grams,area_ha,773.0
+Siaya,2021,green_grams,production_tons,255.0
+Siaya,2022,green_grams,area_ha,665.0
+Siaya,2022,green_grams,production_tons,194.0
+Siaya,2023,green_grams,area_ha,695.0
+Siaya,2023,green_grams,production_tons,334.0
+Siaya,2024,green_grams,area_ha,615.0
+Siaya,2024,green_grams,production_tons,315.0
+Taita Taveta,2019,green_grams,area_ha,3037.0
+Taita Taveta,2019,green_grams,production_tons,2803.0
+Taita Taveta,2020,green_grams,area_ha,3527.0
+Taita Taveta,2020,green_grams,production_tons,3462.0
+Taita Taveta,2021,green_grams,area_ha,2942.0
+Taita Taveta,2021,green_grams,production_tons,3043.0
+Taita Taveta,2022,green_grams,area_ha,2954.0
+Taita Taveta,2022,green_grams,production_tons,1329.0
+Taita Taveta,2023,green_grams,area_ha,3305.0
+Taita Taveta,2023,green_grams,production_tons,2280.0
+Taita Taveta,2024,green_grams,area_ha,8243.0
+Taita Taveta,2024,green_grams,production_tons,2791.0
+Tana River,2019,green_grams,area_ha,1453.0
+Tana River,2019,green_grams,production_tons,1368.0
+Tana River,2020,green_grams,area_ha,1220.0
+Tana River,2020,green_grams,production_tons,1391.0
+Tana River,2021,green_grams,area_ha,1260.0
+Tana River,2021,green_grams,production_tons,1260.0
+Tana River,2022,green_grams,area_ha,1268.0
+Tana River,2022,green_grams,production_tons,1522.0
+Tana River,2023,green_grams,area_ha,1300.0
+Tana River,2023,green_grams,production_tons,1690.0
+Tana River,2024,green_grams,area_ha,2897.0
+Tana River,2024,green_grams,production_tons,3645.0
+Tharaka Nithi,2020,green_grams,area_ha,29677.0
+Tharaka Nithi,2020,green_grams,production_tons,14296.0
+Tharaka Nithi,2021,green_grams,area_ha,31009.0
+Tharaka Nithi,2021,green_grams,production_tons,12172.0
+Tharaka Nithi,2022,green_grams,area_ha,13630.0
+Tharaka Nithi,2022,green_grams,production_tons,3271.0
+Tharaka Nithi,2023,green_grams,area_ha,28340.0
+Tharaka Nithi,2023,green_grams,production_tons,11336.0
+Tharaka Nithi,2024,green_grams,area_ha,27722.0
+Tharaka Nithi,2024,green_grams,production_tons,9749.0
+Trans Nzoia,2019,green_grams,area_ha,0.0
+Trans Nzoia,2019,green_grams,production_tons,0.0
+Trans Nzoia,2020,green_grams,area_ha,0.0
+Trans Nzoia,2020,green_grams,production_tons,0.0
+Trans Nzoia,2021,green_grams,area_ha,0.0
+Trans Nzoia,2021,green_grams,production_tons,0.0
+Trans Nzoia,2022,green_grams,area_ha,0.0
+Trans Nzoia,2022,green_grams,production_tons,0.0
+Trans Nzoia,2023,green_grams,area_ha,53.0
+Trans Nzoia,2023,green_grams,production_tons,44.0
+Trans Nzoia,2024,green_grams,area_ha,53.0
+Trans Nzoia,2024,green_grams,production_tons,44.0
+Turkana,2019,green_grams,area_ha,148.0
+Turkana,2019,green_grams,production_tons,151.0
+Turkana,2020,green_grams,area_ha,4.0
+Turkana,2020,green_grams,production_tons,4.0
+Turkana,2021,green_grams,area_ha,0.0
+Turkana,2021,green_grams,production_tons,0.0
+Turkana,2022,green_grams,area_ha,190.0
+Turkana,2022,green_grams,production_tons,47.0
+Turkana,2023,green_grams,area_ha,292.0
+Turkana,2023,green_grams,production_tons,204.0
+Turkana,2024,green_grams,area_ha,55.0
+Turkana,2024,green_grams,production_tons,28.0
+West Pokot,2019,green_grams,area_ha,175.0
+West Pokot,2019,green_grams,production_tons,108.0
+West Pokot,2020,green_grams,area_ha,90.0
+West Pokot,2020,green_grams,production_tons,57.0
+West Pokot,2021,green_grams,area_ha,123.0
+West Pokot,2021,green_grams,production_tons,69.0
+West Pokot,2022,green_grams,area_ha,81.0
+West Pokot,2022,green_grams,production_tons,41.0
+West Pokot,2023,green_grams,area_ha,125.0
+West Pokot,2023,green_grams,production_tons,81.0
+West Pokot,2024,green_grams,area_ha,699.0
+West Pokot,2024,green_grams,production_tons,394.0
+Baringo,2019,irish_potatoes,area_ha,3733.0
+Baringo,2019,irish_potatoes,production_tons,39084.0
+Baringo,2020,irish_potatoes,area_ha,3597.0
+Baringo,2020,irish_potatoes,production_tons,39207.0
+Baringo,2021,irish_potatoes,area_ha,3363.0
+Baringo,2021,irish_potatoes,production_tons,45215.0
+Baringo,2022,irish_potatoes,area_ha,3504.0
+Baringo,2022,irish_potatoes,production_tons,29998.0
+Baringo,2023,irish_potatoes,area_ha,3565.0
+Baringo,2023,irish_potatoes,production_tons,37205.0
+Baringo,2024,irish_potatoes,area_ha,3775.0
+Baringo,2024,irish_potatoes,production_tons,42900.0
+Bomet,2019,irish_potatoes,area_ha,4193.0
+Bomet,2019,irish_potatoes,production_tons,41468.0
+Bomet,2020,irish_potatoes,area_ha,3505.0
+Bomet,2020,irish_potatoes,production_tons,35504.0
+Bomet,2021,irish_potatoes,area_ha,3526.0
+Bomet,2021,irish_potatoes,production_tons,36320.0
+Bomet,2022,irish_potatoes,area_ha,6680.0
+Bomet,2022,irish_potatoes,production_tons,78135.0
+Bomet,2023,irish_potatoes,area_ha,3935.0
+Bomet,2023,irish_potatoes,production_tons,37383.0
+Bomet,2024,irish_potatoes,area_ha,1950.0
+Bomet,2024,irish_potatoes,production_tons,29250.0
+Bungoma,2019,irish_potatoes,area_ha,3164.0
+Bungoma,2019,irish_potatoes,production_tons,31643.0
+Bungoma,2020,irish_potatoes,area_ha,1946.0
+Bungoma,2020,irish_potatoes,production_tons,19734.0
+Bungoma,2021,irish_potatoes,area_ha,1883.0
+Bungoma,2021,irish_potatoes,production_tons,24936.0
+Bungoma,2022,irish_potatoes,area_ha,9436.0
+Bungoma,2022,irish_potatoes,production_tons,100694.0
+Bungoma,2023,irish_potatoes,area_ha,2153.0
+Bungoma,2023,irish_potatoes,production_tons,27217.0
+Bungoma,2024,irish_potatoes,area_ha,7531.0
+Bungoma,2024,irish_potatoes,production_tons,73081.0
+Elgeyo Marakwet,2020,irish_potatoes,area_ha,32005.0
+Elgeyo Marakwet,2020,irish_potatoes,production_tons,374379.0
+Elgeyo Marakwet,2021,irish_potatoes,area_ha,31370.0
+Elgeyo Marakwet,2021,irish_potatoes,production_tons,425964.0
+Elgeyo Marakwet,2022,irish_potatoes,area_ha,28670.0
+Elgeyo Marakwet,2022,irish_potatoes,production_tons,276700.0
+Elgeyo Marakwet,2023,irish_potatoes,area_ha,25143.0
+Elgeyo Marakwet,2023,irish_potatoes,production_tons,259252.0
+Elgeyo Marakwet,2024,irish_potatoes,area_ha,23967.0
+Elgeyo Marakwet,2024,irish_potatoes,production_tons,279273.0
+Embu,2019,irish_potatoes,area_ha,236.0
+Embu,2019,irish_potatoes,production_tons,2270.0
+Embu,2020,irish_potatoes,area_ha,268.0
+Embu,2020,irish_potatoes,production_tons,1995.0
+Embu,2021,irish_potatoes,area_ha,274.0
+Embu,2021,irish_potatoes,production_tons,2057.0
+Embu,2022,irish_potatoes,area_ha,281.0
+Embu,2022,irish_potatoes,production_tons,2592.0
+Embu,2023,irish_potatoes,area_ha,295.0
+Embu,2023,irish_potatoes,production_tons,2101.0
+Embu,2024,irish_potatoes,area_ha,302.0
+Embu,2024,irish_potatoes,production_tons,2595.0
+Homa Bay,2019,irish_potatoes,area_ha,0.0
+Homa Bay,2019,irish_potatoes,production_tons,0.0
+Kajiado,2019,irish_potatoes,area_ha,1028.0
+Kajiado,2019,irish_potatoes,production_tons,4335.0
+Kajiado,2020,irish_potatoes,area_ha,1378.0
+Kajiado,2020,irish_potatoes,production_tons,6845.0
+Kajiado,2021,irish_potatoes,area_ha,1073.0
+Kajiado,2021,irish_potatoes,production_tons,4431.0
+Kajiado,2022,irish_potatoes,area_ha,1459.0
+Kajiado,2022,irish_potatoes,production_tons,14119.0
+Kajiado,2023,irish_potatoes,area_ha,1699.0
+Kajiado,2023,irish_potatoes,production_tons,10874.0
+Kajiado,2024,irish_potatoes,area_ha,1349.0
+Kajiado,2024,irish_potatoes,production_tons,11461.0
+Kakamega,2019,irish_potatoes,area_ha,22.0
+Kakamega,2019,irish_potatoes,production_tons,143.0
+Kakamega,2020,irish_potatoes,area_ha,17.0
+Kakamega,2020,irish_potatoes,production_tons,135.0
+Kakamega,2021,irish_potatoes,area_ha,23.0
+Kakamega,2021,irish_potatoes,production_tons,196.0
+Kakamega,2022,irish_potatoes,area_ha,14.0
+Kakamega,2022,irish_potatoes,production_tons,125.0
+Kakamega,2023,irish_potatoes,area_ha,8.0
+Kakamega,2023,irish_potatoes,production_tons,90.0
+Kakamega,2024,irish_potatoes,area_ha,10.0
+Kakamega,2024,irish_potatoes,production_tons,125.0
+Kericho,2019,irish_potatoes,area_ha,559.0
+Kericho,2019,irish_potatoes,production_tons,5031.0
+Kericho,2020,irish_potatoes,area_ha,595.0
+Kericho,2020,irish_potatoes,production_tons,4601.0
+Kericho,2021,irish_potatoes,area_ha,618.0
+Kericho,2021,irish_potatoes,production_tons,6798.0
+Kericho,2022,irish_potatoes,area_ha,546.0
+Kericho,2022,irish_potatoes,production_tons,6006.0
+Kericho,2023,irish_potatoes,area_ha,704.0
+Kericho,2023,irish_potatoes,production_tons,8518.0
+Kericho,2024,irish_potatoes,area_ha,773.0
+Kericho,2024,irish_potatoes,production_tons,5745.0
+Kiambu,2019,irish_potatoes,area_ha,19740.0
+Kiambu,2019,irish_potatoes,production_tons,90000.0
+Kiambu,2020,irish_potatoes,area_ha,16403.0
+Kiambu,2020,irish_potatoes,production_tons,112743.0
+Kiambu,2021,irish_potatoes,area_ha,18955.0
+Kiambu,2021,irish_potatoes,production_tons,123904.0
+Kiambu,2022,irish_potatoes,area_ha,19156.0
+Kiambu,2022,irish_potatoes,production_tons,97539.0
+Kiambu,2023,irish_potatoes,area_ha,19206.0
+Kiambu,2023,irish_potatoes,production_tons,102645.0
+Kiambu,2024,irish_potatoes,area_ha,21327.0
+Kiambu,2024,irish_potatoes,production_tons,126725.0
+Kirinyaga,2019,irish_potatoes,area_ha,504.0
+Kirinyaga,2019,irish_potatoes,production_tons,3442.0
+Kirinyaga,2020,irish_potatoes,area_ha,505.0
+Kirinyaga,2020,irish_potatoes,production_tons,5845.0
+Kirinyaga,2021,irish_potatoes,area_ha,579.0
+Kirinyaga,2021,irish_potatoes,production_tons,5565.0
+Kirinyaga,2022,irish_potatoes,area_ha,219.0
+Kirinyaga,2022,irish_potatoes,production_tons,460.0
+Kirinyaga,2023,irish_potatoes,area_ha,352.0
+Kirinyaga,2023,irish_potatoes,production_tons,3001.0
+Kirinyaga,2024,irish_potatoes,area_ha,183.0
+Kirinyaga,2024,irish_potatoes,production_tons,1010.0
+Kisii,2019,irish_potatoes,area_ha,53.0
+Kisii,2019,irish_potatoes,production_tons,438.0
+Kisii,2020,irish_potatoes,area_ha,34.0
+Kisii,2020,irish_potatoes,production_tons,510.0
+Kisii,2021,irish_potatoes,area_ha,43.0
+Kisii,2021,irish_potatoes,production_tons,595.0
+Kisii,2022,irish_potatoes,area_ha,24.0
+Kisii,2022,irish_potatoes,production_tons,152.0
+Kisii,2023,irish_potatoes,area_ha,46.0
+Kisii,2023,irish_potatoes,production_tons,382.0
+Kisii,2024,irish_potatoes,area_ha,46.0
+Kisii,2024,irish_potatoes,production_tons,415.0
+Kwale,2019,irish_potatoes,area_ha,0.0
+Kwale,2019,irish_potatoes,production_tons,0.0
+Laikipia,2019,irish_potatoes,area_ha,9373.0
+Laikipia,2019,irish_potatoes,production_tons,50283.0
+Laikipia,2020,irish_potatoes,area_ha,5136.0
+Laikipia,2020,irish_potatoes,production_tons,36876.0
+Laikipia,2021,irish_potatoes,area_ha,8480.0
+Laikipia,2021,irish_potatoes,production_tons,40270.0
+Laikipia,2022,irish_potatoes,area_ha,19258.0
+Laikipia,2022,irish_potatoes,production_tons,53762.0
+Laikipia,2023,irish_potatoes,area_ha,6099.0
+Laikipia,2023,irish_potatoes,production_tons,47857.0
+Laikipia,2024,irish_potatoes,area_ha,6910.0
+Laikipia,2024,irish_potatoes,production_tons,25931.0
+Makueni,2019,irish_potatoes,area_ha,11.0
+Makueni,2019,irish_potatoes,production_tons,110.0
+Makueni,2020,irish_potatoes,area_ha,11.0
+Makueni,2020,irish_potatoes,production_tons,110.0
+Makueni,2021,irish_potatoes,area_ha,46.0
+Makueni,2021,irish_potatoes,production_tons,262.0
+Makueni,2022,irish_potatoes,area_ha,45.0
+Makueni,2022,irish_potatoes,production_tons,270.0
+Makueni,2023,irish_potatoes,area_ha,75.0
+Makueni,2023,irish_potatoes,production_tons,330.0
+Makueni,2024,irish_potatoes,area_ha,71.0
+Makueni,2024,irish_potatoes,production_tons,311.0
+Meru,2019,irish_potatoes,area_ha,17441.0
+Meru,2019,irish_potatoes,production_tons,130185.0
+Meru,2020,irish_potatoes,area_ha,21017.0
+Meru,2020,irish_potatoes,production_tons,141926.0
+Meru,2021,irish_potatoes,area_ha,17392.0
+Meru,2021,irish_potatoes,production_tons,224747.0
+Meru,2022,irish_potatoes,area_ha,20520.0
+Meru,2022,irish_potatoes,production_tons,185731.0
+Meru,2023,irish_potatoes,area_ha,24604.0
+Meru,2023,irish_potatoes,production_tons,236407.0
+Meru,2024,irish_potatoes,area_ha,24660.0
+Meru,2024,irish_potatoes,production_tons,263596.0
+Murang'a,2019,irish_potatoes,area_ha,6642.0
+Murang'a,2019,irish_potatoes,production_tons,22753.0
+Murang'a,2020,irish_potatoes,area_ha,6548.0
+Murang'a,2020,irish_potatoes,production_tons,22484.0
+Murang'a,2021,irish_potatoes,area_ha,6314.0
+Murang'a,2021,irish_potatoes,production_tons,32708.0
+Murang'a,2022,irish_potatoes,area_ha,14949.0
+Murang'a,2022,irish_potatoes,production_tons,66314.0
+Murang'a,2023,irish_potatoes,area_ha,7470.0
+Murang'a,2023,irish_potatoes,production_tons,26037.0
+Murang'a,2024,irish_potatoes,area_ha,7242.0
+Murang'a,2024,irish_potatoes,production_tons,35792.0
+Nairobi,2019,irish_potatoes,area_ha,23.0
+Nairobi,2019,irish_potatoes,production_tons,161.0
+Nairobi,2020,irish_potatoes,area_ha,10.0
+Nairobi,2020,irish_potatoes,production_tons,69.0
+Nairobi,2021,irish_potatoes,area_ha,35.0
+Nairobi,2021,irish_potatoes,production_tons,246.0
+Nairobi,2022,irish_potatoes,area_ha,19.0
+Nairobi,2022,irish_potatoes,production_tons,99.0
+Nairobi,2023,irish_potatoes,area_ha,26.0
+Nairobi,2023,irish_potatoes,production_tons,135.0
+Nairobi,2024,irish_potatoes,area_ha,31.0
+Nairobi,2024,irish_potatoes,production_tons,243.0
+Nakuru,2019,irish_potatoes,area_ha,39195.0
+Nakuru,2019,irish_potatoes,production_tons,431145.0
+Nakuru,2020,irish_potatoes,area_ha,29868.0
+Nakuru,2020,irish_potatoes,production_tons,372103.0
+Nakuru,2021,irish_potatoes,area_ha,40285.0
+Nakuru,2021,irish_potatoes,production_tons,422207.0
+Nakuru,2022,irish_potatoes,area_ha,46731.0
+Nakuru,2022,irish_potatoes,production_tons,523324.0
+Nakuru,2023,irish_potatoes,area_ha,49981.0
+Nakuru,2023,irish_potatoes,production_tons,657091.0
+Nakuru,2024,irish_potatoes,area_ha,48513.0
+Nakuru,2024,irish_potatoes,production_tons,476876.0
+Nandi,2019,irish_potatoes,area_ha,480.0
+Nandi,2019,irish_potatoes,production_tons,6010.0
+Nandi,2020,irish_potatoes,area_ha,518.0
+Nandi,2020,irish_potatoes,production_tons,6509.0
+Nandi,2021,irish_potatoes,area_ha,483.0
+Nandi,2021,irish_potatoes,production_tons,6085.0
+Nandi,2022,irish_potatoes,area_ha,629.0
+Nandi,2022,irish_potatoes,production_tons,7548.0
+Nandi,2023,irish_potatoes,area_ha,644.0
+Nandi,2023,irish_potatoes,production_tons,6611.0
+Nandi,2024,irish_potatoes,area_ha,639.0
+Nandi,2024,irish_potatoes,production_tons,5346.0
+Narok,2019,irish_potatoes,area_ha,12077.0
+Narok,2019,irish_potatoes,production_tons,138388.0
+Narok,2020,irish_potatoes,area_ha,15236.0
+Narok,2020,irish_potatoes,production_tons,150536.0
+Narok,2021,irish_potatoes,area_ha,14560.0
+Narok,2021,irish_potatoes,production_tons,135176.0
+Narok,2022,irish_potatoes,area_ha,12742.0
+Narok,2022,irish_potatoes,production_tons,87981.0
+Narok,2023,irish_potatoes,area_ha,14975.0
+Narok,2023,irish_potatoes,production_tons,140615.0
+Narok,2024,irish_potatoes,area_ha,17872.0
+Narok,2024,irish_potatoes,production_tons,157252.0
+Nyamira,2019,irish_potatoes,area_ha,22.0
+Nyamira,2019,irish_potatoes,production_tons,255.0
+Nyamira,2020,irish_potatoes,area_ha,13.0
+Nyamira,2020,irish_potatoes,production_tons,141.0
+Nyamira,2021,irish_potatoes,area_ha,18.0
+Nyamira,2021,irish_potatoes,production_tons,190.0
+Nyamira,2022,irish_potatoes,area_ha,22.0
+Nyamira,2022,irish_potatoes,production_tons,220.0
+Nyamira,2023,irish_potatoes,area_ha,20.0
+Nyamira,2023,irish_potatoes,production_tons,122.0
+Nyamira,2024,irish_potatoes,area_ha,20.0
+Nyamira,2024,irish_potatoes,production_tons,148.0
+Nyandarua,2019,irish_potatoes,area_ha,38130.0
+Nyandarua,2019,irish_potatoes,production_tons,423490.0
+Nyandarua,2020,irish_potatoes,area_ha,38805.0
+Nyandarua,2020,irish_potatoes,production_tons,428269.0
+Nyandarua,2021,irish_potatoes,area_ha,37590.0
+Nyandarua,2021,irish_potatoes,production_tons,384323.0
+Nyandarua,2022,irish_potatoes,area_ha,19590.0
+Nyandarua,2022,irish_potatoes,production_tons,101099.0
+Nyandarua,2023,irish_potatoes,area_ha,43587.0
+Nyandarua,2023,irish_potatoes,production_tons,437748.0
+Nyandarua,2024,irish_potatoes,area_ha,34980.0
+Nyandarua,2024,irish_potatoes,production_tons,394325.0
+Nyeri,2019,irish_potatoes,area_ha,16118.0
+Nyeri,2019,irish_potatoes,production_tons,123280.0
+Nyeri,2020,irish_potatoes,area_ha,16358.0
+Nyeri,2020,irish_potatoes,production_tons,95994.0
+Nyeri,2021,irish_potatoes,area_ha,16469.0
+Nyeri,2021,irish_potatoes,production_tons,94420.0
+Nyeri,2022,irish_potatoes,area_ha,14711.0
+Nyeri,2022,irish_potatoes,production_tons,97669.0
+Nyeri,2023,irish_potatoes,area_ha,16447.0
+Nyeri,2023,irish_potatoes,production_tons,97975.0
+Nyeri,2024,irish_potatoes,area_ha,12749.0
+Nyeri,2024,irish_potatoes,production_tons,89556.0
+Samburu,2019,irish_potatoes,area_ha,80.0
+Samburu,2019,irish_potatoes,production_tons,480.0
+Samburu,2020,irish_potatoes,area_ha,40.0
+Samburu,2020,irish_potatoes,production_tons,325.0
+Samburu,2021,irish_potatoes,area_ha,20.0
+Samburu,2021,irish_potatoes,production_tons,160.0
+Samburu,2022,irish_potatoes,area_ha,50.0
+Samburu,2022,irish_potatoes,production_tons,450.0
+Samburu,2023,irish_potatoes,area_ha,322.0
+Samburu,2023,irish_potatoes,production_tons,2355.0
+Samburu,2024,irish_potatoes,area_ha,110.0
+Samburu,2024,irish_potatoes,production_tons,859.0
+Taita Taveta,2019,irish_potatoes,area_ha,33.0
+Taita Taveta,2019,irish_potatoes,production_tons,561.0
+Taita Taveta,2020,irish_potatoes,area_ha,36.0
+Taita Taveta,2020,irish_potatoes,production_tons,578.0
+Taita Taveta,2021,irish_potatoes,area_ha,738.0
+Taita Taveta,2021,irish_potatoes,production_tons,1360.0
+Taita Taveta,2022,irish_potatoes,area_ha,739.0
+Taita Taveta,2022,irish_potatoes,production_tons,619.0
+Taita Taveta,2023,irish_potatoes,area_ha,553.0
+Taita Taveta,2023,irish_potatoes,production_tons,2467.0
+Taita Taveta,2024,irish_potatoes,area_ha,564.0
+Taita Taveta,2024,irish_potatoes,production_tons,2172.0
+Tharaka Nithi,2020,irish_potatoes,area_ha,62.0
+Tharaka Nithi,2020,irish_potatoes,production_tons,620.0
+Tharaka Nithi,2021,irish_potatoes,area_ha,50.0
+Tharaka Nithi,2021,irish_potatoes,production_tons,525.0
+Tharaka Nithi,2022,irish_potatoes,area_ha,20.0
+Tharaka Nithi,2022,irish_potatoes,production_tons,4.0
+Tharaka Nithi,2023,irish_potatoes,area_ha,61.0
+Tharaka Nithi,2023,irish_potatoes,production_tons,538.0
+Tharaka Nithi,2024,irish_potatoes,area_ha,11.0
+Tharaka Nithi,2024,irish_potatoes,production_tons,141.0
+Trans Nzoia,2019,irish_potatoes,area_ha,1653.0
+Trans Nzoia,2019,irish_potatoes,production_tons,15000.0
+Trans Nzoia,2020,irish_potatoes,area_ha,1675.0
+Trans Nzoia,2020,irish_potatoes,production_tons,9750.0
+Trans Nzoia,2021,irish_potatoes,area_ha,1758.0
+Trans Nzoia,2021,irish_potatoes,production_tons,9940.0
+Trans Nzoia,2022,irish_potatoes,area_ha,2765.0
+Trans Nzoia,2022,irish_potatoes,production_tons,33180.0
+Trans Nzoia,2023,irish_potatoes,area_ha,1635.0
+Trans Nzoia,2023,irish_potatoes,production_tons,13181.0
+Trans Nzoia,2024,irish_potatoes,area_ha,2566.0
+Trans Nzoia,2024,irish_potatoes,production_tons,26718.0
+Uasin Gishu,2019,irish_potatoes,area_ha,4053.0
+Uasin Gishu,2019,irish_potatoes,production_tons,40000.0
+Uasin Gishu,2020,irish_potatoes,area_ha,7189.0
+Uasin Gishu,2020,irish_potatoes,production_tons,54367.0
+Uasin Gishu,2021,irish_potatoes,area_ha,7237.0
+Uasin Gishu,2021,irish_potatoes,production_tons,56659.0
+Uasin Gishu,2022,irish_potatoes,area_ha,6856.0
+Uasin Gishu,2022,irish_potatoes,production_tons,50853.0
+Uasin Gishu,2023,irish_potatoes,area_ha,7699.0
+Uasin Gishu,2023,irish_potatoes,production_tons,55590.0
+Uasin Gishu,2024,irish_potatoes,area_ha,5366.0
+Uasin Gishu,2024,irish_potatoes,production_tons,70139.0
+West Pokot,2019,irish_potatoes,area_ha,1800.0
+West Pokot,2019,irish_potatoes,production_tons,26563.0
+West Pokot,2020,irish_potatoes,area_ha,1750.0
+West Pokot,2020,irish_potatoes,production_tons,17500.0
+West Pokot,2021,irish_potatoes,area_ha,2517.0
+West Pokot,2021,irish_potatoes,production_tons,24365.0
+West Pokot,2022,irish_potatoes,area_ha,1858.0
+West Pokot,2022,irish_potatoes,production_tons,16135.0
+West Pokot,2023,irish_potatoes,area_ha,8009.0
+West Pokot,2023,irish_potatoes,production_tons,96109.0
+West Pokot,2024,irish_potatoes,area_ha,2456.0
+West Pokot,2024,irish_potatoes,production_tons,27994.0
+Bomet,2019,tea,made_tea_kg,80542972.0
+Bomet,2019,tea,green_leaf_tea_kg,
+Bomet,2020,tea,made_tea_kg,91506860.0
+Bomet,2020,tea,green_leaf_tea_kg,388904155.0
+Bomet,2021,tea,made_tea_kg,92503333.0
+Bomet,2021,tea,green_leaf_tea_kg,393139166.0
+Bomet,2022,tea,made_tea_kg,97164045.0
+Bomet,2022,tea,green_leaf_tea_kg,412947191.0
+Bomet,2023,tea,made_tea_kg,110665892.0
+Bomet,2023,tea,green_leaf_tea_kg,470330041.0
+Bomet,2024,tea,made_tea_kg,115112487.8
+Bomet,2024,tea,green_leaf_tea_kg,489228073.1
+Elgeyo Marakwet,2020,tea,made_tea_kg,1258509.0
+Elgeyo Marakwet,2020,tea,green_leaf_tea_kg,5348663.0
+Elgeyo Marakwet,2021,tea,made_tea_kg,2532537.0
+Elgeyo Marakwet,2021,tea,green_leaf_tea_kg,10763282.0
+Elgeyo Marakwet,2022,tea,made_tea_kg,2352684.0
+Elgeyo Marakwet,2022,tea,green_leaf_tea_kg,9998907.0
+Elgeyo Marakwet,2023,tea,made_tea_kg,2062108.0
+Elgeyo Marakwet,2023,tea,green_leaf_tea_kg,8763959.0
+Elgeyo Marakwet,2024,tea,made_tea_kg,953060.0
+Elgeyo Marakwet,2024,tea,green_leaf_tea_kg,4050505.0
+Embu,2019,tea,made_tea_kg,11957213.0
+Embu,2019,tea,green_leaf_tea_kg,
+Embu,2020,tea,made_tea_kg,14764654.0
+Embu,2020,tea,green_leaf_tea_kg,62749779.0
+Embu,2021,tea,made_tea_kg,12459102.0
+Embu,2021,tea,green_leaf_tea_kg,52951182.0
+Embu,2022,tea,made_tea_kg,12574749.0
+Embu,2022,tea,green_leaf_tea_kg,53442682.0
+Embu,2023,tea,made_tea_kg,13150541.0
+Embu,2023,tea,green_leaf_tea_kg,55889799.0
+Embu,2024,tea,made_tea_kg,13751303.7
+Embu,2024,tea,green_leaf_tea_kg,58443040.8
+Kakamega,2020,tea,made_tea_kg,
+Kakamega,2020,tea,green_leaf_tea_kg,14119034.0
+Kakamega,2021,tea,made_tea_kg,
+Kakamega,2021,tea,green_leaf_tea_kg,10899848.0
+Kakamega,2022,tea,made_tea_kg,
+Kakamega,2022,tea,green_leaf_tea_kg,9018857.0
+Kakamega,2023,tea,made_tea_kg,
+Kakamega,2023,tea,green_leaf_tea_kg,10411841.0
+Kakamega,2024,tea,made_tea_kg,
+Kakamega,2024,tea,green_leaf_tea_kg,13562992.4
+Kakamega/Vihiga,2019,tea,made_tea_kg,3549444.0
+Kakamega/Vihiga,2019,tea,green_leaf_tea_kg,
+Kakamega/Vihiga,2020,tea,made_tea_kg,3322126.0
+Kakamega/Vihiga,2020,tea,green_leaf_tea_kg,
+Kakamega/Vihiga,2021,tea,made_tea_kg,2564670.0
+Kakamega/Vihiga,2021,tea,green_leaf_tea_kg,
+Kakamega/Vihiga,2022,tea,made_tea_kg,2122084.0
+Kakamega/Vihiga,2022,tea,green_leaf_tea_kg,
+Kakamega/Vihiga,2023,tea,made_tea_kg,2449845.0
+Kakamega/Vihiga,2023,tea,green_leaf_tea_kg,
+Kakamega/Vihiga,2024,tea,made_tea_kg,3191292.3
+Kakamega/Vihiga,2024,tea,green_leaf_tea_kg,
+Kericho,2019,tea,made_tea_kg,85540642.0
+Kericho,2019,tea,green_leaf_tea_kg,
+Kericho,2020,tea,made_tea_kg,102580820.0
+Kericho,2020,tea,green_leaf_tea_kg,435968487.0
+Kericho,2021,tea,made_tea_kg,102421046.0
+Kericho,2021,tea,green_leaf_tea_kg,435289445.0
+Kericho,2022,tea,made_tea_kg,101868782.0
+Kericho,2022,tea,green_leaf_tea_kg,432942324.0
+Kericho,2023,tea,made_tea_kg,104846091.0
+Kericho,2023,tea,green_leaf_tea_kg,445595887.0
+Kericho,2024,tea,made_tea_kg,105842845.0
+Kericho,2024,tea,green_leaf_tea_kg,449832091.1
+Kiambu,2019,tea,made_tea_kg,38109742.0
+Kiambu,2019,tea,green_leaf_tea_kg,
+Kiambu,2020,tea,made_tea_kg,47998529.0
+Kiambu,2020,tea,green_leaf_tea_kg,203993750.0
+Kiambu,2021,tea,made_tea_kg,41439513.0
+Kiambu,2021,tea,green_leaf_tea_kg,176117931.0
+Kiambu,2022,tea,made_tea_kg,39427425.0
+Kiambu,2022,tea,green_leaf_tea_kg,167566554.0
+Kiambu,2023,tea,made_tea_kg,38992088.0
+Kiambu,2023,tea,green_leaf_tea_kg,165716372.0
+Kiambu,2024,tea,made_tea_kg,42699819.8
+Kiambu,2024,tea,green_leaf_tea_kg,181474234.3
+Kirinyaga,2019,tea,made_tea_kg,17941192.0
+Kirinyaga,2019,tea,green_leaf_tea_kg,
+Kirinyaga,2020,tea,made_tea_kg,22592750.0
+Kirinyaga,2020,tea,green_leaf_tea_kg,96019187.0
+Kirinyaga,2021,tea,made_tea_kg,20775793.0
+Kirinyaga,2021,tea,green_leaf_tea_kg,88297120.0
+Kirinyaga,2022,tea,made_tea_kg,18223513.0
+Kirinyaga,2022,tea,green_leaf_tea_kg,77449931.0
+Kirinyaga,2023,tea,made_tea_kg,20928919.0
+Kirinyaga,2023,tea,green_leaf_tea_kg,88947907.0
+Kirinyaga,2024,tea,made_tea_kg,22645841.6
+Kirinyaga,2024,tea,green_leaf_tea_kg,96244826.8
+Kisii,2019,tea,made_tea_kg,19794854.0
+Kisii,2019,tea,green_leaf_tea_kg,
+Kisii,2020,tea,made_tea_kg,23630551.0
+Kisii,2020,tea,green_leaf_tea_kg,100429842.0
+Kisii,2021,tea,made_tea_kg,18594477.0
+Kisii,2021,tea,green_leaf_tea_kg,79026525.0
+Kisii,2022,tea,made_tea_kg,19867507.0
+Kisii,2022,tea,green_leaf_tea_kg,84436904.0
+Kisii,2023,tea,made_tea_kg,18607195.0
+Kisii,2023,tea,green_leaf_tea_kg,79080581.0
+Kisii,2024,tea,made_tea_kg,24009924.7
+Kisii,2024,tea,green_leaf_tea_kg,102042179.8
+Meru,2019,tea,made_tea_kg,27367857.0
+Meru,2019,tea,green_leaf_tea_kg,
+Meru,2020,tea,made_tea_kg,32158861.0
+Meru,2020,tea,green_leaf_tea_kg,136675160.0
+Meru,2021,tea,made_tea_kg,29489388.0
+Meru,2021,tea,green_leaf_tea_kg,125329901.0
+Meru,2022,tea,made_tea_kg,31756603.0
+Meru,2022,tea,green_leaf_tea_kg,134965561.0
+Meru,2023,tea,made_tea_kg,32776592.0
+Meru,2023,tea,green_leaf_tea_kg,139300516.0
+Meru,2024,tea,made_tea_kg,31048824.4
+Meru,2024,tea,green_leaf_tea_kg,131957503.7
+Muranga,2019,tea,made_tea_kg,42371117.0
+Muranga,2019,tea,green_leaf_tea_kg,
+Muranga,2020,tea,made_tea_kg,53666315.0
+Muranga,2020,tea,green_leaf_tea_kg,228081839.0
+Muranga,2021,tea,made_tea_kg,48806191.0
+Muranga,2021,tea,green_leaf_tea_kg,207426312.0
+Muranga,2022,tea,made_tea_kg,47471194.0
+Muranga,2022,tea,green_leaf_tea_kg,201752575.0
+Muranga,2023,tea,made_tea_kg,47260212.0
+Muranga,2023,tea,green_leaf_tea_kg,200855899.0
+Muranga,2024,tea,made_tea_kg,51062213.4
+Muranga,2024,tea,green_leaf_tea_kg,217014406.9
+Nakuru,2019,tea,made_tea_kg,4004614.0
+Nakuru,2019,tea,green_leaf_tea_kg,
+Nakuru,2020,tea,made_tea_kg,5128681.0
+Nakuru,2020,tea,green_leaf_tea_kg,21796894.0
+Nakuru,2021,tea,made_tea_kg,5294344.0
+Nakuru,2021,tea,green_leaf_tea_kg,22500962.0
+Nakuru,2022,tea,made_tea_kg,7942148.0
+Nakuru,2022,tea,green_leaf_tea_kg,33754129.0
+Nakuru,2023,tea,made_tea_kg,8499321.0
+Nakuru,2023,tea,green_leaf_tea_kg,36122114.0
+Nakuru,2024,tea,made_tea_kg,7408918.0
+Nakuru,2024,tea,green_leaf_tea_kg,31487901.5
+Nandi,2019,tea,made_tea_kg,67006156.0
+Nandi,2019,tea,green_leaf_tea_kg,
+Nandi,2020,tea,made_tea_kg,92700447.0
+Nandi,2020,tea,green_leaf_tea_kg,393976902.0
+Nandi,2021,tea,made_tea_kg,89577980.0
+Nandi,2021,tea,green_leaf_tea_kg,380706414.0
+Nandi,2022,tea,made_tea_kg,87013756.0
+Nandi,2022,tea,green_leaf_tea_kg,369808464.0
+Nandi,2023,tea,made_tea_kg,97681320.0
+Nandi,2023,tea,green_leaf_tea_kg,415145611.0
+Nandi,2024,tea,made_tea_kg,108843413.4
+Nandi,2024,tea,green_leaf_tea_kg,462584506.8
+Narok,2020,tea,made_tea_kg,3237154.0
+Narok,2020,tea,green_leaf_tea_kg,13757905.0
+Narok,2021,tea,made_tea_kg,3157342.0
+Narok,2021,tea,green_leaf_tea_kg,13418704.0
+Narok,2022,tea,made_tea_kg,3109657.0
+Narok,2022,tea,green_leaf_tea_kg,13216042.0
+Narok,2023,tea,made_tea_kg,3748278.0
+Narok,2023,tea,green_leaf_tea_kg,15930182.0
+Narok,2024,tea,made_tea_kg,3383666.0
+Narok,2024,tea,green_leaf_tea_kg,14380580.5
+Nyamira,2019,tea,made_tea_kg,33487196.0
+Nyamira,2019,tea,green_leaf_tea_kg,
+Nyamira,2020,tea,made_tea_kg,41461354.0
+Nyamira,2020,tea,green_leaf_tea_kg,176210755.0
+Nyamira,2021,tea,made_tea_kg,38882810.0
+Nyamira,2021,tea,green_leaf_tea_kg,165251944.0
+Nyamira,2022,tea,made_tea_kg,37842685.0
+Nyamira,2022,tea,green_leaf_tea_kg,160831410.0
+Nyamira,2023,tea,made_tea_kg,39302809.0
+Nyamira,2023,tea,green_leaf_tea_kg,167036937.0
+Nyamira,2024,tea,made_tea_kg,37030717.0
+Nyamira,2024,tea,green_leaf_tea_kg,157380547.1
+Nyeri,2019,tea,made_tea_kg,19235307.0
+Nyeri,2019,tea,green_leaf_tea_kg,
+Nyeri,2020,tea,made_tea_kg,24860707.0
+Nyeri,2020,tea,green_leaf_tea_kg,105658005.0
+Nyeri,2021,tea,made_tea_kg,22522871.0
+Nyeri,2021,tea,green_leaf_tea_kg,95722202.0
+Nyeri,2022,tea,made_tea_kg,19313744.0
+Nyeri,2022,tea,green_leaf_tea_kg,82083412.0
+Nyeri,2023,tea,made_tea_kg,21669900.0
+Nyeri,2023,tea,green_leaf_tea_kg,92097075.0
+Nyeri,2024,tea,made_tea_kg,24347629.0
+Nyeri,2024,tea,green_leaf_tea_kg,103477423.3
+Tharaka - Nithi,2019,tea,made_tea_kg,4232604.0
+Tharaka - Nithi,2019,tea,green_leaf_tea_kg,
+Tharaka - Nithi,2020,tea,made_tea_kg,5012526.0
+Tharaka - Nithi,2020,tea,green_leaf_tea_kg,21303236.0
+Tharaka - Nithi,2021,tea,made_tea_kg,4106309.0
+Tharaka - Nithi,2021,tea,green_leaf_tea_kg,17451813.0
+Tharaka - Nithi,2022,tea,made_tea_kg,4416613.0
+Tharaka - Nithi,2022,tea,green_leaf_tea_kg,18770605.0
+Tharaka - Nithi,2023,tea,made_tea_kg,4658970.0
+Tharaka - Nithi,2023,tea,green_leaf_tea_kg,19800623.0
+Tharaka - Nithi,2024,tea,made_tea_kg,4859909.0
+Tharaka - Nithi,2024,tea,green_leaf_tea_kg,20654613.3
+Trans-Nzoia,2020,tea,made_tea_kg,
+Trans-Nzoia,2020,tea,green_leaf_tea_kg,15532186.0
+Trans-Nzoia,2021,tea,made_tea_kg,
+Trans-Nzoia,2021,tea,green_leaf_tea_kg,11496816.0
+Trans-Nzoia,2022,tea,made_tea_kg,
+Trans-Nzoia,2022,tea,green_leaf_tea_kg,10950158.0
+Trans-Nzoia,2023,tea,made_tea_kg,
+Trans-Nzoia,2023,tea,green_leaf_tea_kg,12580413.0
+Trans-Nzoia,2024,tea,made_tea_kg,
+Trans-Nzoia,2024,tea,green_leaf_tea_kg,9714904.4
+Trans-Nzoia/Bungoma,2019,tea,made_tea_kg,3712039.0
+Trans-Nzoia/Bungoma,2019,tea,green_leaf_tea_kg,
+Trans-Nzoia/Bungoma,2020,tea,made_tea_kg,3654632.0
+Trans-Nzoia/Bungoma,2020,tea,green_leaf_tea_kg,
+Trans-Nzoia/Bungoma,2021,tea,made_tea_kg,2705133.0
+Trans-Nzoia/Bungoma,2021,tea,green_leaf_tea_kg,
+Trans-Nzoia/Bungoma,2022,tea,made_tea_kg,2576508.0
+Trans-Nzoia/Bungoma,2022,tea,green_leaf_tea_kg,
+Trans-Nzoia/Bungoma,2023,tea,made_tea_kg,2960097.0
+Trans-Nzoia/Bungoma,2023,tea,green_leaf_tea_kg,
+Trans-Nzoia/Bungoma,2024,tea,made_tea_kg,2285859.9
+Trans-Nzoia/Bungoma,2024,tea,green_leaf_tea_kg,
+Baringo,2021/22,coffee,total_area_ha,1215.4
+Baringo,2022/23,coffee,total_area_ha,1355.0
+Baringo,2023/24,coffee,total_area_ha,1562.0
+Bomet,2021/22,coffee,total_area_ha,273.0
+Bomet,2022/23,coffee,total_area_ha,293.0
+Bomet,2023/24,coffee,total_area_ha,304.0
+Bungoma,2021/22,coffee,total_area_ha,7725.0
+Bungoma,2022/23,coffee,total_area_ha,8098.0
+Bungoma,2023/24,coffee,total_area_ha,8262.0
+Busia,2021/22,coffee,total_area_ha,204.0
+Busia,2022/23,coffee,total_area_ha,212.0
+Busia,2023/24,coffee,total_area_ha,103.0
+Embu,2021/22,coffee,total_area_ha,6881.9
+Embu,2022/23,coffee,total_area_ha,6888.0
+Embu,2023/24,coffee,total_area_ha,7078.0
+Homa Bay,2021/22,coffee,total_area_ha,429.0
+Homa Bay,2022/23,coffee,total_area_ha,455.0
+Homa Bay,2023/24,coffee,total_area_ha,464.0
+Kajiado,2021/22,coffee,total_area_ha,5.4
+Kajiado,2022/23,coffee,total_area_ha,15.0
+Kajiado,2023/24,coffee,total_area_ha,17.0
+Kakamega,2021/22,coffee,total_area_ha,351.0
+Kakamega,2022/23,coffee,total_area_ha,384.0
+Kakamega,2023/24,coffee,total_area_ha,400.0
+Kericho,2021/22,coffee,total_area_ha,4842.0
+Kericho,2022/23,coffee,total_area_ha,5099.0
+Kericho,2023/24,coffee,total_area_ha,5457.0
+Kiambu,2021/22,coffee,total_area_ha,20369.0
+Kiambu,2022/23,coffee,total_area_ha,20369.0
+Kiambu,2023/24,coffee,total_area_ha,19746.0
+Kirinyaga,2021/22,coffee,total_area_ha,10089.1
+Kirinyaga,2022/23,coffee,total_area_ha,10213.0
+Kirinyaga,2023/24,coffee,total_area_ha,10412.0
+Kisii,2021/22,coffee,total_area_ha,4579.0
+Kisii,2022/23,coffee,total_area_ha,4590.0
+Kisii,2023/24,coffee,total_area_ha,4683.0
+Kisumu,2021/22,coffee,total_area_ha,106.0
+Kisumu,2022/23,coffee,total_area_ha,237.0
+Kisumu,2023/24,coffee,total_area_ha,250.0
+Laikipia,2021/22,coffee,total_area_ha,56.4
+Laikipia,2022/23,coffee,total_area_ha,58.0
+Laikipia,2023/24,coffee,total_area_ha,77.0
+Machakos,2021/22,coffee,total_area_ha,8013.0
+Machakos,2022/23,coffee,total_area_ha,8029.0
+Machakos,2023/24,coffee,total_area_ha,8098.0
+Makueni,2021/22,coffee,total_area_ha,1695.0
+Makueni,2022/23,coffee,total_area_ha,1695.0
+Makueni,2023/24,coffee,total_area_ha,1841.0
+Meru,2021/22,coffee,total_area_ha,8708.4
+Meru,2022/23,coffee,total_area_ha,8787.0
+Meru,2023/24,coffee,total_area_ha,8995.0
+Migori,2021/22,coffee,total_area_ha,835.0
+Migori,2022/23,coffee,total_area_ha,835.0
+Migori,2023/24,coffee,total_area_ha,857.0
+Murang'a,2021/22,coffee,total_area_ha,9413.0
+Murang'a,2022/23,coffee,total_area_ha,9471.0
+Murang'a,2023/24,coffee,total_area_ha,9321.0
+Nakuru,2021/22,coffee,total_area_ha,1999.2
+Nakuru,2022/23,coffee,total_area_ha,2052.0
+Nakuru,2023/24,coffee,total_area_ha,2097.0
+Nandi,2021/22,coffee,total_area_ha,1915.0
+Nandi,2022/23,coffee,total_area_ha,2319.0
+Nandi,2023/24,coffee,total_area_ha,2486.0
+Narok,2021/22,coffee,total_area_ha,337.2
+Narok,2022/23,coffee,total_area_ha,360.0
+Narok,2023/24,coffee,total_area_ha,377.0
+Nyamira,2021/22,coffee,total_area_ha,2710.5
+Nyamira,2022/23,coffee,total_area_ha,2711.0
+Nyamira,2023/24,coffee,total_area_ha,2781.0
+Nyeri,2021/22,coffee,total_area_ha,9841.0
+Nyeri,2022/23,coffee,total_area_ha,9987.0
+Nyeri,2023/24,coffee,total_area_ha,10016.0
+Tharaka Nithi,2021/22,coffee,total_area_ha,3680.9
+Tharaka Nithi,2022/23,coffee,total_area_ha,3741.0
+Tharaka Nithi,2023/24,coffee,total_area_ha,3858.0
+Trans Nzoia,2021/22,coffee,total_area_ha,2198.0
+Trans Nzoia,2022/23,coffee,total_area_ha,2360.0
+Trans Nzoia,2023/24,coffee,total_area_ha,2406.0
+Uasin Gishu,2021/22,coffee,total_area_ha,341.0
+Uasin Gishu,2022/23,coffee,total_area_ha,662.0
+Uasin Gishu,2023/24,coffee,total_area_ha,723.0
+Vihiga,2021/22,coffee,total_area_ha,15.0
+Vihiga,2022/23,coffee,total_area_ha,19.0
+Vihiga,2023/24,coffee,total_area_ha,20.0
+West Pokot,2021/22,coffee,total_area_ha,178.0
+West Pokot,2022/23,coffee,total_area_ha,186.0
+West Pokot,2023/24,coffee,total_area_ha,207.0

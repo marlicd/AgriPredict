@@ -1,0 +1,253 @@
+county,year,crop,area_ha,production_tons
+Baringo,2019,sorghum,1028.0,1209.0
+Baringo,2020,sorghum,1467.0,2261.0
+Baringo,2021,sorghum,1448.0,562.0
+Baringo,2022,sorghum,1590.0,557.0
+Baringo,2023,sorghum,1666.0,1822.0
+Baringo,2024,sorghum,1750.0,2296.0
+Bomet,2019,sorghum,1535.0,2959.0
+Bomet,2020,sorghum,2165.0,4920.0
+Bomet,2021,sorghum,2046.0,4245.0
+Bomet,2022,sorghum,1777.0,2138.0
+Bomet,2023,sorghum,734.0,1148.0
+Bomet,2024,sorghum,1333.0,1434.0
+Bungoma,2019,sorghum,532.0,800.0
+Bungoma,2020,sorghum,599.0,916.0
+Bungoma,2021,sorghum,510.0,765.0
+Bungoma,2022,sorghum,516.0,631.0
+Bungoma,2023,sorghum,488.0,762.0
+Bungoma,2024,sorghum,516.0,860.0
+Busia,2019,sorghum,10318.0,14996.0
+Busia,2020,sorghum,9574.0,11060.0
+Busia,2021,sorghum,8865.0,5984.0
+Busia,2022,sorghum,5044.0,5079.0
+Busia,2023,sorghum,5392.0,7710.0
+Busia,2024,sorghum,5891.0,8001.0
+Elgeyo Marakwet,2020,sorghum,325.0,393.0
+Elgeyo Marakwet,2021,sorghum,740.0,915.0
+Elgeyo Marakwet,2022,sorghum,735.0,936.0
+Elgeyo Marakwet,2023,sorghum,1072.0,1996.0
+Elgeyo Marakwet,2024,sorghum,1150.0,2607.0
+Embu,2019,sorghum,7043.0,8375.0
+Embu,2020,sorghum,6425.0,3358.0
+Embu,2021,sorghum,5138.0,1389.0
+Embu,2022,sorghum,3741.0,1629.0
+Embu,2023,sorghum,3857.0,6491.0
+Embu,2024,sorghum,2854.0,1127.0
+Garissa,2019,sorghum,49.0,34.0
+Garissa,2020,sorghum,81.0,196.0
+Garissa,2021,sorghum,69.0,71.0
+Garissa,2022,sorghum,53.0,47.0
+Garissa,2023,sorghum,130.0,111.0
+Garissa,2024,sorghum,144.0,126.0
+Homa Bay,2019,sorghum,26503.0,27243.0
+Homa Bay,2020,sorghum,25377.0,26489.0
+Homa Bay,2021,sorghum,20466.0,22691.0
+Homa Bay,2022,sorghum,32585.0,20965.0
+Homa Bay,2023,sorghum,24740.0,28042.0
+Homa Bay,2024,sorghum,36052.0,48347.0
+Isiolo,2019,sorghum,37.0,7.0
+Isiolo,2020,sorghum,0.0,0.0
+Isiolo,2021,sorghum,6.0,6.0
+Isiolo,2022,sorghum,0.0,0.0
+Isiolo,2023,sorghum,0.0,0.0
+Isiolo,2024,sorghum,0.0,0.0
+Kajiado,2019,sorghum,10.0,9.0
+Kajiado,2020,sorghum,10.0,9.0
+Kajiado,2021,sorghum,15.0,22.0
+Kajiado,2022,sorghum,9.0,5.0
+Kajiado,2023,sorghum,2.0,2.0
+Kajiado,2024,sorghum,36.0,39.0
+Kakamega,2019,sorghum,494.0,618.0
+Kakamega,2020,sorghum,387.0,505.0
+Kakamega,2021,sorghum,656.0,755.0
+Kakamega,2022,sorghum,669.0,446.0
+Kakamega,2023,sorghum,448.0,575.0
+Kakamega,2024,sorghum,895.0,860.0
+Kericho,2019,sorghum,675.0,1215.0
+Kericho,2020,sorghum,735.0,1440.0
+Kericho,2021,sorghum,764.0,1375.0
+Kericho,2022,sorghum,954.0,1288.0
+Kericho,2023,sorghum,985.0,1064.0
+Kericho,2024,sorghum,1049.0,1228.0
+Kiambu,2019,sorghum,100.0,59.0
+Kiambu,2020,sorghum,0.0,0.0
+Kiambu,2021,sorghum,0.0,0.0
+Kiambu,2022,sorghum,0.0,0.0
+Kiambu,2023,sorghum,28.0,25.0
+Kiambu,2024,sorghum,10.0,14.0
+Kilifi,2019,sorghum,408.0,580.0
+Kilifi,2020,sorghum,403.0,76.0
+Kilifi,2021,sorghum,391.0,112.0
+Kilifi,2022,sorghum,372.0,42.0
+Kilifi,2023,sorghum,243.0,45.0
+Kilifi,2024,sorghum,26.0,6.0
+Kirinyaga,2019,sorghum,88.0,59.0
+Kirinyaga,2020,sorghum,93.0,108.0
+Kirinyaga,2021,sorghum,86.0,71.0
+Kirinyaga,2022,sorghum,73.0,25.0
+Kirinyaga,2023,sorghum,110.0,149.0
+Kirinyaga,2024,sorghum,40.0,61.0
+Kisii,2019,sorghum,146.0,152.0
+Kisii,2020,sorghum,98.0,80.0
+Kisii,2021,sorghum,94.0,160.0
+Kisii,2022,sorghum,85.0,67.0
+Kisii,2023,sorghum,117.0,98.0
+Kisii,2024,sorghum,257.0,242.0
+Kisumu,2019,sorghum,22540.0,21800.0
+Kisumu,2020,sorghum,20740.0,22974.0
+Kisumu,2021,sorghum,20800.0,19742.0
+Kisumu,2022,sorghum,16460.0,11851.0
+Kisumu,2023,sorghum,21500.0,26946.0
+Kisumu,2024,sorghum,21600.0,24246.0
+Kitui,2019,sorghum,70384.0,125000.0
+Kitui,2020,sorghum,67872.0,162004.0
+Kitui,2021,sorghum,70509.0,20494.0
+Kitui,2022,sorghum,66391.0,19479.0
+Kitui,2023,sorghum,68755.0,37325.0
+Kitui,2024,sorghum,60608.0,19836.0
+Kwale,2019,sorghum,1226.0,1800.0
+Kwale,2020,sorghum,718.0,574.0
+Kwale,2021,sorghum,718.0,1026.0
+Kwale,2022,sorghum,50.0,23.0
+Kwale,2023,sorghum,308.0,190.0
+Kwale,2024,sorghum,301.0,198.0
+Laikipia,2019,sorghum,514.0,559.0
+Lamu,2019,sorghum,572.0,777.0
+Lamu,2020,sorghum,800.0,1663.0
+Lamu,2021,sorghum,30.0,34.0
+Lamu,2022,sorghum,950.0,960.0
+Lamu,2023,sorghum,2004.0,2839.0
+Lamu,2024,sorghum,630.0,1133.0
+Machakos,2019,sorghum,10952.0,8584.0
+Machakos,2020,sorghum,9682.0,4548.0
+Machakos,2021,sorghum,8095.0,5053.0
+Machakos,2022,sorghum,9238.0,6008.0
+Machakos,2023,sorghum,5456.0,2010.0
+Machakos,2024,sorghum,2276.0,501.0
+Makueni,2019,sorghum,10776.0,11380.0
+Makueni,2020,sorghum,8495.0,8153.0
+Makueni,2021,sorghum,8256.0,5175.0
+Makueni,2022,sorghum,7582.0,4725.0
+Makueni,2023,sorghum,7113.0,2532.0
+Makueni,2024,sorghum,7435.0,2098.0
+Mandera,2019,sorghum,937.0,499.0
+Mandera,2020,sorghum,1255.0,738.0
+Mandera,2021,sorghum,1204.0,786.0
+Mandera,2022,sorghum,869.0,616.0
+Mandera,2023,sorghum,1345.0,1035.0
+Mandera,2024,sorghum,1108.0,891.0
+Marsabit,2019,sorghum,50.0,16.0
+Marsabit,2020,sorghum,69.0,17.0
+Marsabit,2021,sorghum,69.0,11.0
+Marsabit,2022,sorghum,76.0,3.0
+Marsabit,2023,sorghum,106.0,140.0
+Marsabit,2024,sorghum,112.0,87.0
+Meru,2019,sorghum,12918.0,9970.0
+Meru,2020,sorghum,10519.0,11903.0
+Meru,2021,sorghum,9368.0,7752.0
+Meru,2022,sorghum,9603.0,7978.0
+Meru,2023,sorghum,10897.0,34340.0
+Meru,2024,sorghum,40991.0,30709.0
+Migori,2019,sorghum,11355.0,9080.0
+Migori,2020,sorghum,7034.0,4936.0
+Migori,2021,sorghum,4381.0,3538.0
+Migori,2022,sorghum,4514.0,3374.0
+Migori,2023,sorghum,5034.0,3922.0
+Migori,2024,sorghum,28225.0,60891.0
+Murang'a,2019,sorghum,131.0,117.0
+Murang'a,2020,sorghum,164.0,107.0
+Murang'a,2021,sorghum,223.0,189.0
+Murang'a,2022,sorghum,126.0,79.0
+Murang'a,2023,sorghum,203.0,143.0
+Murang'a,2024,sorghum,210.0,188.0
+Nairobi,2019,sorghum,7.0,6.0
+Nairobi,2020,sorghum,5.0,3.0
+Nairobi,2021,sorghum,7.0,16.0
+Nairobi,2022,sorghum,4.0,2.0
+Nairobi,2023,sorghum,5.0,4.0
+Nairobi,2024,sorghum,4.0,3.0
+Nakuru,2019,sorghum,806.0,1486.0
+Nakuru,2020,sorghum,713.0,1054.0
+Nakuru,2021,sorghum,560.0,858.0
+Nakuru,2022,sorghum,480.0,602.0
+Nakuru,2023,sorghum,559.0,856.0
+Nakuru,2024,sorghum,660.0,1138.0
+Nandi,2019,sorghum,214.0,340.0
+Nandi,2020,sorghum,140.0,303.0
+Nandi,2021,sorghum,127.0,223.0
+Nandi,2022,sorghum,162.0,269.0
+Nandi,2023,sorghum,463.0,760.0
+Nandi,2024,sorghum,88.0,145.0
+Narok,2019,sorghum,898.0,1431.0
+Narok,2020,sorghum,843.0,1143.0
+Narok,2021,sorghum,1525.0,879.0
+Narok,2022,sorghum,1044.0,1160.0
+Narok,2023,sorghum,1486.0,2391.0
+Narok,2024,sorghum,1362.0,2134.0
+Nyamira,2019,sorghum,81.0,59.0
+Nyamira,2020,sorghum,44.0,47.0
+Nyamira,2021,sorghum,39.0,45.0
+Nyamira,2022,sorghum,45.0,38.0
+Nyamira,2023,sorghum,65.0,45.0
+Nyamira,2024,sorghum,54.0,47.0
+Samburu,2019,sorghum,8.0,9.0
+Samburu,2020,sorghum,8.0,5.0
+Samburu,2021,sorghum,8.0,5.0
+Samburu,2022,sorghum,5.0,2.0
+Samburu,2023,sorghum,5.0,2.0
+Samburu,2024,sorghum,2.0,1.0
+Siaya,2019,sorghum,15634.0,16288.0
+Siaya,2020,sorghum,16019.0,14925.0
+Siaya,2021,sorghum,15999.0,15555.0
+Siaya,2022,sorghum,14643.0,15183.0
+Siaya,2023,sorghum,15046.0,14876.0
+Siaya,2024,sorghum,10438.0,15007.0
+Taita Taveta,2019,sorghum,2435.0,3972.0
+Taita Taveta,2020,sorghum,2071.0,3327.0
+Taita Taveta,2021,sorghum,1446.0,987.0
+Taita Taveta,2022,sorghum,1368.0,849.0
+Taita Taveta,2023,sorghum,1991.0,1193.0
+Taita Taveta,2024,sorghum,1572.0,781.0
+Tharaka Nithi,2019,sorghum,19460.0,12241.0
+Tharaka Nithi,2020,sorghum,18097.0,11972.0
+Tharaka Nithi,2021,sorghum,19127.0,12337.0
+Tharaka Nithi,2022,sorghum,18827.0,11337.0
+Tharaka Nithi,2023,sorghum,18843.0,11066.0
+Tharaka Nithi,2024,sorghum,14675.0,8947.0
+Trans Nzoia,2019,sorghum,307.0,450.0
+Trans Nzoia,2020,sorghum,287.0,386.0
+Trans Nzoia,2021,sorghum,273.0,382.0
+Trans Nzoia,2022,sorghum,315.0,314.0
+Trans Nzoia,2023,sorghum,491.0,988.0
+Trans Nzoia,2024,sorghum,445.0,802.0
+Turkana,2019,sorghum,5682.0,3500.0
+Turkana,2020,sorghum,5520.0,6736.0
+Turkana,2021,sorghum,2580.0,3812.0
+Turkana,2022,sorghum,5108.0,922.0
+Turkana,2023,sorghum,4843.0,3951.0
+Turkana,2024,sorghum,2649.0,1516.0
+Uasin Gishu,2019,sorghum,83.0,159.0
+Uasin Gishu,2020,sorghum,82.0,59.0
+Uasin Gishu,2021,sorghum,75.0,176.0
+Uasin Gishu,2022,sorghum,96.0,99.0
+Uasin Gishu,2023,sorghum,89.0,217.0
+Uasin Gishu,2024,sorghum,132.0,184.0
+Vihiga,2019,sorghum,170.0,285.0
+Vihiga,2020,sorghum,136.0,228.0
+Vihiga,2021,sorghum,162.0,121.0
+Vihiga,2022,sorghum,168.0,103.0
+Vihiga,2023,sorghum,193.0,219.0
+Vihiga,2024,sorghum,303.0,222.0
+Wajir,2019,sorghum,327.0,497.0
+Wajir,2020,sorghum,442.0,199.0
+Wajir,2021,sorghum,412.0,143.0
+Wajir,2022,sorghum,279.0,346.0
+Wajir,2023,sorghum,380.0,324.0
+Wajir,2024,sorghum,541.0,353.0
+West Pokot,2019,sorghum,436.0,654.0
+West Pokot,2020,sorghum,162.0,221.0
+West Pokot,2021,sorghum,331.0,431.0
+West Pokot,2022,sorghum,278.0,245.0
+West Pokot,2023,sorghum,301.0,348.0
+West Pokot,2024,sorghum,1239.0,810.0
